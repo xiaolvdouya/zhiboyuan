@@ -13,4 +13,6 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolvdouya/zhiboyu
  
  M3U转txt前缀  http://103.45.68.47:666/gy/m3u-txt.php?url=
 
-电报：https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolvdouya/live/main/fanmingming.m3u
+
+
+美国中文电视,https://cdnts.sinovision.net/livestream.m3u8
