@@ -1,219 +1,695 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV3
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-#EXTINF:-1 ,CCTV7
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+#EXTINF:-1 ,BTV纪实 LD
+http://ojbk.02200059.xyz:9000/udp/239.21.1.194:5002
+#EXTINF:-1 ,BTV卡酷少儿
+http://ojbk.02200059.xyz:9000/udp/239.21.1.49:5002
+#EXTINF:-1 ,CCTV1
+http://ojbk.02200059.xyz:9000/udp/239.21.1.1:5002
+#EXTINF:-1 ,CCTV1
+http://ojbk.02200059.xyz:9000/udp/239.21.1.120:5002
+#EXTINF:-1 ,CCTV10
+http://ojbk.02200059.xyz:9000/udp/239.21.1.11:5002
+#EXTINF:-1 ,CCTV10
+http://ojbk.02200059.xyz:9000/udp/239.21.1.155:5002
+#EXTINF:-1 ,CCTV11
+http://ojbk.02200059.xyz:9000/udp/239.21.1.12:5002
+#EXTINF:-1 ,CCTV11
+http://ojbk.02200059.xyz:9000/udp/239.21.2.2:5002
+#EXTINF:-1 ,CCTV12
+http://ojbk.02200059.xyz:9000/udp/239.21.1.13:5002
+#EXTINF:-1 ,CCTV12
+http://ojbk.02200059.xyz:9000/udp/239.21.1.156:5002
+#EXTINF:-1 ,CCTV13
+http://ojbk.02200059.xyz:9000/udp/239.21.1.14:5002
+#EXTINF:-1 ,CCTV13
+http://ojbk.02200059.xyz:9000/udp/239.21.2.1:5002
+#EXTINF:-1 ,CCTV13
+http://ojbk.02200059.xyz:9000/udp/239.21.2.3:5002
 #EXTINF:-1 ,CCTV14
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
-#EXTINF:-1 ,哈哈炫动
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
-#EXTINF:-1 ,吉林卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
-#EXTINF:-1 ,广西卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-#EXTINF:-1 ,优漫卡通
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
-#EXTINF:-1 ,大湾区卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+http://ojbk.02200059.xyz:9000/udp/239.21.1.15:5002
+#EXTINF:-1 ,CCTV14
+http://ojbk.02200059.xyz:9000/udp/239.21.1.157:5002
+#EXTINF:-1 ,CCTV15
+http://ojbk.02200059.xyz:9000/udp/239.21.1.16:5002
+#EXTINF:-1 ,CCTV15
+http://ojbk.02200059.xyz:9000/udp/239.21.2.4:5002
+#EXTINF:-1 ,CCTV17
+http://ojbk.02200059.xyz:9000/udp/239.21.1.186:5002
+#EXTINF:-1 ,CCTV17
+http://ojbk.02200059.xyz:9000/udp/239.21.1.206:5002
+#EXTINF:-1 ,CCTV2
+http://ojbk.02200059.xyz:9000/udp/239.21.1.2:5002
+#EXTINF:-1 ,CCTV2
+http://ojbk.02200059.xyz:9000/udp/239.21.1.151:5002
+#EXTINF:-1 ,CCTV3
+http://ojbk.02200059.xyz:9000/udp/239.21.1.3:5002
+#EXTINF:-1 ,CCTV3
+http://ojbk.02200059.xyz:9000/udp/239.21.2.45:5002
+#EXTINF:-1 ,CCTV4
+http://ojbk.02200059.xyz:9000/udp/239.21.1.4:5002
+#EXTINF:-1 ,CCTV4
+http://ojbk.02200059.xyz:9000/udp/239.21.1.154:5002
+#EXTINF:-1 ,CCTV4北美
+http://ojbk.02200059.xyz:9000/udp/239.21.2.29:5002
+#EXTINF:-1 ,CCTV4欧洲
+http://ojbk.02200059.xyz:9000/udp/239.21.2.28:5002
+#EXTINF:-1 ,CCTV5
+http://ojbk.02200059.xyz:9000/udp/239.21.1.5:5002
+#EXTINF:-1 ,CCTV5
+http://ojbk.02200059.xyz:9000/udp/239.21.2.46:5002
+#EXTINF:-1 ,CCTV5+
+http://ojbk.02200059.xyz:9000/udp/239.21.1.142:5002
+#EXTINF:-1 ,CCTV5+ LD
+http://ojbk.02200059.xyz:9000/udp/239.21.1.190:5002
+#EXTINF:-1 ,CCTV6
+http://ojbk.02200059.xyz:9000/udp/239.21.1.6:5002
+#EXTINF:-1 ,CCTV6
+http://ojbk.02200059.xyz:9000/udp/239.21.2.47:5002
+#EXTINF:-1 ,CCTV7
+http://ojbk.02200059.xyz:9000/udp/239.21.1.7:5002
+#EXTINF:-1 ,CCTV7
+http://ojbk.02200059.xyz:9000/udp/239.21.1.152:5002
+#EXTINF:-1 ,CCTV8
+http://ojbk.02200059.xyz:9000/udp/239.21.1.8:5002
+#EXTINF:-1 ,CCTV8
+http://ojbk.02200059.xyz:9000/udp/239.21.2.48:5002
+#EXTINF:-1 ,CCTV9
+http://ojbk.02200059.xyz:9000/udp/239.21.1.9:5002
+#EXTINF:-1 ,CCTV9
+http://ojbk.02200059.xyz:9000/udp/239.21.1.153:5002
+#EXTINF:-1 ,CETV1
+http://ojbk.02200059.xyz:9000/udp/239.21.2.7:5002
+#EXTINF:-1 ,CETV2
+http://ojbk.02200059.xyz:9000/udp/239.21.2.8:5002
+#EXTINF:-1 ,CETV4
+http://ojbk.02200059.xyz:9000/udp/239.21.1.222:5002
+#EXTINF:-1 ,CGTN
+http://ojbk.02200059.xyz:9000/udp/239.21.1.10:5002
+#EXTINF:-1 ,CGTN
+http://ojbk.02200059.xyz:9000/udp/239.21.2.30:5002
+#EXTINF:-1 ,CGTN阿拉伯语
+http://ojbk.02200059.xyz:9000/udp/239.21.2.34:5002
+#EXTINF:-1 ,CGTN俄语
+http://ojbk.02200059.xyz:9000/udp/239.21.2.35:5002
+#EXTINF:-1 ,CGTN法语
+http://ojbk.02200059.xyz:9000/udp/239.21.2.33:5002
+#EXTINF:-1 ,CGTN纪录
+http://ojbk.02200059.xyz:9000/udp/239.21.2.31:5002
+#EXTINF:-1 ,CGTN西班牙语
+http://ojbk.02200059.xyz:9000/udp/239.21.2.32:5002
+#EXTINF:-1 ,IPTV5+
+http://ojbk.02200059.xyz:9000/udp/239.21.1.161:5002
+#EXTINF:-1 ,IPTV经典电影
+http://ojbk.02200059.xyz:9000/udp/239.21.1.124:5002
+#EXTINF:-1 ,IPTV魅力时尚
+http://ojbk.02200059.xyz:9000/udp/239.21.1.129:5002
+#EXTINF:-1 ,IPTV热播剧场
+http://ojbk.02200059.xyz:9000/udp/239.21.1.128:5002
+#EXTINF:-1 ,IPTV少儿动画
+http://ojbk.02200059.xyz:9000/udp/239.21.1.125:5002
+#EXTINF:-1 ,IPTV相声小品
+http://ojbk.02200059.xyz:9000/udp/239.21.1.126:5002
+#EXTINF:-1 ,爱生活
+http://ojbk.02200059.xyz:9000/udp/239.21.1.212:5002
+#EXTINF:-1 ,安徽卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.21:5002
+#EXTINF:-1 ,安徽卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.159:5002
+#EXTINF:-1 ,安丘新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.2.13:5002
+#EXTINF:-1 ,北京纪实
+http://ojbk.02200059.xyz:9000/udp/239.21.1.172:5002
 #EXTINF:-1 ,北京卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
-#EXTINF:-1 ,北京卡酷
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
-#EXTINF:-1 ,冬奥纪实
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
-#EXTINF:-1 ,嘉佳卡通
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
-#EXTINF:-1 ,云南卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
-#EXTINF:-1 ,宁夏卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
-#EXTINF:-1 ,甘肃卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
-#EXTINF:-1 ,西藏卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
-#EXTINF:-1 ,安多卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226228/index.m3u8
-#EXTINF:-1 ,康巴卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
-#EXTINF:-1 ,新疆卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8
+http://ojbk.02200059.xyz:9000/udp/239.21.1.20:5002
+#EXTINF:-1 ,北京卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.88:5002
+#EXTINF:-1 ,滨州公共
+http://ojbk.02200059.xyz:9000/udp/239.21.1.119:5002
+#EXTINF:-1 ,滨州好生新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.238:5002
+#EXTINF:-1 ,滨州新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.118:5002
 #EXTINF:-1 ,兵团卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
-#EXTINF:-1 ,延边卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
-#EXTINF:-1 ,内蒙古卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
-#EXTINF:-1 ,电视指南
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 ,风云足球
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-#EXTINF:-1 ,风云剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-#EXTINF:-1 ,风云音乐
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1 ,央视台球
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-#EXTINF:-1 ,第一剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-#EXTINF:-1 ,女性时尚
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-#EXTINF:-1 ,怀旧剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-#EXTINF:-1 ,兵器科技
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-#EXTINF:-1 ,高尔夫网球
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-#EXTINF:-1 ,央视文化精品
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-#EXTINF:-1 ,哒啵电竞
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8
-#EXTINF:-1 ,哒啵赛事
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226954/index.m3u8
-#EXTINF:-1 ,CHC高清电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 ,CHC家庭影院
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 ,CHC动作电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 ,陕西卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
-#EXTINF:-1 ,农林卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
-#EXTINF:-1 ,陕西一套
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
-#EXTINF:-1 ,陕西二套
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
-#EXTINF:-1 ,陕西三套
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8
-#EXTINF:-1 ,陕西四套
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8
-#EXTINF:-1 ,陕西五套
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/1.m3u8
-#EXTINF:-1 ,陕西六套
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8
-#EXTINF:-1 ,陕西七套
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8
-#EXTINF:-1 ,陕西八套
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
-#EXTINF:-1 ,西安新闻综合
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8
-#EXTINF:-1 ,西安都市
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8
-#EXTINF:-1 ,西安商务资讯
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8
-#EXTINF:-1 ,西安影视
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8
-#EXTINF:-1 ,西安丝路
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
-#EXTINF:-1 ,西安教育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
-#EXTINF:-1 ,咸阳-1
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
-#EXTINF:-1 ,延安-1
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8
-#EXTINF:-1 ,延安-2
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8
-#EXTINF:-1 ,铜川-1
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8
-#EXTINF:-1 ,铜川-2
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8
-#EXTINF:-1 ,宝鸡-1
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8
-#EXTINF:-1 ,宝鸡-2
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226384/1.m3u8
-#EXTINF:-1 ,宁强-1
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226390/1.m3u8
-#EXTINF:-1 ,汉中-1
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
-#EXTINF:-1 ,汉中-3
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225991/index.m3u8
-#EXTINF:-1 ,佛坪-1
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8
-#EXTINF:-1 ,镇巴-1
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226457/1.m3u8
-#EXTINF:-1 ,略阳-1
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
-#EXTINF:-1 ,西乡-1
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226556/index.m3u8
-#EXTINF:-1 ,榆林-1
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8
-#EXTINF:-1 ,商洛-1
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8
-#EXTINF:-1 ,渭南-1
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8
-#EXTINF:-1 ,安康-1
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8
+http://ojbk.02200059.xyz:9000/udp/239.21.1.234:5002
+#EXTINF:-1 ,财富天下
+http://ojbk.02200059.xyz:9000/udp/239.21.1.127:5002
+#EXTINF:-1 ,昌乐新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.245:5002
+#EXTINF:-1 ,昌邑新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.2.27:5002
+#EXTINF:-1 ,超清电影 4K
+http://ojbk.02200059.xyz:9000/udp/239.21.1.179:5002
+#EXTINF:-1 ,车迷
+http://ojbk.02200059.xyz:9000/udp/239.21.2.39:5002
+#EXTINF:-1 ,茌平综合
+http://ojbk.02200059.xyz:9000/udp/239.21.1.219:5002
+#EXTINF:-1 ,单县综合
+http://ojbk.02200059.xyz:9000/udp/239.21.2.21:5002
+#EXTINF:-1 ,德州公共
+http://ojbk.02200059.xyz:9000/udp/239.21.1.76:5002
+#EXTINF:-1 ,德州新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.75:5002
+#EXTINF:-1 ,定陶
+http://ojbk.02200059.xyz:9000/udp/239.21.1.244:5002
+#EXTINF:-1 ,东方卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.23:5002
+#EXTINF:-1 ,东方卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.111:5002
+#EXTINF:-1 ,东明
+http://ojbk.02200059.xyz:9000/udp/239.21.1.246:5002
+#EXTINF:-1 ,东南卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.29:5002
+#EXTINF:-1 ,东南卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.113:5002
+#EXTINF:-1 ,东平新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.216:5002
+#EXTINF:-1 ,东营公共
+http://ojbk.02200059.xyz:9000/udp/239.21.1.82:5002
+#EXTINF:-1 ,东营新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.81:5002
+#EXTINF:-1 ,动作影院
+http://ojbk.02200059.xyz:9000/udp/239.21.1.123:5002
+#EXTINF:-1 ,甘肃卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.47:5002
+#EXTINF:-1 ,甘肃卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.2.22:5002
+#EXTINF:-1 ,冠县综合
+http://ojbk.02200059.xyz:9000/udp/239.21.1.250:5002
+#EXTINF:-1 ,光影
+http://ojbk.02200059.xyz:9000/udp/239.21.1.131:5002
+#EXTINF:-1 ,广播
+http://ojbk.02200059.xyz:9000/udp/239.21.2.36:5002
+#EXTINF:-1 ,广东卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.26:5002
+#EXTINF:-1 ,广东卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.92:5002
+#EXTINF:-1 ,广西卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.39:5002
+#EXTINF:-1 ,贵州卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.42:5002
+#EXTINF:-1 ,贵州卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.166:5002
+#EXTINF:-1 ,哈哈炫动
+http://ojbk.02200059.xyz:9000/udp/239.21.1.51:5002
+#EXTINF:-1 ,海看
+http://ojbk.02200059.xyz:9000/udp/239.21.1.96:5002
+#EXTINF:-1 ,海看爱宠
+http://ojbk.02200059.xyz:9000/udp/239.21.1.85:5002
+#EXTINF:-1 ,海看大片
+http://ojbk.02200059.xyz:9000/udp/239.21.1.99:5002
+#EXTINF:-1 ,海看大片
+http://ojbk.02200059.xyz:9000/udp/239.21.1.121:5002
+#EXTINF:-1 ,海看电竞
+http://ojbk.02200059.xyz:9000/udp/239.21.1.135:5002
+#EXTINF:-1 ,海看电竞 LD
+http://ojbk.02200059.xyz:9000/udp/239.21.1.191:5002
+#EXTINF:-1 ,海看儿歌
+http://ojbk.02200059.xyz:9000/udp/239.21.1.86:5002
+#EXTINF:-1 ,海看剧场
+http://ojbk.02200059.xyz:9000/udp/239.21.1.98:5002
+#EXTINF:-1 ,海看热播
+http://ojbk.02200059.xyz:9000/udp/239.21.1.100:5002
+#EXTINF:-1 ,海看少儿
+http://ojbk.02200059.xyz:9000/udp/239.21.1.97:5002
+#EXTINF:-1 ,海南卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.31:5002
+#EXTINF:-1 ,海南卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.2.14:5002
+#EXTINF:-1 ,河北卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.35:5002
+#EXTINF:-1 ,河北卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.168:5002
+#EXTINF:-1 ,河南卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.38:5002
+#EXTINF:-1 ,河南卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.2.37:5002
+#EXTINF:-1 ,菏泽
+http://ojbk.02200059.xyz:9000/udp/239.21.1.103:5002
+#EXTINF:-1 ,菏泽2
+http://ojbk.02200059.xyz:9000/udp/239.21.2.18:5002
+#EXTINF:-1 ,黑龙江卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.28:5002
+#EXTINF:-1 ,黑龙江卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.91:5002
+#EXTINF:-1 ,湖北卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.32:5002
+#EXTINF:-1 ,湖北卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.163:5002
+#EXTINF:-1 ,湖南卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.18:5002
+#EXTINF:-1 ,湖南卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.158:5002
+#EXTINF:-1 ,环球旅游
+http://ojbk.02200059.xyz:9000/udp/239.21.2.40:5002
+#EXTINF:-1 ,桓台
+http://ojbk.02200059.xyz:9000/udp/239.21.1.105:5002
+#EXTINF:-1 ,惠民综合
+http://ojbk.02200059.xyz:9000/udp/239.21.1.181:5002
+#EXTINF:-1 ,吉林卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.37:5002
+#EXTINF:-1 ,吉林卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.2.49:5002
 #EXTINF:-1 ,纪实人文
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
-#EXTINF:-1 ,置业频道
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
-#EXTINF:-1 ,京视剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8
-#EXTINF:-1 ,家庭理财
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/index.m3u8
-#EXTINF:-1 ,奕坦春秋
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
-#EXTINF:-1 ,发现之旅
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
-#EXTINF:-1 ,老故事
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
-#EXTINF:-1 ,义乌新闻综合
-https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
-#EXTINF:-1 ,绍兴新闻综合
-http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
-#EXTINF:-1 ,绍兴新闻综合
-http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed
-#EXTINF:-1 ,绍兴文化影院
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
-#EXTINF:-1 ,武义新闻综合
-http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
-#EXTINF:-1 ,平湖新闻综合
-http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
-#EXTINF:-1 ,平湖民生休闲
-http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
-#EXTINF:-1 ,萧山新闻综合
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
-#EXTINF:-1 ,萧山生活频道
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
-#EXTINF:-1 ,淳安电视台
-https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed
-#EXTINF:-1 ,余杭综合频道
-http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
-#EXTINF:-1 ,余杭未来E频道
-http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
-#EXTINF:-1 ,余姚新闻综合
-http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
-#EXTINF:-1 ,余姚姚江文化
-http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
-#EXTINF:-1 ,嵊州新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
-#EXTINF:-1 ,嵊州新闻综合
-https://hlsv2.quklive.com/live/1626935015913208/index.m3u8?zzhed
-#EXTINF:-1 ,诸暨新闻综合
-http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
-#EXTINF:-1 ,上虞新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
-#EXTINF:-1 ,上虞文化影院
-http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
-#EXTINF:-1 ,上虞新商都
-http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
-#EXTINF:-1 ,海宁新闻综合
-http://live.hndachao.cn/xwzh/sd/live.m3u8?zzhed
-#EXTINF:-1 ,海宁生活服务
-http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed
+http://ojbk.02200059.xyz:9000/udp/239.21.1.195:5002
+#EXTINF:-1 ,济南都市
+http://ojbk.02200059.xyz:9000/udp/239.21.1.63:5002
+#EXTINF:-1 ,济南教育
+http://ojbk.02200059.xyz:9000/udp/239.21.1.133:5002
+#EXTINF:-1 ,济南科教
+http://ojbk.02200059.xyz:9000/udp/239.21.1.150:5002
+#EXTINF:-1 ,济南鲁中
+http://ojbk.02200059.xyz:9000/udp/239.21.1.149:5002
+#EXTINF:-1 ,济南商务
+http://ojbk.02200059.xyz:9000/udp/239.21.1.67:5002
+#EXTINF:-1 ,济南少儿
+http://ojbk.02200059.xyz:9000/udp/239.21.1.68:5002
+#EXTINF:-1 ,济南生活
+http://ojbk.02200059.xyz:9000/udp/239.21.1.64:5002
+#EXTINF:-1 ,济南新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.62:5002
+#EXTINF:-1 ,济南新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.94:5002
+#EXTINF:-1 ,济南影视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.65:5002
+#EXTINF:-1 ,济南娱乐
+http://ojbk.02200059.xyz:9000/udp/239.21.1.66:5002
+#EXTINF:-1 ,济宁公共
+http://ojbk.02200059.xyz:9000/udp/239.21.2.20:5002
+#EXTINF:-1 ,济宁教育
+http://ojbk.02200059.xyz:9000/udp/239.21.1.139:5002
+#EXTINF:-1 ,济宁综合
+http://ojbk.02200059.xyz:9000/udp/239.21.1.138:5002
+#EXTINF:-1 ,济宁综合
+http://ojbk.02200059.xyz:9000/udp/239.21.2.19:5002
+#EXTINF:-1 ,济阳综合
+http://ojbk.02200059.xyz:9000/udp/239.21.1.187:5002
+#EXTINF:-1 ,嘉佳卡通
+http://ojbk.02200059.xyz:9000/udp/239.21.2.5:5002
+#EXTINF:-1 ,江苏卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.19:5002
+#EXTINF:-1 ,江苏卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.89:5002
+#EXTINF:-1 ,江西卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.36:5002
+#EXTINF:-1 ,江西卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.167:5002
+#EXTINF:-1 ,金乡新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.184:5002
+#EXTINF:-1 ,金鹰纪实
+http://ojbk.02200059.xyz:9000/udp/239.21.1.170:5002
+#EXTINF:-1 ,金鹰纪实 LD
+http://ojbk.02200059.xyz:9000/udp/239.21.1.196:5002
+#EXTINF:-1 ,金鹰卡通
+http://ojbk.02200059.xyz:9000/udp/239.21.1.48:5002
+#EXTINF:-1 ,精选
+http://ojbk.02200059.xyz:9000/udp/239.21.1.213:5002
+#EXTINF:-1 ,巨野新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.215:5002
+#EXTINF:-1 ,莱西综合
+http://ojbk.02200059.xyz:9000/udp/239.21.1.247:5002
+#EXTINF:-1 ,兰陵综合
+http://ojbk.02200059.xyz:9000/udp/239.21.1.237:5002
+#EXTINF:-1 ,梁山新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.2.12:5002
+#EXTINF:-1 ,辽宁卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.27:5002
+#EXTINF:-1 ,辽宁卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.164:5002
+#EXTINF:-1 ,聊城公共
+http://ojbk.02200059.xyz:9000/udp/239.21.1.254:5002
+#EXTINF:-1 ,聊城综合
+http://ojbk.02200059.xyz:9000/udp/239.21.1.253:5002
+#EXTINF:-1 ,陵城新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.2.24:5002
+#EXTINF:-1 ,美人
+http://ojbk.02200059.xyz:9000/udp/239.21.1.132:5002
+#EXTINF:-1 ,蒙阴
+http://ojbk.02200059.xyz:9000/udp/239.21.2.23:5002
+#EXTINF:-1 ,墨宝
+http://ojbk.02200059.xyz:9000/udp/239.21.1.130:5002
+#EXTINF:-1 ,牟平生活
+http://ojbk.02200059.xyz:9000/udp/239.21.2.11:5002
+#EXTINF:-1 ,牟平新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.2.10:5002
+#EXTINF:-1 ,内蒙古卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.41:5002
+#EXTINF:-1 ,宁津新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.2.50:5002
+#EXTINF:-1 ,宁夏卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.44:5002
+#EXTINF:-1 ,宁阳1
+http://ojbk.02200059.xyz:9000/udp/239.21.1.143:5002
+#EXTINF:-1 ,宁阳2
+http://ojbk.02200059.xyz:9000/udp/239.21.1.144:5002
+#EXTINF:-1 ,农林卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.235:5002
+#EXTINF:-1 ,平度新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.228:5002
+#EXTINF:-1 ,平阴综合
+http://ojbk.02200059.xyz:9000/udp/239.21.1.221:5002
+#EXTINF:-1 ,平原新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.243:5002
+#EXTINF:-1 ,栖霞综合
+http://ojbk.02200059.xyz:9000/udp/239.21.1.229:5002
+#EXTINF:-1 ,齐河新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.230:5002
+#EXTINF:-1 ,青岛1
+http://ojbk.02200059.xyz:9000/udp/239.21.1.69:5002
+#EXTINF:-1 ,青岛2
+http://ojbk.02200059.xyz:9000/udp/239.21.1.70:5002
+#EXTINF:-1 ,青岛3
+http://ojbk.02200059.xyz:9000/udp/239.21.1.71:5002
+#EXTINF:-1 ,青岛4
+http://ojbk.02200059.xyz:9000/udp/239.21.1.72:5002
+#EXTINF:-1 ,青岛5
+http://ojbk.02200059.xyz:9000/udp/239.21.1.73:5002
+#EXTINF:-1 ,青岛6
+http://ojbk.02200059.xyz:9000/udp/239.21.1.74:5002
+#EXTINF:-1 ,青海卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.43:5002
+#EXTINF:-1 ,青州文化旅游
+http://ojbk.02200059.xyz:9000/udp/239.21.1.231:5002
+#EXTINF:-1 ,青州综合
+http://ojbk.02200059.xyz:9000/udp/239.21.1.232:5002
+#EXTINF:-1 ,曲阜新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.225:5002
+#EXTINF:-1 ,日照莒县TV-1
+http://ojbk.02200059.xyz:9000/udp/239.21.1.236:5002
+#EXTINF:-1 ,日照科教
+http://ojbk.02200059.xyz:9000/udp/239.21.1.80:5002
+#EXTINF:-1 ,日照岚山
+http://ojbk.02200059.xyz:9000/udp/239.21.1.209:5002
+#EXTINF:-1 ,日照新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.79:5002
+#EXTINF:-1 ,荣成综合
+http://ojbk.02200059.xyz:9000/udp/239.21.1.227:5002
+#EXTINF:-1 ,乳山
+http://ojbk.02200059.xyz:9000/udp/239.21.1.220:5002
+#EXTINF:-1 ,三沙卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.2.9:5002
+#EXTINF:-1 ,厦门卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.2.6:5002
+#EXTINF:-1 ,山东国际
+http://ojbk.02200059.xyz:9000/udp/239.21.1.61:5002
+#EXTINF:-1 ,山东教育
+http://ojbk.02200059.xyz:9000/udp/239.21.1.101:5002
+#EXTINF:-1 ,山东教育
+http://ojbk.02200059.xyz:9000/udp/239.21.1.169:5002
+#EXTINF:-1 ,山东居家购物
+http://ojbk.02200059.xyz:9000/udp/239.21.1.112:5002
+#EXTINF:-1 ,山东农科
+http://ojbk.02200059.xyz:9000/udp/239.21.1.59:5002
+#EXTINF:-1 ,山东农科
+http://ojbk.02200059.xyz:9000/udp/239.21.1.183:5002
+#EXTINF:-1 ,山东齐鲁
+http://ojbk.02200059.xyz:9000/udp/239.21.1.53:5002
+#EXTINF:-1 ,山东齐鲁
+http://ojbk.02200059.xyz:9000/udp/239.21.1.134:5002
+#EXTINF:-1 ,山东少儿
+http://ojbk.02200059.xyz:9000/udp/239.21.1.60:5002
+#EXTINF:-1 ,山东少儿
+http://ojbk.02200059.xyz:9000/udp/239.21.1.208:5002
+#EXTINF:-1 ,山东生活
+http://ojbk.02200059.xyz:9000/udp/239.21.1.56:5002
+#EXTINF:-1 ,山东生活
+http://ojbk.02200059.xyz:9000/udp/239.21.1.175:5002
+#EXTINF:-1 ,山东体育
+http://ojbk.02200059.xyz:9000/udp/239.21.1.58:5002
+#EXTINF:-1 ,山东体育
+http://ojbk.02200059.xyz:9000/udp/239.21.1.141:5002
+#EXTINF:-1 ,山东卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.52:5002
+#EXTINF:-1 ,山东卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.87:5002
+#EXTINF:-1 ,山东文旅
+http://ojbk.02200059.xyz:9000/udp/239.21.1.57:5002
+#EXTINF:-1 ,山东文旅
+http://ojbk.02200059.xyz:9000/udp/239.21.1.176:5002
+#EXTINF:-1 ,山东新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.54:5002
+#EXTINF:-1 ,山东新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.140:5002
+#EXTINF:-1 ,山东综艺
+http://ojbk.02200059.xyz:9000/udp/239.21.1.55:5002
+#EXTINF:-1 ,山东综艺
+http://ojbk.02200059.xyz:9000/udp/239.21.1.177:5002
+#EXTINF:-1 ,山西卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.33:5002
+#EXTINF:-1 ,陕西卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.30:5002
+#EXTINF:-1 ,上海纪实
+http://ojbk.02200059.xyz:9000/udp/239.21.1.171:5002
+#EXTINF:-1 ,莘县
+http://ojbk.02200059.xyz:9000/udp/239.21.1.211:5002
+#EXTINF:-1 ,深圳卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.25:5002
+#EXTINF:-1 ,深圳卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.93:5002
+#EXTINF:-1 ,生态环境
+http://ojbk.02200059.xyz:9000/udp/239.21.2.42:5002
+#EXTINF:-1 ,寿光蔬菜
+http://ojbk.02200059.xyz:9000/udp/239.21.1.218:5002
+#EXTINF:-1 ,四川卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.34:5002
+#EXTINF:-1 ,四川卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.2.15:5002
+#EXTINF:-1 ,四海钓鱼
+http://ojbk.02200059.xyz:9000/udp/239.21.2.38:5002
+#EXTINF:-1 ,滕州综合
+http://ojbk.02200059.xyz:9000/udp/239.21.1.178:5002
+#EXTINF:-1 ,体育赛事
+http://ojbk.02200059.xyz:9000/udp/239.21.2.44:5002
+#EXTINF:-1 ,天津卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.22:5002
+#EXTINF:-1 ,天津卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.165:5002
+#EXTINF:-1 ,潍坊1
+http://ojbk.02200059.xyz:9000/udp/239.21.1.77:5002
+#EXTINF:-1 ,潍坊2
+http://ojbk.02200059.xyz:9000/udp/239.21.1.78:5002
+#EXTINF:-1 ,潍坊寿光新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.180:5002
+#EXTINF:-1 ,文登
+http://ojbk.02200059.xyz:9000/udp/239.21.1.174:5002
+#EXTINF:-1 ,无棣综合
+http://ojbk.02200059.xyz:9000/udp/239.21.1.214:5002
+#EXTINF:-1 ,五莲新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.249:5002
+#EXTINF:-1 ,武城新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.239:5002
+#EXTINF:-1 ,武城影视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.240:5002
+#EXTINF:-1 ,西藏卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.46:5002
+#EXTINF:-1 ,喜剧影院
+http://ojbk.02200059.xyz:9000/udp/239.21.1.122:5002
+#EXTINF:-1 ,夏津公共
+http://ojbk.02200059.xyz:9000/udp/239.21.1.102:5002
+#EXTINF:-1 ,夏津综合
+http://ojbk.02200059.xyz:9000/udp/239.21.1.106:5002
+#EXTINF:-1 ,新疆卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.45:5002
+#EXTINF:-1 ,新泰乡村
+http://ojbk.02200059.xyz:9000/udp/239.21.1.248:5002
+#EXTINF:-1 ,新泰新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.210:5002
+#EXTINF:-1 ,新闻综合
+http://ojbk.02200059.xyz:9000/udp/239.21.1.193:5002
+#EXTINF:-1 ,烟台公共
+http://ojbk.02200059.xyz:9000/udp/239.21.1.117:5002
+#EXTINF:-1 ,烟台经济
+http://ojbk.02200059.xyz:9000/udp/239.21.1.205:5002
+#EXTINF:-1 ,烟台新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.116:5002
+#EXTINF:-1 ,烟台影视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.204:5002
+#EXTINF:-1 ,兖州新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.224:5002
+#EXTINF:-1 ,阳信新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.252:5002
+#EXTINF:-1 ,优漫卡通
+http://ojbk.02200059.xyz:9000/udp/239.21.1.50:5002
+#EXTINF:-1 ,优优宝贝
+http://ojbk.02200059.xyz:9000/udp/239.21.2.41:5002
+#EXTINF:-1 ,禹城综合
+http://ojbk.02200059.xyz:9000/udp/239.21.1.241:5002
+#EXTINF:-1 ,禹城综艺
+http://ojbk.02200059.xyz:9000/udp/239.21.1.242:5002
+#EXTINF:-1 ,云南卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.40:5002
+#EXTINF:-1 ,郓城新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.251:5002
+#EXTINF:-1 ,沾化综合
+http://ojbk.02200059.xyz:9000/udp/239.21.1.226:5002
+#EXTINF:-1 ,长清新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.107:5002
+#EXTINF:-1 ,浙江卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.17:5002
+#EXTINF:-1 ,浙江卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.90:5002
+#EXTINF:-1 ,中国交通
+http://ojbk.02200059.xyz:9000/udp/239.21.1.115:5002
+#EXTINF:-1 ,中华特产
+http://ojbk.02200059.xyz:9000/udp/239.21.2.43:5002
+#EXTINF:-1 ,重庆卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.24:5002
+#EXTINF:-1 ,重庆卫视
+http://ojbk.02200059.xyz:9000/udp/239.21.1.233:5002
+#EXTINF:-1 ,诸城新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.217:5002
+#EXTINF:-1 ,淄博都市
+http://ojbk.02200059.xyz:9000/udp/239.21.1.83:5002
+#EXTINF:-1 ,淄博公共
+http://ojbk.02200059.xyz:9000/udp/239.21.1.182:5002
+#EXTINF:-1 ,淄博科教
+http://ojbk.02200059.xyz:9000/udp/239.21.1.110:5002
+#EXTINF:-1 ,淄博生活
+http://ojbk.02200059.xyz:9000/udp/239.21.1.109:5002
+#EXTINF:-1 ,淄博新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.84:5002
+#EXTINF:-1 ,淄博沂源新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.114:5002
+#EXTINF:-1 ,综合测试
+http://ojbk.02200059.xyz:9000/udp/239.21.1.203:5002
+#EXTINF:-1 ,邹城新闻
+http://ojbk.02200059.xyz:9000/udp/239.21.1.185:5002
+#EXTINF:-1 ,足球
+http://ojbk.02200059.xyz:9000/udp/239.21.1.162:5002
+#EXTINF:-1 ,101号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.101:5002
+#EXTINF:-1 ,102号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.102:5002
+#EXTINF:-1 ,103号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.103:5002
+#EXTINF:-1 ,104号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.104:5002
+#EXTINF:-1 ,105号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.105:5002
+#EXTINF:-1 ,107号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.107:5002
+#EXTINF:-1 ,108号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.108:5002
+#EXTINF:-1 ,109号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.109:5002
+#EXTINF:-1 ,110号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.110:5002
+#EXTINF:-1 ,111号[785*576]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.111:5002
+#EXTINF:-1 ,112号[768*576]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.112:5002
+#EXTINF:-1 ,115号[768*576]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.115:5002
+#EXTINF:-1 ,116号[768*576]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.116:5002
+#EXTINF:-1 ,117号[768*576]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.117:5002
+#EXTINF:-1 ,118号[768*576]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.118:5002
+#EXTINF:-1 ,119号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.119:5002
+#EXTINF:-1 ,120号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.120:5002
+#EXTINF:-1 ,121号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.121:5002
+#EXTINF:-1 ,122号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.122:5002
+#EXTINF:-1 ,123号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.123:5002
+#EXTINF:-1 ,129号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.129:5002
+#EXTINF:-1 ,130号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.130:5002
+#EXTINF:-1 ,131号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.131:5002
+#EXTINF:-1 ,132号[768*576]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.132:5002
+#EXTINF:-1 ,133号[768*576]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.133:5002
+#EXTINF:-1 ,134号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.134:5002
+#EXTINF:-1 ,135号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.135:5002
+#EXTINF:-1 ,160号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.1.160:5002
+#EXTINF:-1 ,223号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.1.223:5002
+#EXTINF:-1 ,26号[768*576]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.26:5002
+#EXTINF:-1 ,51号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.51:5002
+#EXTINF:-1 ,52号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.52:5002
+#EXTINF:-1 ,53号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.53:5002
+#EXTINF:-1 ,55号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.55:5002
+#EXTINF:-1 ,56号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.56:5002
+#EXTINF:-1 ,57号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.57:5002
+#EXTINF:-1 ,58号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.58:5002
+#EXTINF:-1 ,59号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.59:5002
+#EXTINF:-1 ,60号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.60:5002
+#EXTINF:-1 ,61号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.61:5002
+#EXTINF:-1 ,62号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.62:5002
+#EXTINF:-1 ,63号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.63:5002
+#EXTINF:-1 ,64号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.64:5002
+#EXTINF:-1 ,65号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.65:5002
+#EXTINF:-1 ,66号[768*576]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.66:5002
+#EXTINF:-1 ,68号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.68:5002
+#EXTINF:-1 ,71号[3840*2160]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.71:5002
+#EXTINF:-1 ,77号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.77:5002
+#EXTINF:-1 ,79号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.79:5002
+#EXTINF:-1 ,80号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.80:5002
+#EXTINF:-1 ,81号[785*576]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.81:5002
+#EXTINF:-1 ,82号[785*576]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.82:5002
+#EXTINF:-1 ,83号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.83:5002
+#EXTINF:-1 ,84号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.84:5002
+#EXTINF:-1 ,85号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.85:5002
+#EXTINF:-1 ,86号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.86:5002
+#EXTINF:-1 ,87号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.87:5002
+#EXTINF:-1 ,88号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.88:5002
+#EXTINF:-1 ,89号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.89:5002
+#EXTINF:-1 ,90号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.90:5002
+#EXTINF:-1 ,91号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.91:5002
+#EXTINF:-1 ,92号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.92:5002
+#EXTINF:-1 ,93号[768*576]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.93:5002
+#EXTINF:-1 ,94号[785*576]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.94:5002
+#EXTINF:-1 ,95号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.95:5002
+#EXTINF:-1 ,96号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.96:5002
+#EXTINF:-1 ,97号[1920*1080]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.97:5002
+#EXTINF:-1 ,98号[768*576]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.98:5002
+#EXTINF:-1 ,99号[768*576]
+http://ojbk.02200059.xyz:9000/udp/239.21.2.99:5002
