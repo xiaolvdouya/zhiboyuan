@@ -160,12 +160,10 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 内蒙古卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
 
 地方频道,#genre#
-河北卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8
 石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
 石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
 石家庄新闻,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
 石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
-
 河南文物宝库,http://150.138.8.143/00/SNM/CHANNEL00000658/index.m3u8
 河南武术世界,http://150.138.8.143/00/SNM/CHANNEL00000657/index.m3u8
 广东移动,http://ci.emdoor.tech:8080/touchtv.php?pk=2463
@@ -182,8 +180,8 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
-西安都市,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8
 西安教育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
+西安都市,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8
 西安商务资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8
 西安丝路,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
 西安新闻综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8
@@ -194,6 +192,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 河北影视剧,https://tv.pull.hebtv.com/jishi/yingshijupindao.m3u8?t=1703419564&k=58749056619c8283d5512e2ec7d41b5e
 河北公共,https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=1703419674&k=ffd0c6b38536e876159af6ca070f00d2
 河北少儿科教,https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1703419611&k=3269b11d6d0aa0e89ec26f17acebda87
+
 东营新闻综合,https://stream.hhek.cn/xwzh/sd/live.m3u8
 东营公共,https://stream.hhek.cn/ggpd/sd/live.m3u8
 东营科教,https://stream.hhek.cn/dyjy/sd/live.m3u8
