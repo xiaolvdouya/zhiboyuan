@@ -161,12 +161,18 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 延边卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
 
 河北频道,#genre#
-石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
-石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
 石家庄新闻,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
+石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
 石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
+石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
+石家庄新闻,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
+石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
+石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
+石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
+鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
 河北经济生活,https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1703419282&k=402307d98ff6da4be9d43fd4c148a8d3
 河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1703419426&k=09217dcfab26072a79bbf36c8b0825c8
+
 
 北京频道,#genre#
 北京新闻,https://live.funhillrm.com/5/sd/live.m3u8
