@@ -476,10 +476,21 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 游戏风云,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
 
 山东频道,#genre#
-东营综合,http://stream.hhek.cn/xwzh/sd/live.m3u8?shandd
-东营公共,http://stream.hhek.cn/ggpd/sd/live.m3u8?shandd
-东营科教,http://stream.hhek.cn/dyjy/sd/live.m3u8?shandd
+齐鲁频道-高清,http://60.209.160.107:10003/rtp/239.253.254.114:8000
+山东综艺,http://60.209.160.107:10003/rtp/239.253.254.21:8000
+山东体育,http://60.209.160.107:10003/rtp/239.253.254.22:8000
+山东影视,http://60.209.160.107:10003/rtp/239.253.254.19:8000
+山东生活,http://60.209.160.107:10003/rtp/239.253.254.20:8000
+山东公共,http://60.209.160.107:10003/rtp/239.253.254.23:8000
+山东少儿,http://60.209.160.107:10003/rtp/239.253.254.25:8000
+山东农科,http://60.209.160.107:10003/rtp/239.253.254.24:8000
 山东教育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
+QTV-1-高清,http://60.209.160.107:10003/rtp/239.253.254.249:8000
+QTV-2-高清,http://60.209.160.107:10003/rtp/239.253.254.250:8000
+QTV-3-高清,http://60.209.160.107:10003/rtp/239.253.254.251:8000
+QTV-4,http://60.209.160.107:10003/rtp/239.253.254.252:8000
+QTV-5,http://60.209.160.107:10003/rtp/239.253.254.253:8000
+QTV-6,http://60.209.160.107:10003/rtp/239.253.254.254:8000
 青岛城阳,http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8?shandd
 烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
 烟台公共,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8?shandd
@@ -491,11 +502,10 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 枣庄新闻综合,http://stream.zztvzd.com/1/sd/live.m3u8?shandd
 枣庄教育,http://stream.zztvzd.com/2/sd/live.m3u8?shandd
 枣庄公共,http://stream.zztvzd.com/3/sd/live.m3u8?shandd
-山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.flv
-山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.flv
-山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.flv
-山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.flv
-山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.flv
+东营综合,http://stream.hhek.cn/xwzh/sd/live.m3u8
+东营公共,http://stream.hhek.cn/ggpd/sd/live.m3u8
+东营科教,http://stream.hhek.cn/dyjy/sd/live.m3u8
+
 
 浙江频道,#genre#
 浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
