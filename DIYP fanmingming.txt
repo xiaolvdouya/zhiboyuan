@@ -337,6 +337,7 @@ CETV4,,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3
 
 其他频道,#genre#
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
+HYTV,http://live.hyxrmt.com:85/live/xwpd.m3u8
 奕坦春秋,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
 置业频道,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
 家庭理财,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001278/index.m3u8
