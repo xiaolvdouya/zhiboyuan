@@ -27,6 +27,7 @@ TVBOXP 配置地址
 http://cdn.qiaoji8.com/tvbox.json
 
 最多最全 DIYP fanmingming.txt
+我的ff： https://raw.githubusercontent.com/xiaolvdouya/zhiboyuan/main/ff.txt
 
 承认的 ：https://raw.githubusercontent.com/TCatCloud/IPTV/Files/Adult.m3u
 他的很多包括承认：  https://raw.githubusercontent.com/TCatCloud/IPTV/Files/IPTV.m3u
