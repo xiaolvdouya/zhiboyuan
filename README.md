@@ -29,6 +29,14 @@ http://cdn.qiaoji8.com/tvbox.json
 最多最全 DIYP fanmingming.txt
 我的ff： https://raw.githubusercontent.com/xiaolvdouya/zhiboyuan/main/ff.txt
 
+国家app:"udpxy multicast UDP-to-HTTP"+country:"china"
+
+地区app:"udpxy multicast UDP-to-HTTP"+country:"china"+subdivisions:"shandong"
+
+城市app:"udpxy multicast UDP-to-HTTP"+country:"china"+city:"jinan"
+
+打开网页  http://121.17.146.164:2023/status，，意思为端口加/status
+
 承认的 ：https://raw.githubusercontent.com/TCatCloud/IPTV/Files/Adult.m3u
 他的很多包括承认：  https://raw.githubusercontent.com/TCatCloud/IPTV/Files/IPTV.m3u
 与上面可能相同，应为原创： https://raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u
