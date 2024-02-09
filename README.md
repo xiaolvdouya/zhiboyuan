@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/xiaolvdouya/zhiboyuan/main/fanmingming%202.m3u
 
 https://raw.githubusercontent.com/xiaolvdouya/zhiboyuan/main/DIYP%20fanmingming.txt
 
-加加速前缀 https://mirror.ghproxy.com/
+加速前缀 https://mirror.ghproxy.com/
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolvdouya/live/main/fanmingming.m3u
 
