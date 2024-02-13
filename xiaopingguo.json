@@ -1,1526 +1,969 @@
 {
-    "warningText": "馃惣4K鐗堝奖闊冲ぉ鍫傪煇?,
-    "sites": [
-        {
-            "key": "cjzy_鏆撮璧勬簮",
-            "name": "馃巿鈹冩毚椋庘攦褰辫",
-            "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-            "playUrl": "",
-            "categories": [
-                "鍥戒骇鍓?,
-                "鍥戒骇鍔ㄦ极",
-                "澶ч檰缁艰壓",
-                "娓彴缁艰壓",
-                "棣欐腐鍓?,
-                "鍙版咕鍓?,
-                "鏃ユ湰鍓?,
-                "娆х編鍓?,
-                "娉板浗鍓?,
-                "鏃ユ湰鍔ㄦ极",
-                "鏃ユ湰缁艰壓",
-                "缁艰壓棰戦亾",
-                "鏂伴┈娉扮患鑹?,
-                "绾綍鐗?,
-                "绉戝够鐗?,
-                "鍠滃墽鐗?,
-                "鎴樹簤鐗?
-            ]
-        },
-        {
-            "key": "閲忓瓙璧勬簮",
-            "name": "馃鈹冮噺瀛愨攦璧勬簮",
-            "type": 1,
-            "api": "http://cj.lziapi.com/api.php/provide/vod/",
-            "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "categories": [
-                "鍥戒骇鍓?,
-                "鍥戒骇鍔ㄦ极",
-                "娉板浗鍓?,
-                "鍙版咕鍓?,
-                "棣欐腐鍓?,
-                "娆х編鍓?,
-                "闊╁浗鍓?,
-                "鏃ユ湰鍓?,
-                "鍔ㄦ极",
-                "浣撹偛",
-                "鍓ф儏鐗?,
-                "鍔ㄤ綔鐗?,
-                "鐖辨儏鐗?,
-                "鍠滃墽鐗?
-            ]
-        },
-        {
-            "key": "csp_闈炲嚒璧勬簮",
-            "name": "馃鈹冮潪鍑♀攦璧勬簮",
-            "type": 1,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
-            "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "鍔ㄤ綔鐗?,
-                "鍠滃墽鐗?,
-                "绉戝够鐗?,
-                "鎭愭€栫墖",
-                "鐖辨儏鐗?,
-                "鍓ф儏鐗?,
-                "鎴樹簤鐗?,
-                "璁板綍鐗?,
-                "鍥戒骇鍓?,
-                "娆х編鍓?,
-                "棣欐腐鍓?,
-                "闊╁浗鍓?,
-                "鍙版咕鍓?,
-                "鏃ユ湰鍓?,
-                "娴峰鍓?,
-                "娉板浗鍓?,
-                "鍥戒骇鍔ㄦ极",
-                "鏃ラ煩鍔ㄦ极",
-                "娆х編鍔ㄦ极",
-                "娓彴鍔ㄦ极",
-                "娴峰鍔ㄦ极",
-                "澶ч檰缁艰壓",
-                "娓彴缁艰壓",
-                "鏃ラ煩缁艰壓",
-                "娆х編缁艰壓"
-            ]
-        },
-        {
-            "key": "璞嗙摚",
-            "name": "馃崕鈹冭眴鐡ｂ攦姒滃崟",
-            "type": 3,
-            "api": "./lib/apiv71drpy2.min.js",
-            "ext": "./lib/29_022812_drpy.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
-            "key": "瀛愬瓙",
-            "name": "馃椊鈹冨奖闊冲ぉ鍫傗攦2K",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/瀛愬瓙.json"
-        },
-        {
-            "key": "鐩存挱杞偣鎾?,
-            "name": "馃摵锔庘攦鐢佃鈹冪洿鎾?,
-            "type": 3,
-            "api": "./lib/apiv47zbzdb.js",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./lib/zb.json"
-        },
-        {
-            "key": "绱㈠凹",
-            "name": "馃浉鈹冪储灏尖攦2K ",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "鍥戒骇鍓?,
-                "澶ч檰缁艰壓",
-                "鍔ㄤ綔鐗?,
-                "鍥戒骇鍔ㄦ极",
-                "鍠滃墽鐗?,
-                "鐖辨儏鐗?,
-                "绉戝够鐗?,
-                "鎭愭€栫墖",
-                "鍓ф儏鐗?,
-                "鎴樹簤鐗?,
-                "娆х編鍓?,
-                "闊╁墽",
-                "鏃ュ墽",
-                "娓墽",
-                "鍙板墽",
-                "娉板墽",
-                "璁板綍鐗?,
-                "娴峰鍓?,
-                "鏃ラ煩缁艰壓",
-                "娓彴缁艰壓",
-                "娆х編缁艰壓",
-                "瓒崇悆",
-                "褰辫瑙ｈ"
-            ]
-        },
-        {
-            "key": "馃",
-            "name": "鐨毊馃鈹冨奖瑙?,
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar": "./lib/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
-            "api": "csp_XBPQ",
-            "ext": {
-                "涓婚〉url": "http://pipixia.vip/index.php/ajax/data?mid=1&tid=1&page=1&limit=20",
-                "璇锋眰澶?: "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1#Referer$http://pipixia.vip/",
-                "寮哄埗瑙ｆ瀽": "0",
-                "鍥剧墖浠ｇ悊": "0",
-                "浜屾鎴彇": "\"list\"*[&&]",
-                "鏁扮粍": "{&&\"vod_content\"",
-                "鍥剧墖": "vod_pic\":\"&&\"",
-                "鏍囬": "vod_name\":\"&&\"",
-                "鍓爣棰?: "vod_version\":\"&&\"+vod_remarks\":\"&&\"",
-                "閾炬帴": "http://pipixia.vip/v/+vod_id\":&&,+.html",
-                "鍒嗙被url": "http://pipixia.vip/index.php/ajax/data?mid=1&tid={cateId}&page=1&limit=20",
-                "鍡呮帰璇?: ".mp4#.m3u8#.flv#obj/tos#x-oss-signature=",
-                "杩囨护璇?: ".html#=http#=https",
-                "鍒嗙被": "鍙兘鎼滅储鎯崇湅鐨勫墽鍚嶆墠鑳芥樉绀鸿繖涓綉绔欑殑璧勬簮锛屾悳绱㈠墽鍚嶆樉绀虹毊鐨櫨鐨勫氨鏄?1",
-                "鎼滅储妯″紡": "1",
-                "鎼滅储url": "http://pipixia.vip/vodsearch.html?wd={wd}",
-                "鎼滅储鏁扮粍": "public-list-exp\"&&thumb-else cor5 hide\"",
-                "鎼滅储閾炬帴": "href=\"&&\"",
-                "鎼滅储閾炬帴鍓嶇紑": "http://pipixia.vip",
-                "鎼滅储鏍囬": "thumb-txt cor4 hide\">&&</div",
-                "鎼滅储鍥剧墖": "data-original=\"&&\"",
-                "鎾斁鏁扮粍": "anthology-list-play size&&</ul>",
-                "鎼滅储鍓爣棰?: "class=\"public-list-prb hide ft2\">&&</span",
-                "鎾斁閾炬帴鍓嶇紑": "http://pipixia.vip",
-                "绾胯矾鏁扮粍": "<a class=\"swiper-slide\"><i&&</a>",
-                "浜屾璺宠浆鎾斁閾炬帴": "\"url\"*\"&&\""
-            }
-        },
-        {
-            "key": "csp_XBPQ_haoxi",
-            "name": "鈿★笍鈹冨ソ鎴忊攦2K",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/濂芥垙.json"
-        },
-        {
-            "key": "寰€寰€",
-            "name": "馃惗鈹冩豹姹攦2K",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/寰€寰€褰辫.json"
-        },
-        {
-            "key": "js_鑽愮墖",
-            "name": "馃彥鈹冩帹鑽愨攦2K",
-            "type": 3,
-            "api": "./lib/apiv379drpy2.min.js",
-            "ext": "./lib/鑽愮墖.js",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "js_czsapp",
-            "name": "馃彴鈹冨巶闀库攦2K",
-            "type": 3,
-            "api": "./lib/apiv379drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/鍘傞暱.js"
-        },
-        {
-            "key": "蹇竼",
-            "name": "鉀碘攦蹇竼鈹?K",
-            "type": 1,
-            "api": "https://api.kuaifan.tv/api.php/provide/vod",
-            "categories": [
-                "鍥戒骇鍓?,
-                "棣欐腐鍓?,
-                "鍙版咕鍓?,
-                "闊╁浗鍓?,
-                "鏃ユ湰鍓?,
-                "娆х編鍓?,
-                "鍔ㄤ綔鐗?,
-                "鍔ㄧ敾鐗?,
-                "鐭墖",
-                "鍠滃墽鐗?,
-                "鐖辨儏鐗?,
-                "绉戝够鐗?,
-                "鍙よ鐗?,
-                "鍘嗗彶鐗?,
-                "澶ч檰缁艰壓",
-                "娓彴缁艰壓",
-                "鏃ラ煩缁艰壓",
-                "鍥戒骇鍔ㄦ极",
-                "娆х編鍔ㄦ极",
-                "鏃ユ湰鍔ㄦ极"
-            ]
-        },
-        {
-            "key": "yqkan_open",
-            "name": "馃泚鈹冪煭鍓р攦2K",
-            "type": 3,
-            "api": "csp_YQKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar": "./lib/OpenSpider.jar"
-        },
-        {
-            "key": "mino4K",
-            "name": "鉀呪攦mino鈹?K",
-            "type": 3,
-            "api": "csp_Appto",
-            "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx",
-            "jar": "./lib/fix0929.jar"
-        },
-        {
-            "key": "鎺㈡帰",
-            "name": "馃弰鈹冨奖鎺⑩攦4K",
-            "type": 3,
-            "playerType": "1",
-            "jar": "./lib/uyv0t678c488189af47bb91dc108484d17431.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
-            "api": "csp_YTVIP",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "vip.lyyytv.cn"
-        },
-        {
-            "key": "Czsapp",
-            "name": "馃摂鍘傞暱鈹冮珮娓?,
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.cz01.pro/"
-        },
-        {
-            "key": "drpy_js_moflix褰辫",
-            "name": "馃悎鈹僲of鈹?k",
-            "type": 3,
-            "api": "./lib/apiv379drpy2.min.js",
-            "ext": "./lib/moflix.js"
-        },
-        {
-            "key": "csp_XBPQ_6V",
-            "name": "馃寵鈹冨疂鐩掆攦4k",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/6V纾?json"
-        },
-        {
-            "key": "csp_WoGG",
-            "name": "馃悑鈹冪帺鍋垛攦4K鈹冨奖闊冲ぉ鍫侫pp涓撲韩",
-            "type": 3,
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"
-        },
-        {
-            "key": "js_v2-yj",
-            "name": "馃寵鈹冧笓浜攦2K",
-            "type": 3,
-            "api": "./lib/apiv71drpy2.min.js",
-            "ext": "./lib/yyttzx.js"
-        },
-        {
-            "key": "csp_FreeOK",
-            "name": "馃挵锔忊攦瀵岀憺鈹?K",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/free.json"
-        },
-        {
-            "key": "js_bzys",
-            "name": "馃寢鈹傿绔欌攦2K",
-            "type": 3,
-            "api": "./lib/apiv379drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/B绔欏奖瑙?js"
-        },
-        {
-            "key": "csp_Bttoo",
-            "name": "馃崉鈹冩瘮鐗光攦2K",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "鏂?V",
-            "name": "馃Р鈹冩柊6V鈹?K",
-            "type": 3,
-            "jar": "./lib/uyv0t678c488189af47bb91dc108484d17431.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
-            "api": "csp_SixV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://www.xb6v.com/"
-        },
-        {
-            "key": "姣涢┐",
-            "name": "馃鈹冨皬椹粹攦4K",
-            "type": 3,
-            "jar": "./lib/uyv0t678c488189af47bb91dc108484d17431.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
-            "api": "csp_MLYS",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.maolvys.com/"
-        },
-        {
-            "key": "49zy",
-            "name": "馃椉鈹?9Z鈹?K",
-            "type": 1,
-            "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "categories": [
-                "鍥戒骇鍓?,
-                "绾綍鐗?,
-                "娆х編鍓?,
-                "棣欐腐鍓?,
-                "鍔ㄤ綔鐗?,
-                "鐖辨儏鐗?,
-                "绉戝够鐗?,
-                "鎭愭€栫墖",
-                "鍓ф儏鐗?,
-                "鎴樹簤鐗?,
-                "鍠滃墽鐗?,
-                "鍔ㄧ敾鐗?,
-                "鐘姜鐗?,
-                "闊╁浗鍓?,
-                "鍔ㄦ极",
-                "鐢靛奖",
-                "澶ч檰缁艰壓",
-                "娓彴缁艰壓",
-                "鏃ラ煩缁艰壓",
-                "娆х編缁艰壓",
-                "鍙版咕鍓?,
-                "鍥戒骇鍔ㄦ极",
-                "鏃ユ湰鍔ㄦ极",
-                "娆х編鍔ㄦ极",
-                "娉板浗鍓?,
-                "鏃ュ墽",
-                "鐢靛奖瑙ｈ",
-                "濂囧够鐗?,
-                "鐏鹃毦鐗?,
-                "鎮枒鐗?,
-                "鍏朵粬鐗?,
-                "浣撹偛璧涗簨",
-                "娴峰鍓?
-            ]
-        },
-        {
-            "key": "铚楃墰寮瑰箷",
-            "name": "馃悓鈹冭湕鐗涒攦2K",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./lib/铚楃墰.json"
-        },
-        {
-            "key": "璞崕璧勬簮",
-            "name": "馃ガ鈹冭豹鍗庘攦2K",
-            "type": 1,
-            "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "鍐呭湴鍓?,
-                "棣欐腐鍓?,
-                "娆х編鍓?,
-                "闊╁墽",
-                "鏃ュ墽",
-                "椹嘲鍓?,
-                "鍙版咕鍓?,
-                "鍔ㄧ敾鐗?,
-                "涓浗鍔ㄦ极",
-                "鏃ユ湰鍔ㄦ极",
-                "娆х編鍔ㄦ极",
-                "鍓ф儏鐗?,
-                "鎴樹簤鐗?,
-                "鍔ㄤ綔鐗?,
-                "绉戝够鐗?,
-                "璁板綍鐗?,
-                "鐖辨儏鐗?,
-                "鍠滃墽鐗?,
-                "鐏鹃毦鐗?,
-                "鎮枒鐗?,
-                "鐘姜鐗?,
-                "澶ч檰缁艰壓",
-                "鏃ラ煩缁艰壓",
-                "娓彴缁艰壓",
-                "娆х編缁艰壓"
-            ]
-        },
-        {
-            "key": "csp_AppYsV2_4K瑙嗙晫",
-            "name": "鈽嗏攦瑙嗙晫鈹?K",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://yycms.77ev.cn/api.php/app/"
-        },
-        {
-            "key": "鐖辫开褰辫",
-            "name": "馃挊鈹冪埍杩攦2K",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_AppYsV2",
-            "ext": "https://api123.adys.app/xgapp.php/v3/"
-        },
-        {
-            "key": "鑰愮湅",
-            "name": "馃泿鈹冭€愮湅鈹?K",
-            "type": 3,
-            "changeable": 1,
-            "jar": "./lib/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
-            "api": "csp_XBPQ",
-            "playerType": "1",
-            "ext": "./lib/鑰愮湅.json"
-        },
-        {
-            "key": "js_nangua",
-            "name": "馃巸鈹冨崡鐡溾攦2K",
-            "type": 3,
-            "api": "./lib/apiv1049drpy2.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/nangua.js"
-        },
-        {
-            "key": "DiDuan",
-            "name": "鈴笍鈹冮珮绔攦2K",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_dadagui",
-            "name": "馃悽鈹冭揪榫熲攦2K",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/杈捐揪榫?json"
-        },
-        {
-            "key": "姗樺瓙褰辫",
-            "name": "馃崐姗樺瓙鈹?K",
-            "type": 3,
-            "api": "csp_Appto",
-            "jar": "./lib/to.jar",
-            "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ"
-        },
-        {
-            "key": "js_鍐滄皯",
-            "name": "馃懆鈥嶐煂锯攦鍐滄皯鈹冨奖瑙?,
-            "type": 3,
-            "api": "./lib/apiv379drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/nongmin.js"
-        },
-        {
-            "key": "zxzj",
-            "name": "馃摋鈹冨湪绾库攦2K",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.zxzj.pro/"
-        },
-        {
-            "key": "Vofl",
-            "name": "馃巿鈹僔OF鈹?K",
-            "type": 3,
-            "api": "csp_Voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "js_Xinsj",
-            "name": "馃悹鈹冭瑙夆攦2K",
-            "type": 3,
-            "api": "./lib/apiv1049drpy2.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/xsj.js"
-        },
-        {
-            "key": "js_Lib",
-            "name": "馃嵅鈹冨埄濂モ攦2K",
-            "type": 3,
-            "api": "./lib/apiv1049drpy2.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/libvio.js"
-        },
-        {
-            "key": "XYQH_鐢靛奖娓?,
-            "name": "馃洺鈹冩腐鍙ｂ攦4K",
-            "type": 3,
-            "playerType": 1,
-            "api": "csp_XYQHiker",
-            "jar": "./lib/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
-            "ext": "./lib/娓彛.json"
-        },
-        {
-            "key": "csp_XYQHiker_鈥峝yx",
-            "name": "馃Р鈹冪數褰扁攦4k",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/dyg.json",
-            "jar": "./lib/spider1293.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
-        },
-        {
-            "key": "csp_SeedHub",
-            "name": "馃Р鈹僑eedHub鈹?k",
-            "type": 3,
-            "api": "csp_SeedHub",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./lib/83.jar"
-        },
-        {
-            "key": "bdcili",
-            "name": "馃Р鈹冨摂鍢€鈹?k",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 1,
-            "parse": 0,
-            "ext": "./lib/bd.json",
-            "jar": "./lib/cl.jar"
-        },
-        {
-            "key": "csp_XYQHiker_BT澶╁爞",
-            "name": "馃Р鈹傿T澶╁爞鈹?k",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/BT澶╁爞.json",
-            "jar": "./lib/83.jar"
-        },
-        {
-            "key": "csp_XYQHiker_鏋佸奖缃?,
-            "name": "馃Р鈹冩瀬褰扁攦4k",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/鏋佸奖缃?json",
-            "jar": "./lib/83.jar"
-        },
-        {
-            "key": "褰╄櫣",
-            "name": "馃寛鈹冨僵铏光攦4K",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
-        },
-        {
-            "key": "drpy_js_褰辨福娓?,
-            "name": "馃崚鈹冨奖娓ｂ攦2K",
-            "type": 3,
-            "api": "./lib/apiv1447drpy2.min.js",
-            "ext": "./lib/褰辨福娓?js"
-        },
-        {
-            "key": "drpy_js_鍥涗釜鍦堝効",
-            "name": "馃寭鈹冨洓鍦堚攦2K",
-            "type": 3,
-            "api": "./lib/apiv1447drpy2.min.js",
-            "ext": "./lib/鍥涗釜鍦堝奖瑙?js"
-        },
-        {
-            "key": "drpy_js_鏂扮墖鍦?,
-            "name": "馃攪鈹冨箍鍛娾攦2K",
-            "type": 3,
-            "api": "./lib/apiv1447drpy2.min.js",
-            "ext": "./lib/鏂扮墖鍦?js"
-        },
-        {
-            "key": "drpy_js_浜轰汉褰辫",
-            "name": "馃檱鈹冧汉浜衡攦2K",
-            "type": 3,
-            "api": "./lib/apiv1447drpy2.min.js",
-            "ext": "./lib/浜轰汉褰辫.js"
-        },
-        {
-            "key": "drpy_js_棣栨挱褰遍櫌",
-            "name": "馃憣鈹冮鎾攦2K",
-            "type": 3,
-            "api": "./lib/apiv1447drpy2.min.js",
-            "ext": "./lib/棣栨挱褰遍櫌.js"
-        },
-        {
-            "key": "楠戦獞褰遍櫌",
-            "name": "馃毜鈹冮獞楠戔攦2K",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-        },
-        {
-            "key": "鏂扮墖鐑挱",
-            "name": "馃敺鈹冩柊鐗団攦2K",
-            "type": 1,
-            "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "categories": [
-                "杩炵画鍓?,
-                "鍔ㄦ极"
-            ]
-        },
-        {
-            "key": "csp_zxzj",
-            "name": "馃崗鈹冭秴鍓嶁攦鐐规挱",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.zxzj.pro/"
-        },
-        {
-            "key": "yc",
-            "name": "馃鈹冪鍔涒攦4KHDR",
-            "type": 3,
-            "playerType": 1,
-            "api": "csp_Hdhive",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
-            "jar": "./lib/xry.jar"
-        },
-        {
-            "key": "apv2_鐟炰赴",
-            "name": "鉀勨攦鐟炰赴鈹冨奖瑙?,
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "ext": "http://www.miniku.cc/xgapp.php/v2/"
-        },
-        {
-            "key": "app_杞荤畝",
-            "name": "馃殘鈹冭交绠€鈹冨奖瑙?,
-            "type": 1,
-            "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-            "categories": [
-                "鐢靛奖",
-                "鐢佃鍓?,
-                "缁艰壓",
-                "鍔ㄦ极"
-            ]
-        },
-        {
-            "key": "csp_yayaya",
-            "name": "馃懅鈹冭€愯彶鈹冨奖瑙?,
-            "api": "csp_AppYsV2",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-        },
-        {
-            "key": "Aid",
-            "name": "馃殤鈹冩€ユ晳鈹冩暀瀛?,
-            "type": 3,
-            "jar": "./lib/uyv0t678c488189af47bb91dc108484d17431.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
-            "api": "csp_FirstAid",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 3.8
-            }
-        },
-        {
-            "key": "csp_MeiJu69",
-            "name": "馃椊鈹冨叚涔濃攦缇庡墽",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.69mj.com/xgapp.php/v2/"
-        },
-        {
-            "key": "csp_Zxzj",
-            "name": "馃彔鈹冨湪绾库攦涔嬪",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.zxzj.pro/"
-        },
-        {
-            "key": "Kuaikan",
-            "name": "馃鈹冨揩鐪嬧攦褰辫",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Vofl",
-            "name": "馃Э鈹僔oFl鈹冭祫婧?,
-            "type": 3,
-            "api": "csp_Voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "zy_鏂版氮",
-            "name": "馃弰馃徎鈹冩柊娴攦璧勬簮",
-            "type": 1,
-            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "categories": [
-                "鍔ㄦ极",
-                "缁艰壓",
-                "绾綍鐗?,
-                "鍔ㄤ綔鐗?,
-                "鐖辨儏鐗?,
-                "绉戝够鐗?,
-                "鎴樹簤鐗?,
-                "鍓ф儏鐗?,
-                "鎭愭€栫墖",
-                "鍠滃墽鐗?,
-                "澶ч檰鍓?,
-                "娓境鍓?,
-                "鍙版咕鍓?,
-                "娆х編鍓?,
-                "鍔ㄦ极鐢靛奖",
-                "闊╁墽",
-                "鏃ュ墽",
-                "娉板墽",
-                "浣撹偛"
-            ]
-        },
-        {
-            "key": "csp_Anime1",
-            "name": "馃尭鈹冨姩婕攦绯诲垪",
-            "type": 3,
-            "api": "csp_Anime1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "鍘荤湅鍔ㄦ极",
-            "name": "馃帄鈹冨幓鐪嬧攦鍔ㄦ极",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "./lib/鍘荤湅鍔ㄦ极.json"
-        },
-        {
-            "key": "鍔ㄦ极鐩撮摼",
-            "name": "馃幁鈹冨姩婕攦鐩撮摼",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "./lib/鍔ㄦ极鐩撮摼.json"
-        },
-        {
-            "key": "drpy_js_鐖卞脊骞?,
-            "name": "鍔ㄦ极 | 鐖卞脊骞昜js]",
-            "type": 3,
-            "api": "./lib/apiv1447drpy2.min.js",
-            "ext": "./lib/鐖卞脊骞?js"
-        },
-        {
-            "key": "drpy_js_AnFuns",
-            "name": "鍔ㄦ极 | AnFuns[js]",
-            "type": 3,
-            "api": "./lib/apiv1447drpy2.min.js",
-            "ext": "./lib/AnFuns.js"
-        },
-        {
-            "key": "drpy_js_璺极婕?,
-            "name": "鍔ㄦ极 | 璺极婕玔js]",
-            "type": 3,
-            "api": "./lib/apiv1447drpy2.min.js",
-            "ext": "./lib/璺极婕?js"
-        },
-        {
-            "key": "drpy_js_鍘荤湅鍚?,
-            "name": "鍔ㄦ极 | 鍘荤湅鍚js]",
-            "type": 3,
-            "api": "./lib/apiv1447drpy2.min.js",
-            "ext": "./lib/鍘荤湅鍚?js"
-        },
-        {
-            "key": "drpy_js_濂囩背鍔ㄦ极",
-            "name": "鍔ㄦ极 | 濂囩背鍔ㄦ极[js]",
-            "type": 3,
-            "api": "./lib/apiv1447drpy2.min.js",
-            "ext": "./lib/濂囩背鍔ㄦ极.js"
-        },
-        {
-            "key": "drpy_js_DJ闊充箰",
-            "name": "闊抽 | DJ闊充箰[js]",
-            "type": 3,
-            "api": "./lib/apiv1447drpy2.min.js",
-            "ext": "./lib/DJ闊充箰.js",
-            "playerType": "2"
-        },
-        {
-            "key": "drpy_js_鍟﹀暒DJ",
-            "name": "闊抽 | 鍟﹀暒DJ[js]",
-            "type": 3,
-            "api": "./lib/apiv1447drpy2.min.js",
-            "ext": "./lib/鑻规灉DJ.js",
-            "playerType": "2"
-        },
-        {
-            "key": "drpy_js_娓呴DJ",
-            "name": "闊抽 | 娓呴DJ[js]",
-            "type": 3,
-            "api": "./lib/apiv1447drpy2.min.js",
-            "ext": "./lib/娓呴DJ.js",
-            "playerType": "2"
-        },
-
-        {
-            "key": "drpy_js_A8闊充箰",
-            "name": "MV | A8闊充箰[js]",
-            "type": 3,
-            "api": "./lib/apiv1447drpy2.min.js",
-            "ext": "./lib/A8闊充箰.js"
-        },
-        {
-            "key": "drpy_js_鑻规灉DJ",
-            "name": "MV | 鑻规灉DJ[js]",
-            "type": 3,
-            "api": "./lib/apiv1447drpy2.min.js",
-            "ext": "./lib/鑻规灉DJ.js"
-        },
-        {
-            "key": "drpy_js_閰风嫍MV",
-            "name": "MV | 閰风嫍[js]",
-            "type": 3,
-            "api": "./lib/apiv1447drpy2.min.js",
-            "ext": "./lib/閰风嫍MV.js"
-        },
-        {
-            "key": "drpy_js_閰峰MV",
-            "name": "MV | 閰峰[js]",
-            "type": 3,
-            "api": "./lib/apiv1447drpy2.min.js",
-            "ext": "./lib/閰峰MV.js"
-        },
-        {
-            "key": "drpy_js_闊虫偊缃?,
-            "name": "MV | 闊虫偊缃慬js]",
-            "type": 3,
-            "api": "./lib/apiv1447drpy2.min.js",
-            "ext": "./lib/闊虫偊缃?js"
-        },
-        {
-            "key": "drpy_js_鍝斿摡鐩存挱",
-            "name": "馃叡锔忓摂鍝?|鐩存挱",
-            "type": 3,
-            "api": "./lib/apiv1447drpy2.min.js",
-            "ext": "./lib/鍝斿摡鐩存挱.js"
-        },
-        {
-            "key": "drpy_js_鏂楅奔鐩存挱",
-            "name": "馃鏂楅奔|鐩存挱  [js]",
-            "type": 3,
-            "api": "./lib/apiv1447drpy2.min.js",
-            "ext": "./lib/鏂楅奔鐩存挱.js"
-        },
-        {
-            "key": "drpy_js_铏庣墮鐩存挱",
-            "name": "鐩存挱 | 铏庣墮[js]",
-            "type": 3,
-            "api": "./lib/apiv1447drpy2.min.js",
-            "ext": "./lib/铏庣墮鐩存挱.js"
-        },
-        {
-            "key": "csp_楣呯洿鎾?,
-            "name": "馃弨鈹冧紒楣呪攦鐩存挱",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./lib/qie.json"
-        },
-        {
-            "key": "csp_17鐪嬬悆",
-            "name": "鈿解攦涓€璧封攦鐩存挱",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./lib/鐪嬬悆.json"
-        },
-        {
-            "key": "姝屾墜_MV",
-            "name": "馃幍鈹冩瓕鎵嬧攦MV",
-            "type": 1,
-            "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
-            "searchable": 0
-        },
-    ],
-    "parses": [
-        {
-            "name": "Json杞",
-            "type": 2,
-            "url": "Sequence"
-        },
-        {
-            "name": "Json骞跺彂",
-            "type": 2,
-            "url": "Parallel"
-        },
-        {
-            "name": "瑙ｆ瀽鑱氬悎",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "瀹樿В1",
-            "type": 1,
-            "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
-            "ext": {
-                "flag": [
-                    "qiyi",
-                    "鐖卞鑹?,
-                    "濂囪壓",
-                    "youku",
-                    "浼橀叿",
-                    "mgtv",
-                    "鑺掓灉",
-                    "letv",
-                    "涔愯",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "鍝斿摡鍝斿摡",
-                    "鍝斿摡"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
-            }
-        },
-        {
-            "name": "瀹樿В2",
-            "type": 1,
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
-            "ext": {
-                "flag": [
-                    "qiyi",
-                    "鐖卞鑹?,
-                    "濂囪壓",
-                    "youku",
-                    "浼橀叿",
-                    "mgtv",
-                    "鑺掓灉",
-                    "letv",
-                    "涔愯",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "xigua",
-                    "bilibili",
-                    "鍝斿摡鍝斿摡",
-                    "鍝斿摡"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
-            }
-        },
-        {
-            "name": "鐜夌背",
-            "type": 1,
-            "url": "http://61.147.93.21:8090/index.php?url="
-        },
-        {
-            "name": "鑷姩瑙ｆ瀽",
-            "type": 1,
-            "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
-        },
-        {
-            "name": "鎵嬪姩瑙ｆ瀽",
-            "type": 1,
-            "url": "http://json.xg688.top/api/?key=ApHG2jGcimQWPOj5mO&url="
-        },
-        {
-            "name": "鑾棶鍓嶇▼",
-            "type": 1,
-            "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
-            "flag": [
-                "qq",
-                "鑵捐",
-                "qiyi",
-                "鐖卞鑹?,
-                "濂囪壓",
-                "youku",
-                "浼橀叿",
-                "mgtv",
-                "鑺掓灉",
-                "letv",
-                "leshi",
-                "LS",
-                "涔愯",
-                "pptv",
-                "PPTV",
-                "sohu",
-                "bilibili",
-                "鍝斿摡鍝斿摡",
-                "鍝斿摡"
-            ]
-        },
-        {
-            "name": "澶滄洸瑙ｆ瀽",
-            "type": 1,
-            "url": "http://xhww.fun:63/鐖辫偉鐚?php?url=",
-            "flag": [
-                "qq",
-                "鑵捐",
-                "qiyi",
-                "鐖卞鑹?,
-                "濂囪壓",
-                "youku",
-                "浼橀叿",
-                "mgtv",
-                "鑺掓灉",
-                "letv",
-                "leshi",
-                "LS",
-                "涔愯",
-                "pptv",
-                "PPTV",
-                "sohu",
-                "bilibili",
-                "鍝斿摡鍝斿摡",
-                "鍝斿摡"
-            ]
-        },
-        {
-            "name": "鑵捐鍡呮帰",
-            "type": 0,
-            "url": "https://jx.777jiexi.com/player/?url="
-        },
-        {
-            "name": "鑺掓灉鍡呮帰",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url="
-        },
-        {
-            "name": "鐧借尪鍡呮帰",
-            "url": "https://jx.bozrc.com:4433/player/?url=",
-            "showType": 1
-        },
-        {
-            "name": "婊囩孩鍡呮帰",
-            "type": 0,
-            "url": "https://jx.777jiexi.com/player/?url="
-        },
-        {
-            "name": "灏忕鍡呮帰",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url="
-        },
-        {
-            "name": "姣涘皷鍡呮帰",
-            "type": 0,
-            "url": "https://jx.bozrc.com:4433/player/?url=",
-            "flag": [
-                "qq",
-                "鑵捐",
-                "qiyi",
-                "鐖卞鑹?,
-                "濂囪壓",
-                "youku",
-                "浼?,
-                "mgtv",
-                "鑺掓灉",
-                "letv",
-                "leshi",
-                "LS",
-                "涔愯",
-                "pptv",
-                "PPTV",
-                "sohu",
-                "bilibili",
-                "鍝斿摡鍝斿摡",
-                "鍝斿摡"
-            ]
-        },
-        {
-            "name": "鏅幢鍡呮帰",
-            "url": "https://jx.bozrc.com:4433/player/?url=",
-            "type": 0,
-            "flag": [
-                "qiyi",
-                "imgo",
-                "鐖卞鑹?,
-                "濂囪壓",
-                "qq",
-                "鑵捐",
-                "youku",
-                "浼?,
-                "pptv",
-                "PPTV",
-                "letv",
-                "涔愯",
-                "leshi",
-                "bilibili",
-                "鍝斿摡鍝斿摡",
-                "鍝斿摡",
-                "mgtv",
-                "鑺掓灉",
-                "sohu",
-                "xigua",
-                "fun",
-                "椋庤"
-            ]
-        },
-        {
-            "name": "绾㈣尪鍡呮帰",
-            "type": 0,
-            "url": "https://jx.4kdv.com/?url=",
-            "flag": [
-                "qq",
-                "鑵捐",
-                "qiyi",
-                "鐖卞鑹?,
-                "濂囪壓",
-                "youku",
-                "浼?,
-                "mgtv",
-                "鑺掓灉",
-                "letv",
-                "leshi",
-                "LS",
-                "涔愯",
-                "pptv",
-                "PPTV",
-                "sohu",
-                "bilibili",
-                "鍝斿摡鍝斿摡",
-                "鍝斿摡"
-            ]
-        },
-        {
-            "name": "鍡呮帰1",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url=",
-            "flag": [
-                "qq",
-                "鑵捐",
-                "qiyi",
-                "鐖卞鑹?,
-                "濂囪壓",
-                "youku",
-                "浼?,
-                "mgtv",
-                "鑺掓灉",
-                "letv",
-                "leshi",
-                "LS",
-                "涔愯",
-                "pptv",
-                "PPTV",
-                "sohu",
-                "bilibili",
-                "鍝斿摡鍝斿摡",
-                "鍝斿摡"
-            ]
-        },
-        {
-            "name": "鍡呮帰2",
-            "type": 0,
-            "url": "https://jx.bozrc.com:4433/player/?url=",
-            "flag": [
-                "qq",
-                "鑵捐",
-                "qiyi",
-                "鐖卞鑹?,
-                "濂囪壓",
-                "youku",
-                "浼?,
-                "mgtv",
-                "鑺掓灉",
-                "letv",
-                "leshi",
-                "LS",
-                "涔愯",
-                "pptv",
-                "PPTV",
-                "sohu",
-                "bilibili",
-                "鍝斿摡鍝斿摡",
-                "鍝斿摡"
-            ]
+  "wallpaper": "https://picsum.photos/1280/720/?blur=2",
+  "spider": "./custom_spider.jar;md5;8ad8655497f68798486068d6360c4142",
+  "lives": [
+    {
+      "name": "本地live文件",
+      "type": "0",
+      "pass": true,
+      "url": "clan://XYQTVBox/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "FMM_IPV6",
+      "type": "0",
+      "pass": true,
+      "url": "./lib/ipv6.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "sites": [
+    {
+      "key": "csp_LocalFile",
+      "name": "💻本地视频",
+      "type": 3,
+      "api": "csp_LocalFile",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "type_flag": 0
+    },
+    {
+      "key": "drpy_js_豆瓣",
+      "name": "豆瓣[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/drpy.js"
+    },
+    {
+      "key": "drpy_js_奇珍异兽",
+      "name": "奇珍异兽[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/奇珍异兽.js"
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "优酷[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/优酷.js"
+    },
+    {
+      "key": "drpy_js_腾云驾雾",
+      "name": "腾云驾雾[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/腾云驾雾.js"
+    },
+    {
+      "key": "drpy_js_百忙无果",
+      "name": "百忙无果[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/百忙无果.js"
+    },
+    {
+      "key": "Gitcafe",
+      "name": "📀小纸条(搜索)",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+    },
+    {
+      "key": "csp_Zhaozy",
+      "name": "📀找资源(搜索)",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\"username\":\"fanty\",\"password\":\"qqq111\",\"searchurl\":\"http://zhaoziyuan.pw/so?filename={wd}\"}"
+    },
+    {
+      "key": "csp_AliPS",
+      "name": "📀喵狸盘搜(搜索)",
+      "type": 3,
+      "api": "csp_AliPS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+    },
+    {
+      "key": "csp_Yisou",
+      "name": "📀易搜(搜索)",
+      "type": 3,
+      "api": "csp_Yisou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+    },
+    {
+      "key": "csp_Upyunso",
+      "name": "📀UP云搜(搜索)",
+      "type": 3,
+      "api": "csp_Upyunso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+    },
+    {
+      "key": "csp_XYQHikerAL_玩偶哥哥",
+      "name": "📀玩偶哥哥(优)",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/玩偶哥哥.json"
+    },
+    {
+      "key": "csp_XYQHikerAL_玩偶妹妹",
+      "name": "📀玩偶妹妹(优)",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/玩偶妹妹.json"
+    },
+    {
+      "key": "csp_XYQHikerAL_云盘资源",
+      "name": "📀云盘资源(搜索)",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/云盘资源.json"
+    },
+    {
+      "key": "push_agent",
+      "name": "📽推送",
+      "type": 3,
+      "api": "csp_PushAgent",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+    },
+    {
+      "key": "csp_Mp4Mov",
+      "name": "🧲Mp4电影",
+      "type": 3,
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_New6v",
+      "name": "🧲新6V",
+      "type": 3,
+      "api": "csp_New6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.xb6v.com"
+    },
+    {
+      "key": "csp_SeedHub",
+      "name": "🧲SeedHub",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_KubaCL",
+      "name": "🧲酷吧电影",
+      "type": 3,
+      "api": "csp_KubaCL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_MeijuMi",
+      "name": "🧲美剧迷",
+      "type": 3,
+      "api": "csp_MeijuMi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Xunlei8",
+      "name": "🧲迅雷吧",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "360_spider",
+      "name": "🐞360影视",
+      "type": 3,
+      "api": "csp_SP360",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1
+    },
+    {
+      "key": "csp_Kuaikan",
+      "name": "💡快看影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Czsapp",
+      "name": "🐞厂长资源",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.czys.me"
+    },
+    {
+      "key": "csp_Bdys",
+      "name": "🐞哔嘀影视",
+      "type": 3,
+      "api": "csp_Bdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Ddys",
+      "name": "🐞低端影视",
+      "type": 3,
+      "api": "csp_Ddys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Kunyu77",
+      "name": "🐞77影视",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_JianPian",
+      "name": "🔨荐片",
+      "type": 3,
+      "api": "csp_JianPian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+    },
+    {
+      "key": "csp_Ikanbot",
+      "name": "👾Ikanbot",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Bili",
+      "name": "🐞哔哩综合",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/Bili.json"
+    },
+    {
+      "key": "csp_XYQHiker_兔小贝",
+      "name": "兔小贝(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/兔小贝.json"
+    },
+    {
+      "key": "csp_XYQHiker_兔小贝2",
+      "name": "兔小贝2(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/兔小贝2.json"
+    },
+    {
+      "key": "csp_XYQHiker_播视童趣",
+      "name": "播视童趣(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/播视童趣.json"
+    },
+    {
+      "key": "csp_Bili幼儿",
+      "name": "🐞哔哩幼儿",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/幼儿乐园.json"
+    },
+    {
+      "key": "csp_Bili少儿",
+      "name": "🐞哔哩少儿",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/少儿教育.json"
+    },
+    {
+      "key": "csp_Bili小学",
+      "name": "🐞哔哩小学",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/小学课堂.json"
+    },
+    {
+      "key": "csp_Bili初中",
+      "name": "🐞哔哩初中",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/初中课堂.json"
+    },
+    {
+      "key": "csp_Bili高中",
+      "name": "🐞哔哩高中",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/高中课堂.json"
+    },
+    {
+      "key": "JS哔哩直播",
+      "name": "哔哩直播[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/哔哩直播.js"
+    },
+    {
+      "key": "csp_Bili短剧",
+      "name": "🐞哔哩短剧",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/Bili短剧.json"
+    },
+    {
+      "key": "csp_短剧网",
+      "name": "短剧网",
+      "type": 3,
+      "api": "csp_Duanjuw",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_XYQHiker_农民影视",
+      "name": "🧑🏻‍农民影视(HM2)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/农民影视.json"
+    },
+    {
+      "key": "csp_XYQHiker_996影视",
+      "name": "996影视(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/996影视.json"
+    },
+    {
+      "key": "csp_XYQBiu_88看球",
+      "name": "88看球(XYQ)",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./lib/88看球.json"
+    },
+    {
+      "key": "csp_Yj1211",
+      "name": "📡JustLive",
+      "type": 3,
+      "api": "csp_Yj1211",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "DRJS_虎牙",
+      "name": "虎牙直播(JS)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/虎牙直播.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "csp_XYQHiker_虎牙直播",
+      "name": "🐯虎牙直播(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./lib/虎牙直播.json"
+    },
+    {
+      "key": "csp_XYQHiker_斗鱼直播",
+      "name": "🐠斗鱼直播(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/斗鱼直播.json"
+    },
+    {
+      "key": "csp_XYQBiu_网易CC直播",
+      "name": "🕸网易CC直播(XYQ)",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./lib/网易CC直播.json"
+    }
+  ],
+  "parses": [
+    {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "-咸鱼-",
+      "type": 0,
+      "url": "https://jx.xyflv.cc/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+          "referer": "https://www.xyflv.cc/"
         }
-    ],
-    "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    "spider": "./lib/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
-    "lives": [
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "銆巐ive",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=https://www.huichunniao.cn/vip/4k/tv.json"
-                    ]
-                }
-            ]
+      }
+    },
+    {
+      "name": "-虾米-",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
         }
-    ],
-    "flags": [
-        "youku",
-        "qq",
-        "iqiyi",
-        "qiyi",
-        "letv",
-        "sohu",
-        "tudou",
-        "pptv",
-        "mgtv",
-        "wasu",
-        "bilibili",
-        "renrenmi"
-    ],
-    "ijk": [
+      }
+    },
+    {
+      "name": "-爱酷-",
+      "type": 0,
+      "url": "https://jx.zhanlangbu.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "ext": {
+          "header": {
+            "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      }
+    },
+    {
+      "name": "-云解析-",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "-777-",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "-剖云-",
+      "type": 0,
+      "url": "https://www.kkvip2022.com/vip/jiexi1/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "-全看-",
+      "type": 0,
+      "url": "https://jx.quankan.app/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "-爱豆-",
+      "type": 0,
+      "url": "https://jx.aidouer.net/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+          "referer": "https://jiejie.uk/"
+        }
+      }
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "renrenmi"
+  ],
+  "rules": [
+    {
+      "host": "www.iesdouyin.com",
+      "rule": [
+        "playwm/?video_id="
+      ]
+    },
+    {
+      "host": "www.ysgc.vip",
+      "rule": [
+        "getm3u8?url=http"
+      ]
+    },
+    {
+      "host": "v.douyin.com",
+      "rule": [
+        "playwm/?video_id="
+      ]
+    },
+    {
+      "host": "dyxs20.com",
+      "rule": [
+        ".m3u8"
+      ]
+    },
+    {
+      "host": "www.agemys.cc",
+      "rule": [
+        "cdn-tos",
+        "obj/tos-cn"
+      ]
+    },
+    {
+      "host": "www.sharenice.net",
+      "rule": [
+        "http.*?/play.{0,3}\\?[^url]{2,8}=.*",
+        "qianpailive.com",
+        "vid="
+      ]
+    },
+    {
+      "name": "暴风",
+      "hosts": [
+        "bfzy",
+        "bfbfvip"
+      ],
+      "regex": [
+        "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "量子",
+      "hosts": [
+        "vip.lz",
+        "hd.lz",
+        ".cdnlz"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "非凡",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy"
+      ],
+      "regex": [
+        "20.52",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
+        "#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "索尼",
+      "hosts": [
+        "suonizy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+",
+        "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "快看",
+      "hosts": [
+        "kuaikan"
+      ],
+      "regex": [
+        "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "海外看",
+      "hosts": [
+        "haiwaikan"
+      ],
+      "regex": [
+        "10.0099",
+        "10.3333",
+        "16.0599",
+        "8.1748",
+        "10.85"
+      ]
+    },
+    {
+      "name": "磁力广告",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "更多",
+        "社 區",
+        "x u u",
+        "最 新",
+        "更 新",
+        "社 区",
+        "有趣",
+        "有 趣",
+        "英皇体育",
+        "全中文AV在线",
+        "澳门皇冠赌场",
+        "哥哥快来",
+        "美女荷官",
+        "裸聊",
+        "新片首发",
+        "UUE29"
+      ]
+    }
+  ],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
         {
-            "group": "杞В鐮?,
-            "options": [
-                {
-                    "category": 4,
-                    "name": "opensles",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "overlay-format",
-                    "value": "842225234"
-                },
-                {
-                    "category": 4,
-                    "name": "framedrop",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "soundtouch",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "start-on-prepared",
-                    "value": "1"
-                },
-                {
-                    "category": 1,
-                    "name": "http-detect-range-support",
-                    "value": "0"
-                },
-                {
-                    "category": 1,
-                    "name": "fflags",
-                    "value": "fastseek"
-                },
-                {
-                    "category": 2,
-                    "name": "skip_loop_filter",
-                    "value": "48"
-                },
-                {
-                    "category": 4,
-                    "name": "reconnect",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "enable-accurate-seek",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-auto-rotate",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-handle-resolution-change",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-hevc",
-                    "value": "0"
-                },
-                {
-                    "category": 1,
-                    "name": "dns_cache_timeout",
-                    "value": "600000000"
-                }
-            ]
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
         },
         {
-            "group": "纭В鐮?,
-            "options": [
-                {
-                    "category": 4,
-                    "name": "opensles",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "overlay-format",
-                    "value": "842225234"
-                },
-                {
-                    "category": 4,
-                    "name": "framedrop",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "soundtouch",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "start-on-prepared",
-                    "value": "1"
-                },
-                {
-                    "category": 1,
-                    "name": "http-detect-range-support",
-                    "value": "0"
-                },
-                {
-                    "category": 1,
-                    "name": "fflags",
-                    "value": "fastseek"
-                },
-                {
-                    "category": 2,
-                    "name": "skip_loop_filter",
-                    "value": "48"
-                },
-                {
-                    "category": 4,
-                    "name": "reconnect",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "enable-accurate-seek",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-auto-rotate",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-handle-resolution-change",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-hevc",
-                    "value": "1"
-                },
-                {
-                    "category": 1,
-                    "name": "dns_cache_timeout",
-                    "value": "600000000"
-                }
-            ]
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
         }
-    ],
-    "ads": [
-        
-    ]
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    }
+  ],
+  "ads": [
+    "mimg.0c1q0l.cn",
+    "www.googletagmanager.com",
+    "www.google-analytics.com",
+    "mc.usihnbcq.cn",
+    "mg.g1mm3d.cn",
+    "mscs.svaeuzh.cn",
+    "cnzz.hhttm.top",
+    "tp.vinuxhome.com",
+    "cnzz.mmstat.com",
+    "www.baihuillq.com",
+    "s23.cnzz.com",
+    "z3.cnzz.com",
+    "c.cnzz.com",
+    "stj.v1vo.top",
+    "z12.cnzz.com",
+    "img.mosflower.cn",
+    "tips.gamevvip.com",
+    "ehwe.yhdtns.com",
+    "xdn.cqqc3.com",
+    "www.jixunkyy.cn",
+    "sp.chemacid.cn",
+    "hm.baidu.com",
+    "s9.cnzz.com",
+    "z6.cnzz.com",
+    "um.cavuc.com",
+    "mav.mavuz.com",
+    "wofwk.aoidf3.com",
+    "z5.cnzz.com",
+    "xc.hubeijieshikj.cn",
+    "tj.tianwenhu.com",
+    "xg.gars57.cn",
+    "k.jinxiuzhilv.com",
+    "cdn.bootcss.com",
+    "ppl.xunzhuo123.com",
+    "xomk.jiangjunmh.top",
+    "img.xunzhuo123.com",
+    "z1.cnzz.com",
+    "s13.cnzz.com",
+    "xg.huataisangao.cn",
+    "z7.cnzz.com",
+    "xg.huataisangao.cn",
+    "z2.cnzz.com",
+    "s96.cnzz.com",
+    "q11.cnzz.com",
+    "thy.dacedsfa.cn",
+    "xg.whsbpw.cn",
+    "s19.cnzz.com",
+    "z8.cnzz.com",
+    "s4.cnzz.com",
+    "f5w.as12df.top",
+    "ae01.alicdn.com",
+    "www.92424.cn",
+    "k.wudejia.com",
+    "vivovip.mmszxc.top",
+    "qiu.xixiqiu.com",
+    "cdnjs.hnfenxun.com",
+    "cms.qdwght.com",
+    "api.htpan.net"
+  ]
 }
