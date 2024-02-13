@@ -28,6 +28,7 @@ T分解出的直播地址https://www.huichunniao.cn/vip/4k/tv.json，变成自�
 
 TVBOXP 配置地址
 http://cdn.qiaoji8.com/tvbox.json
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolvdouya/zhiboyuan/main/t.json  （自带直播地址）
 
 最多最全 DIYP fanmingming.txt
 我的ff： https://raw.githubusercontent.com/xiaolvdouya/zhiboyuan/main/ff.txt
