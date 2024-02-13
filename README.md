@@ -23,6 +23,9 @@ https://epg.112114.xyz
 设置节目列表接
 https.//cms.zhaohezuo.top/auth/live
 
+点播T文件 加速后地址：https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolvdouya/zhiboyuan/main/t.json
+T分解出的直播地址https://www.huichunniao.cn/vip/4k/tv.json，变成自己地址 https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolvdouya/zhiboyuan/main/t.txt
+
 TVBOXP 配置地址
 http://cdn.qiaoji8.com/tvbox.json
 
