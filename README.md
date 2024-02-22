@@ -39,6 +39,11 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolvdouya/zhiboyu
 
 城市app:"udpxy multicast UDP-to-HTTP"+country:"china"+city:"jinan"
 
+除了112114外还有epg接口吗
+
+http://epg.51zmt.top:8000/
+https://epg.erw.cc/index.html
+
 打开网页  http://121.17.146.164:2023/status，，意思为端口加/status
 
 承认的 ：https://raw.githubusercontent.com/TCatCloud/IPTV/Files/Adult.m3u
