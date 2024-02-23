@@ -1,4 +1,5 @@
 1-央视频道,#genre#
+CCTV-1 综合,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228213/1.m3u8
 CCTV-1 综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV-1 综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
@@ -82,6 +83,7 @@ CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
+
 2-卫视频道,#genre#
 中国天气,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000057/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000057&livemode=1&stbId=3
 中国天气,http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031974/1.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3
@@ -159,14 +161,23 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 3-港澳台,#genre#
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/PLTV/1/224/3221231041/1.m3u8
-凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰中文,https://0472.org/hls/youzaiSB/fhzw.m3u8
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+凤凰香港,https://0472.org/hls/youzaiSB/fhhk.m3u8
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤凰资讯,http://222.217.246.54:8282/tsfile/live/1082_1.m3u8
+凤凰资讯,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
+凤凰中文,http://pi.0472.org/tv/cbn.php?id=xfjcHD
+凤凰香港,http://222.217.246.54:8282/tsfile/live/1084_1.m3u8
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix_Chinese
+凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8?$官源 720P
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
@@ -246,6 +257,7 @@ TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 卡酷少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 
 
+
 5-上海频道,#genre#
 法治天地,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
 上海新闻综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
@@ -292,6 +304,7 @@ TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 环球旅游,http://117.9.184.254:8888/rtp/225.1.2.200:5002
 环球奇观,http://117.9.184.254:8888/rtp/225.1.1.197:5002
 精彩影视,http://117.9.184.254:8888/rtp/225.1.1.141:5002
+
 
 
 7-河北频道,#genre#
@@ -593,6 +606,7 @@ SLTV,http://27.188.111.223:9009/rtp/239.254.201.100:5179
 
 
 
+
 8-山东频道,#genre#
 山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
 山东生活,http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
@@ -674,6 +688,7 @@ CCTV综艺2,http://39.77.0.117:8989//rtp/239.253.254.129:8000
 菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
 菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd
+
 
 
 9-教育频道,#genre#
