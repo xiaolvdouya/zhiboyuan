@@ -591,7 +591,7 @@ TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 SLTV,http://27.188.111.223:9009/rtp/239.254.201.100:5179
 九屏直播频道,http://27.188.111.223:9009/rtp/239.254.200.248:6000
 
-8-山东频道,#genre#
+山东频道,#genre#
 山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
 山东生活,http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
 山东综艺,http://150.138.8.143/00/SNM/CHANNEL00000338/index.m3u8
@@ -673,8 +673,7 @@ CCTV综艺2,http://39.77.0.117:8989//rtp/239.253.254.129:8000
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
 菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd
 
-
-9-教育频道,#genre#
+教育频道,#genre#
 CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
