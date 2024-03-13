@@ -1,4 +1,4 @@
-1-央视频道,#genre#
+1-央视频道📡,#genre#
 CCTV-1 综合,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228213/1.m3u8
 CCTV-1 综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
@@ -102,7 +102,7 @@ CGTN阿语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000028
 
 
 
-2-卫视频道,#genre#
+2-卫视频道📡,#genre#
 中国天气,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000057/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000057&livemode=1&stbId=3
 中国天气,http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031974/1.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3
 河北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8
@@ -185,7 +185,7 @@ CGTN阿语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000028
 
 
 
-3-港澳台,#genre#
+3-港澳台🌏,#genre#
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
@@ -924,7 +924,7 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 
 
 
-22-纪录片,#genre#
+22-纪录片🎬,#genre#
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
 探索发现,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
@@ -1374,7 +1374,7 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 
 
 
-23-国际频道,#genre#
+23-国际频道🌏,#genre#
 半岛新闻,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/xztv/4gtv.php?id=litv-ftv10
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -1389,51 +1389,187 @@ NHK WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/in
 美国中文电视,https://cdnts.sinovision.net/livestream.m3u8
 
 
-24-春晚系列,#genre#
-春晚83,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
-春晚84,https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
-春晚85,http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8
-春晚86,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
-春晚87,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-春晚88,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-春晚89,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
-春晚91,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
-春晚92,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-春晚93,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
-春晚94,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
-春晚95,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
-春晚96,https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
-春晚97,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-春晚98,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-春晚99,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-春晚00,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-春晚01,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
-春晚02,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
-春晚03,https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
-春晚04,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
-春晚05,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
-春晚06,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
-春晚07,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
-春晚08,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
-春晚09,https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
-春晚10,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
-春晚11,https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
-春晚12,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
-春晚13,https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
-春晚14,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
-春晚15,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
-春晚16,https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
-春晚17,https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
-春晚18,https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
-春晚19,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
-春晚20,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-春晚21,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
-春晚22,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
-春晚23网络,https://vod12.xmyysw.com/20230115/0WtBoE23/index.m3u8
-春晚23,https://vod12.xmyysw.com/20230122/JgWBWCQH/index.m3u8
+24-春晚系列🌃,#genre#
+春晚1983,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
+春晚1984,https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
+春晚1985,http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8
+春晚1986,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
+春晚1987,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+春晚1988,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+春晚1989,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
+春晚1991,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
+春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+春晚1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+春晚1996,https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
+春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+春晚1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+春晚1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+春晚2000,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+春晚2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+春晚2002,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
+春晚2003,https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
+春晚2004,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
+春晚2005,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
+春晚2006,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
+春晚2007,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
+春晚2008,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+春晚2009,https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
+春晚2010,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
+春晚2011,https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
+春晚2012,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
+春晚2013,https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
+春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+春晚2015,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+春晚2016,https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
+春晚2017,https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
+春晚2018,https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
+春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
+春晚2020,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+春晚2021,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
+春晚2022,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
+春晚2023网络,https://vod12.xmyysw.com/20230115/0WtBoE23/index.m3u8
+春晚2023,https://vod12.xmyysw.com/20230122/JgWBWCQH/index.m3u8
+//新加源
+春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+春晚1986,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
+春晚1987,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+春晚1988,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+春晚1989,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+春晚1991,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
+春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+春晚1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+春晚1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+春晚1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+春晚1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+春晚1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+春晚2000,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
+春晚2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+春晚2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+春晚2002,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
+春晚2004,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
+春晚2005,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
+春晚2006,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
+春晚2007,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
+春晚2008,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
+春晚2009,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+春晚2020,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+西游齐天乐1987,http://50069.njc.svp.tencent-cloud.com/0bc3fuaaiaaavuaibgr5f5rfalodaqwqabaa.f10003.mp4
 
 
-25-悠哉TV,#genre#
+25-🌃春晚小品,#genre#
+吃面,https://vd3.bdstatic.com/mda-kihjn2cq7103ivig/v1-cae/hd/mda-kihjn2cq7103ivig.mp4
+非诚来扰,https://vd3.bdstatic.com/mda-jk4sx2ggq7u355d6/hd/mda-jk4sx2ggq7u355d6.mp4
+幸福密码,https://vd3.bdstatic.com/mda-kj9ispnax8gpirkf/hd/mda-kj9ispnax8gpirkf.mp4
+狭路相逢,https://vd3.bdstatic.com/mda-kanfj7h320ueqgkg/v1-cae/hd/mda-kanfj7h320ueqgkg.mp4
+最佳酒友,https://vd3.bdstatic.com/mda-jheqyidz841gwxpy/hd/mda-jheqyidz841gwxpy.mp4
+整容归来,https://vd3.bdstatic.com/mda-ji1xe9cmasuh0722/hd/mda-ji1xe9cmasuh0722.mp4
+老王卖瓜,https://vd3.bdstatic.com/mda-jkrk9bk95f9utr9r/hd/mda-jkrk9bk95f9utr9r.mp4
+策划,https://vd3.bdstatic.com/mda-ki60ag5ub193axs9/hd/mda-ki60ag5ub193axs9.mp4?pd=19&vt=1&playlist=%5B%22sc%22%2C%22hd%22%5D
+不差钱,https://vdse.bdstatic.com//769f31778a85f33825c44a9b0c70ac37.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T10%3A24%3A57Z%2F-1%2Fhost%2F9d4a74ab09dc18c2f4d9b0b8f77c621471a15359ec3b77c186f51611f4712005
+就差钱,https://vdse.bdstatic.com//812d49e751aa31530ec39debfe54a359.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-14T08%3A49%3A09Z%2F-1%2Fhost%2Fa58bdb86d23b53b6909e8e19d85dad9fed3adeba4a664a22eef9a7d32ac2486a
+昨天今天明天,https://vd3.bdstatic.com/mda-ia4xz7n2s4hxbhby/logo/hd/mda-ia4xz7n2s4hxbhby.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
+捐助,https://vd3.bdstatic.com/mda-jaqz8g17b9cvryks/hd/mda-jaqz8g17b9cvryks.mp4?pd=19&vt=1
+捐助后传,https://vd3.bdstatic.com/mda-kbsrpz9zmbbvznjw/hd/mda-kbsrpz9zmbbvznjw.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
+小崔说事,https://vdse.bdstatic.com//2f54cd59170279f94c5b354179bda8c0.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-12T04%3A47%3A48Z%2F-1%2Fhost%2Fc0d35c8c0a00af3226ac1bc3a1510c1474d8054a30290740da4a2d567924f779
+小崔说事儿,https://vdse.bdstatic.com//0881642336164cb448c0d8addd2d22a6.mp4?authorization=bce-auth-v1/40f207e648424f47b2e3dfbb1014b1a5/2022-05-28T07:29:10Z/-1/host/4c290e67925bf7954af616c290b337b52a840355f1184f78619d696a5da5c0bb
+中奖了,https://vd3.bdstatic.com/mda-kmkh9zy2b3gnx4bq/mda-kmkh9zy2b3gnx4bq.mp4?pd=19&vt=1
+卖拐,https://vd3.bdstatic.com/mda-mdgia7vnkscvxh6d/v1-hknm/hd/mda-mdgia7vnkscvxh6d.mp4?pd=19&vt=1
+功夫,https://vd3.bdstatic.com/mda-mjn3rmcivntas8ez/hd/cae_h264_nowatermark/1635016788091110865/mda-mjn3rmcivntas8ez.mp4?pd=19&vt=1
+相亲1,https://vd3.bdstatic.com/mda-ki5quadqsdi1tk9e/mda-ki5quadqsdi1tk9e.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=3024484252&vid=10808391094376007907&auth_key=1655295624-0-0-6fb10727b6c3c195f08ff9bebe036cd0&bcevod_channel=searchbox_feed
+相亲2,https://vd3.bdstatic.com/mda-kipkytij74rnn9k3/hd/mda-kipkytij74rnn9k3.mp4?pd=19&vt=1&playlist=%5B%22sc%22%2C%22hd%22%5D
+钟点工,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000c8e2e53c77ua6v88gk9g&ratio=720p&line=0
+火炬手,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000c54t79jc77u7est4rcn0&ratio=720p&line=0
+火炬手,https://vd3.bdstatic.com/mda-jar0302925j1nwep/hd/mda-jar0302925j1nwep.mp4?pd=19&vt=1&playlist=%5B%22hd%22%5D
+生日快乐,https://vd3.bdstatic.com/mda-mkskgzkzsgvgcntm/540p/h264_cae/1638023743815756700/mda-mkskgzkzsgvgcntm.mp4?pd=19&vt=1
+狭路相逢,https://vd3.bdstatic.com/mda-kd0mku18u3rui7gz/v1-cae/hd/mda-kd0mku18u3rui7gz.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
+赵本山小品128分钟,https://vd3.bdstatic.com/mda-mkskgzkzsgvgcntm/540p/h264_cae/1638023743815756700/mda-mkskgzkzsgvgcntm.mp4?pd=19&vt=1
+超级大明星,https://vd3.bdstatic.com/mda-ji3f9bxs1cxwmui7/hd/mda-ji3f9bxs1cxwmui7.mp4?pd=19&vt=1&playlist=%5B%22hd%22%5D
+阳仔演笑会,https://vdse.bdstatic.com//cf06ee490cf69657ab9f333e067b348e.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T10%3A30%3A16Z%2F-1%2Fhost%2Fe3b07458bdfa3f2b9dd841f97ab3b32a73e1f5c3c55fec0e851f21054900b4a3
+阳仔演笑会2,https://vdse.bdstatic.com//b837548733e6bd32629f9134457ad811.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-14T12%3A24%3A48Z%2F-1%2Fhost%2F21b407cd58e7d2f39864128a9160659f1f4845e2cf4c01c6e2a3f30be1dbc557
+同桌的你,https://vd3.bdstatic.com/mda-kkfwqyn6sc4r5579/mda-kkfwqyn6sc4r5579.mp4?pd=19&vt=1
+中奖了,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000c416nhbc77ueljqcfms0&ratio=720p&line=0
+有钱了,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000c4mruerc77ua2hethfig&ratio=720p&line=0
+小草,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f580000bqvq5p2kgg1hr4fgtkng&ratio=720p&line=0
+小九老乐,https://vd3.bdstatic.com/mda-maqs355itqp221rx/v2-hknm/hd/mda-maqs355itqp221rx.mp4?pd=19&vt=1
+办班,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300f830000bqvq3vcssiod1f1acv10&ratio=720p&line=0
+年前年后,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300f250000br00c6t03hnekstiv2rg&ratio=720p&line=0
+卖梨,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f850000bqvq43ueankk4sopbea0&ratio=720p&line=0
+城市打工妹,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fb00000br0007k2v0nbugkvpqc0&ratio=720p&line=0
+如此竞争,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fe60000br000frls1kbc9rjapeg&ratio=720p&line=0
+儿子大了,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f020000bqvq3u89lgt8of4fk0tg&ratio=720p&line=0
+同学会,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f9c0000brabn8v70gfhplsfi78g&ratio=720p&line=0
+拜年,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0d00fg10000c83hhi3c77u01a8d7hp0&ratio=720p&line=0
+送水,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0d00fg10000c6maam3c77u27tbr0bm0&ratio=720p&line=0
+辽宁小品,http://epg.112114.xyz/douyu/9322175
+新虎口遐想,https://vd4.bdstatic.com/mda-jarfmdf8su7sckk3/hd/mda-jarfmdf8su7sckk3.mp4?auth_key=1655295819-0-0-df94f7531d93ff90ad12888c89a672ca&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3219421685&vid=8705230262897615568&abtest=all
+冯巩郭冬临狗不理包子,https://vd2.bdstatic.com/mda-jdqwqnk1xxszhw8c/mda-jdqwqnk1xxszhw8c.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=2275698282&vid=17330773072848394300&auth_key=1655291275-0-0-73fe6c276ababcdb43b87a4fda6002df&bcevod_channel=searchbox_feed
+牛群冯巩领导冒号,https://vdse.bdstatic.com//123b1e01f5128d0e71b4f392ec1a971c.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-12T06%3A54%3A23Z%2F-1%2Fhost%2F6274ff464fd635b6108aacc556df42224f265e9b3f4bd3a37a74cbdbf985d0b8
+冯巩相声,https://vdse.bdstatic.com//65873c285f222c4cfeecf527f3e84259.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T09%3A55%3A46Z%2F-1%2Fhost%2F9119b3500a8e21fb21665d9576bbf410e5a0fa8904ccc1ce0d3aabde21c99c8a
+牛群冯巩我的儿子,https://vdse.bdstatic.com//f27179e048a85dd2f00d16f6a13ac370.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T08%3A43%3A23Z%2F-1%2Fhost%2F026eb7ddc17de37a053903ceb90523b0265d8e5c7ed8eb5b20f5cc0de186f27c
+牛群冯巩两个弄潮儿,https://vd3.bdstatic.com/mda-mkqdhm17rs7198m6/hd/cae_h264/1637859905115117938/mda-mkqdhm17rs7198m6.mp4?pd=19&vt=1
+要条件,https://vd2.bdstatic.com/mda-kgah4byryi8gsqk8/v1-cae/mda-kgah4byryi8gsqk8.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=1347013120&vid=11361264719745011699&auth_key=1655290347-0-0-5dfca4bc79fbe4b6685de35fd1e0a622&bcevod_channel=searchbox_feed
+岳云鹏相声给我个机会,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fab0000buf8p6s0srttfb9ulotg&ratio=720p&line=0
+孔云龙扒马褂,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000c7la4l3c77u5vs0abgs0&ratio=720p&line=0
+经典小品[1920x1080],http://epg.112114.xyz/douyu/9067836
+经典小品[1920x1080],http://epg.112114.xyz/douyu/9067836
+相声小品[960x540],http://epg.112114.xyz/douyu/9286868
+yy小品,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354931503
+yy小品2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382741642
+yy小品3,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936198
+经典小品,http://epg.112114.xyz/douyu/9067836
+
+26-🏆体育频道,#genre#
+
+CCTV5 体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
+CCTV5+ 体育赛事,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV16 奥林匹克,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
+五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
+纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+
+
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+
+辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
+广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8
+广东体育,http://r.jdshipin.com/LiYdg
+
+
+咪咕体育1,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226506/1.m3u8
+咪咕体育2,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226593/1.m3u8
+咪咕体育3,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226599/1.m3u8
+咪咕体育4,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226273/1.m3u8
+咪咕体育5,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226508/1.m3u8
+BesTV体育,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226149/1.m3u8
+哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226951/index.m3u8
+哒啵赛事,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw561250760_-677742974/ott.mobaibox.com/PLTV/3/224/3221225539/index.m3u8?icpid=3&RTS=1674380676&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+27-悠哉TV,#genre#
 悠哉TV,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 CCTV-1 综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV-2 财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
