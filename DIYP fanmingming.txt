@@ -789,6 +789,7 @@ CCTV3+(轮播),http://119.117.154.12:4022/rtp/232.0.0.118:1234$辽宁联通
 
 18-其他频道,#genre#
 CCTV卫生健康,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
+CCTV卫生健康,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513502.m3u8
 百姓健康,https://liveplay.xiaoeknow.com/live/5060_pyBeyjJ4RjcfhK7T.m3u8?time=1652436762565
 百姓健康,https://epg.pw/stream/a6b7f3617b62ba336483ec619f7fa2834339bb4e356f6ee05a6afeb9fd39e746.m3u8
 健康,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/jkys8m/8000000/mnf.m3u8
