@@ -71,3 +71,7 @@ N1盒子自带接口为：  http://cdn.qiaoji8.com/tvbox.json
 
 
 其官网为  http://www.qiaoji8.com/
+
+也许能回看的格式
+#EXTM3U url-tvg="https://epg.erw.cc/all.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
