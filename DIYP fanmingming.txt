@@ -185,11 +185,12 @@ CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 香港J2频道,http://1.65.195.85:9981/stream/channelid/2082072924?profile=pass
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-澳视卫星,http://61.244.22.5/ch3/ch3.live/index.m3u8
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+澳视卫视,http://61.244.22.5/ch3/ch3.live/index.m3u8
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
@@ -1414,6 +1415,19 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
 24-国际频道🌏,#genre#
+泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+欧洲体育,http://europa-crtvg.flumotion.com/playlist.m3u8
+金砖国家,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+日本新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+日本新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+俄罗斯台,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+
 半岛新闻,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/xztv/4gtv.php?id=litv-ftv10
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
