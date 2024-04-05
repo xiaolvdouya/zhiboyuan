@@ -229,11 +229,17 @@ TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
 4-北京频道,#genre#
 
+北京纪实科教,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
+房山无线,http://live.funhillrm.com/2/sd/live.m3u8
+房山无线http://live.funhillrm.com/2/sd/live.m3u8?zbeid
+房山有线,https://live.funhillrm.com/5/sd/live.m3u8
+房山有线,http://live.funhillrm.com/5/sd/live.m3u8
 北京纪实科教,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 京视剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8
-房山无线频道,http://live.funhillrm.com/2/sd/live.m3u8?zbeid
+
 石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8?zbeid
-房山有线,https://live.funhillrm.com/5/sd/live.m3u8
+
 北京卡酷,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 北京新闻,http://222.128.170.92:8182/rtp/239.3.1.159:8000
 北京纪实科教,http://222.128.170.92:8182/rtp/239.3.1.115:8000
