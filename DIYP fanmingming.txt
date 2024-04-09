@@ -325,6 +325,11 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 
 7-河北频道,#genre#
 河北经济生活,http://116.132.87.246:8888/newlive/live/hls/20/live.m3u8
+河北都市,http://116.132.87.246:8888/newlive/live/hls/21/live.m3u8
+河北影视剧,http://116.132.87.246:8888/newlive/live/hls/22/live.m3u8
+河北公共,http://116.132.87.246:8888/newlive/live/hls/23/live.m3u8
+
+
 河北经济生活,http://tv.pull.hebtv.com/jishi/jingjishenghuo.flv?t=2510710360&k=6494958546ba14f920b575250b82577d
 河北经济生活,http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=5ae52d7ff5118e85c19a12237a3518cb
 河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao.flv?t=2510710360&k=644e1285d17a22dfa4febf82d6a7edb5
@@ -332,7 +337,6 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 河北农民,http://zdwjl.eatuo.com:808/tsfile/live/1005_1.m3u8
 河北农民,https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd
 河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=1c19f1e16256d45e9fdcb9b6725647cc
-河北影视剧,http://116.132.87.246:8888/newlive/live/hls/22/live.m3u8
 河北影视剧,http://zdwjl.eatuo.com:808/tsfile/live/1002_1.m3u8
 河北影视剧,http://tv.pull.hebtv.com/jishi/yingshijupindao.flv?t=2510710360&k=615492494de96b182322e871a6df4eb2
 河北影视剧,http://tv.pull.hebtv.com/jishi/yingshijupindao.m3u8?t=2510710360&k=22da13f91d94e04e4935c5ed39dbdb62
@@ -342,7 +346,6 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.flv?t=2510710360&k=7bd4710986c2af7552dcf3d4686da62b
 河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11
 河北都市,http://zdwjl.eatuo.com:808/tsfile/live/1001_1.m3u8
-河北公共,http://116.132.87.246:8888/newlive/live/hls/23/live.m3u8
 河北公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.flv?t=2510710360&k=cff96e95e38e24efef71d7b2d9e884b9
 河北公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=753a034a499730b224c99667ec91eb4e
 河北公共,http://zdwjl.eatuo.com:808/tsfile/live/1004_1.m3u8
@@ -358,7 +361,10 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 保定新闻,http://zdwjl.eatuo.com:808/tsfile/live/1007_1.m3u8
 保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
 保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
-邯郸新闻,https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
+邯郸新闻综合,http://116.132.87.246:8888/newlive/live/hls/24/live.m3u8
+邯郸公共,http://116.132.87.246:8888/newlive/live/hls/25/live.m3u8
+邯郸科技教育,http://116.132.87.246:8888/newlive/live/hls/26/live.m3u8
+邯郸新闻综合,https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
 邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
 邯郸公共,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
