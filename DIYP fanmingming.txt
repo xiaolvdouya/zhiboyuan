@@ -112,6 +112,7 @@ CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 
 
 2-卫视📡,#genre#
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226406/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226450/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225728/index.m3u8
