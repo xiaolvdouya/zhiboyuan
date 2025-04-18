@@ -256,9 +256,9 @@ CCTV-17,http://219.135.180.210:18888/hls/24/index.m3u8
 
 
 
-2-卫视频道📡,#类型#
+2-卫视频道📡，#类型#
 
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典，http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 河北卫视,http://150.138.8.143/00/SNM/CHANNEL00000330/index.m3u8
 河北卫视,http://150.138.8.143/00/SNM/CHANNEL00000034/index.m3u8
@@ -315,6 +315,7 @@ CCTV-17,http://219.135.180.210:18888/hls/24/index.m3u8
 宁夏卫视,http://150.138.8.143/00/SNM/CHANNEL00000043/index.m3u8
 兵团卫视,http://150.138.8.143/00/SNM/CHANNEL00000071/index.m3u8
 延边卫视,http://150.138.8.143/00/SNM/CHANNEL00000668/index.m3u8
+三沙卫视,http://150.138.8.143/00/SNM/CHANNEL00000078/index.m3u8
 
 // 以上是电信直播源
 河北卫视,http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8
