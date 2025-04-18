@@ -957,14 +957,35 @@ TBS,http://143.244.60.30/TBS/index.m3u8
 
 
 5-数字频道💰，#类型#
-CETV-1,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EB8MrpAzJ_Bw12HHVBcZO6g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONWWecbSKZXNjh_5hExtTC%2CEND
-CETV-2,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/8888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
-CETV-4,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/8888888/224/3221226557/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBzZToIaOOoaa_jAUfhUQHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD9BEmVSNbqSQpqXZxnxbk%2CEND
-以上是范明明可回放源
+CETV1,http://150.138.8.143/00/SNM/CHANNEL00000076/index.m3u8
+CETV2,http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
+CETV4,http://150.138.8.143/00/SNM/CHANNEL00000070/index.m3u8
+CETV-4,http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
+环球旅游,http://150.138.8.143/00/SNM/CHANNEL00000643/index.m3u8
+车迷频道,http://150.138.8.143/00/SNM/CHANNEL00000645/index.m3u8
+茶,http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
+法治天地,http://150.138.8.143/00/SNM/CHANNEL00002010/index.m3u8
+中华特产,http://150.138.8.143/00/SNM/CHANNEL00000642/index.m3u8
+生态环境,http://150.138.8.143/00/SNM/CHANNEL00000644/index.m3u8
+金鹰纪实,http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
+快乐垂钓,http://150.138.8.143/00/SNM/CHANNEL00000648/index.m3u8
+梨园,http://150.138.8.143/00/SNM/CHANNEL00000656/index.m3u8
+书画频道,http://150.138.8.143/00/SNM/CHANNEL00000651/index.m3u8
+四海钓鱼,http://150.138.8.143/00/SNM/CHANNEL00000640/index.m3u8
+文物宝库,http://150.138.8.143/00/SNM/CHANNEL00000658/index.m3u8
+中国交通,http://150.138.8.143/00/SNM/CHANNEL00000073/index.m3u8
+武术世界,http://150.138.8.143/00/SNM/CHANNEL00000657/index.m3u8
+先锋乒羽,http://150.138.8.143/00/SNM/CHANNEL00000650/index.m3u8
+新动漫,http://150.138.8.143/00/SNM/CHANNEL00000659/index.m3u8
+动漫秀场,http://150.138.8.143/00/SNM/CHANNEL00002000/index.m3u8
+优优宝贝,http://150.138.8.143/00/SNM/CHANNEL00000641/index.m3u8
+财富天下,http://150.138.8.143/00/SNM/CHANNEL00000607/index.m3u8
+家庭理财,http://150.138.8.143/00/SNM/CHANNEL00000654/index.m3u8
+
+// 以上山东电信源
 
 CETV-1,http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221226494/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EB8MrpAzJ_Bw12HHVBcZO6g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONWWecbSKZXNjh_5hExtTC%2CEND
 CETV-2,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
-北京卫视,http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
 CETV-4,http://otttv.bj.chinamobile.com/PLTV/8888888/224/3221226557/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBzZToIaOOoaa_jAUfhUQHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD9BEmVSNbqSQpqXZxnxbk%2CEND
 
 
@@ -981,6 +1002,7 @@ CETV-4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=28201805160
 纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 
 6-电影频道🎬,#类型#
+
 CHC家庭影院,http://148.135.93.213:81/live.php?id=CHC家庭影院
 CHC动作电影,http://148.135.93.213:81/live.php?id=CHC动作电影
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
