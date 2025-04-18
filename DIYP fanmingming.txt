@@ -110,7 +110,15 @@ CCTV-8,http://3501776.xyz:35455/gaoma/cctv8.m3u8
 CCTV-8,http://219.135.180.210:18888/hls/8/index.m3u8
 CCTV-8,http://xiaoya.crccxw.top:35455/gaoma/cctv8.m3u8
 CCTV-8,http://tvbox6.icu/tv/migu.php?id=cctv8
-
+CCTV-9,http://1.24.39.180:9003/hls/9/index.m3u8
+CCTV-9,http://itv.nctv.top:35455/itv/6000000001000032162.m3u8?cdn=wasusyt
+CCTV-9,http://219.135.180.210:18888/hls/9/index.m3u8
+CCTV-9,http://58.243.224.244:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-9,http://39.170.52.236:808/hls/9/index.m3u8
+CCTV-9,http://xiaoya.crccxw.top:35455/gaoma/cctv9.m3u8
+CCTV-9,http://z.b.bkpcp.top/m.php?id=cctv9
+CCTV-9,http://219.135.180.210:18888/hls/9/index.m3u8
+CCTV-9,http://148.135.93.213:81/live.php?id=CCTV9
 CCTV-10,http://39.170.52.236:808/hls/10/index.m3u8
 CCTV-10,http://1.24.39.180:9003/hls/10/index.m3u8
 CCTV-10,http://58.243.224.244:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
