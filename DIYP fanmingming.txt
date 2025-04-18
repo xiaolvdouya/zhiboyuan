@@ -1,4 +1,4 @@
-1-央视频道📺, #类型#
+1-央视频道📺, #genre#
 CCTV-1,http://150.138.8.143/00/SNM/CHANNEL00000001/index.m3u8
 CCTV-1,http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
 CCTV-2,http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
@@ -256,8 +256,7 @@ CCTV-17,http://219.135.180.210:18888/hls/24/index.m3u8
 
 
 
-2-卫视频道📡，#类型#
-
+2-卫视频道📡，#genre#
 重温经典，http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 河北卫视,http://150.138.8.143/00/SNM/CHANNEL00000330/index.m3u8
@@ -787,8 +786,7 @@ CCTV-17,http://219.135.180.210:18888/hls/24/index.m3u8
 延边卫视,http://nas.zyylover.homes:35455/itv/1000000005000266008.m3u8?cdn=ystenlive
 
 
-3-港澳台🌊,#类型#
-凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
+3-港澳台🌊,#genre#凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
 凤凰资讯,http://148.135.93.213:81/phenix.php?id=fhzx
 凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
 凤凰中文,http://148.135.93.213:81/phenix.php?id=fhzw
@@ -847,8 +845,7 @@ TVB翡翠台 4K,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 
 
 
-4-AKTV频道🌏，#类型#
-28 AI 智慧赛马,http://aktv_stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
+4-AKTV频道🌏，#genre#28 AI 智慧赛马,http://aktv_stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
 Channel 5 HD,http://aktv_stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
 频道8高清，http://aktv_stream.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
 频道 U 高清，http://aktv_stream.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
@@ -956,8 +953,7 @@ TBS,http://143.244.60.30/TBS/index.m3u8
 斗殴网络,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
 
-5-数字频道💰，#类型#
-CETV1,http://150.138.8.143/00/SNM/CHANNEL00000076/index.m3u8
+5-数字频道💰，#genre#CETV1,http://150.138.8.143/00/SNM/CHANNEL00000076/index.m3u8
 CETV2,http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
 CETV4,http://150.138.8.143/00/SNM/CHANNEL00000070/index.m3u8
 CETV-4,http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
@@ -1001,8 +997,7 @@ CETV-4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=28201805160
 爱上4K,http://wouu.net:9977/udp/239.93.0.97:5140
 纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 
-6-电影频道🎬,#类型#
-
+6-电影频道🎬,#genre#
 CHC家庭影院,http://148.135.93.213:81/live.php?id=CHC家庭影院
 CHC动作电影,http://148.135.93.213:81/live.php?id=CHC动作电影
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1014,8 +1009,7 @@ CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&play
 经典电影,http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 经典电影,http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
-7-体育频道🏀,#类型#
-五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+7-体育频道🏀,#genre#五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4<链接>14
 睛彩篮球,http://tv.kmhlzxs.top:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
 睛彩篮球,http://tv.kmhlzxs.top:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
@@ -1026,8 +1020,7 @@ CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&play
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-8-北京频道☘️,#类型#
-北京IPTV 4K超清,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
+8-北京频道☘️,#genre#北京IPTV 4K超清,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 北京国际,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/888888/224/3221226510/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EIfgL7tTUNqHAIdgvKuwj8A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPr9j5nfyiWS_jEXD6m401A%2CEND
 北京新闻,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
 北京文艺,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWrJcgMpdGPvZavpf4dmmrQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNhmwDsUZnvQgU5E5wiGA2g%2CEND
@@ -1051,8 +1044,7 @@ CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&play
 北京国际频道,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EIfgL7tTUNqHAIdgvKuwj8A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPr9j5nfyiWS_jEXD6m401A%2CEND
 
 
-9-上海频道☘️,#类型#
-七彩戏剧,http://z.b.bkpcp.top/m.php?id=qcxj
+9-上海频道☘️,#genre#七彩戏剧,http://z.b.bkpcp.top/m.php?id=qcxj
 上海教育,http://61.173.144.157:9901/tsfile/live/1007_1.m3u8
 上海教育,http://61.173.144.157:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 上海教育,http://61.173.144.157:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0\$LR•IPV4<路径1>
@@ -1067,8 +1059,7 @@ CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&play
 第一财经,https://fmbox.cc/ 公众号玉玉软件库/tv/migu.php?id=dycj
 都市剧场,http://61.173.144.157:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 
-10-河北频道🌏，#类型#
-河北公共,http://124.239.135.194:11080/live/hbgg/index.m3u8
+10-河北频道🌏，#genre#河北公共,http://124.239.135.194:11080/live/hbgg/index.m3u8
 河北经济,http://124.239.135.194:11080/live/hbjj/index.m3u8
 河北农民,http://124.239.135.194:11080/live/hbnm/index.m3u8
 河北都市,http://124.239.135.194:11080/live/hbds/index.m3u8
@@ -1102,12 +1093,10 @@ CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&play
 清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
 兴隆综合,http://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 任丘综合，http://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
-11-天津频道，#类型#
-津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
+11-天津频道，#genre#津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8?zbeid
 
-12-山东频道🌏, #类型#
-山东新闻,http://150.138.8.143/00/SNM/CHANNEL10000314/index.m3u8
+12-山东频道🌏, #genre#山东新闻,http://150.138.8.143/00/SNM/CHANNEL10000314/index.m3u8
 山东新闻,http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL00000052/index.m3u8
 山东齐鲁,http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
