@@ -5,8 +5,8 @@ CCTV-2,http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
 CCTV-3,http://150.138.8.143/00/SNM/CHANNEL00000003/index.m3u8
 CCTV-3,http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
 CCTV-4,http://150.138.8.143/00/SNM/CHANNEL00000320/index.m3u8
-CCTV-4美洲,http://150.138.8.143/00/SNM/CHANNEL00000351/index.m3u8
-CCTV-4欧洲,http://150.138.8.143/00/SNM/CHANNEL00000350/index.m3u8
+CCTV4美洲,http://150.138.8.143/00/SNM/CHANNEL00000351/index.m3u8
+CCTV4欧洲,http://150.138.8.143/00/SNM/CHANNEL00000350/index.m3u8
 CCTV-5,http://150.138.8.143/00/SNM/CHANNEL00000360/index.m3u8
 CCTV-5+,http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8
 CCTV-6,http://150.138.8.143/00/SNM/CHANNEL00000006/index.m3u8
@@ -24,6 +24,7 @@ CCTV-15,http://150.138.8.143/00/SNM/CHANNEL00000346/index.m3u8
 CCTV-17,http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8
 
 // 以上是山东电信源
+
 
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2
@@ -788,7 +789,23 @@ CCTV-17,http://219.135.180.210:18888/hls/24/index.m3u8
 宁夏卫视,http://nas.zyylover.homes:35455/itv/1000000002000031451.m3u8?cdn=ystenlive
 兵团卫视,http://nas.zyylover.homes:35455/itv/1000000005000266005.m3u8?cdn=ystenlive
 延边卫视,http://nas.zyylover.homes:35455/itv/1000000005000266008.m3u8?cdn=ystenlive
-
+CCTV1,udp/239.21.1.1:5002
+CCTV1,udp/239.21.1.120:5002
+CCTV2,udp/239.21.1.151:5002
+CCTV2,udp/239.21.1.2:5002
+CCTV3,udp/239.21.1.3:5002
+CCTV3,udp/239.21.2.45:5002
+CCTV5,udp/239.21.1.5:5002
+CCTV5+,udp/239.21.1.142:5002
+CCTV5+,udp/239.21.2.46:5002
+CCTV6,udp/239.21.1.6:5002
+CCTV6,udp/239.21.2.47:5002
+CCTV10,udp/239.21.1.155:5002
+CCTV10,udp/239.21.1.11:5002
+CCTV13,udp/239.21.1.14:5002
+CCTV13,udp/239.21.2.3:5002
+CCTV17,udp/239.21.1.186:5002
+CCTV17,udp/239.21.1.206:5002
 
 3-港澳台🌊,#genre#
 
