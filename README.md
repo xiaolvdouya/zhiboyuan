@@ -1,4 +1,7 @@
 # zhiboyuan
+快来看看我在灵光一句话创建的闪应用：直播源转换器 👉 https://www.lingguang.com/share/FLASH_APP-60bdf45d-c317-4157-9f3a-c044973395eb57
+
+
 码山链接：    https://codeberg.org/xinghaizhang/zhiboyuan
 
 fanmingming+chunwan:https://raw.githubusercontent.com/xiaolvdouya/zhiboyuan/main/fanmingming.m3u
