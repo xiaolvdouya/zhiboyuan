@@ -65,6 +65,7 @@ CCTV-8K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub 
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub 
 文化精品,http://107.150.60.122/live/ysjp.m3u8
+卫生健康,http://107.150.60.122/live/wsjk.m3u8
 发现之旅,http://107.150.60.122/live/fxzl.m3u8
 发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
 发现之旅,http://120.76.248.139/live/bfgd/4200000151.m3u8
@@ -91,7 +92,7 @@ CCTV-8K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub 
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub 
 老故事,http://107.150.60.122/live/lgs.m3u8
-中央新影-老故事,http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
+老故事,http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
 老故事,http://120.76.248.139/live/bfgd/4200000166.m3u8
 央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 央视台球,http://183.11.239.36:808/hls/73/index.m3u8 
@@ -123,7 +124,7 @@ CCTV-8K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub 
 女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub 
 女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
-卫生健康,http://107.150.60.122/live/wsjk.m3u8
+
 
 中学生,rtsp://150.138.8.132/PLTV/88888888/224/3221227434/523619250.smil
 CGTN,rtsp://150.138.8.132/PLTV/88888888/224/3221226976/409209237.smil
