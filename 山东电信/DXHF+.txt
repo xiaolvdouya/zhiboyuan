@@ -67,7 +67,7 @@ CCTV-8K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 文化精品,http://107.150.60.122/live/ysjp.m3u8
 发现之旅,http://107.150.60.122/live/fxzl.m3u8
 发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
-中央新影-发现之旅,http://120.76.248.139/live/bfgd/4200000151.m3u8
+发现之旅,http://120.76.248.139/live/bfgd/4200000151.m3u8
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 世界地理,http://61.184.46.85:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
@@ -90,9 +90,9 @@ CCTV-8K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub 
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub 
-中央新影-老故事,http://107.150.60.122/live/lgs.m3u8
+老故事,http://107.150.60.122/live/lgs.m3u8
 中央新影-老故事,http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
-中央新影-老故事,http://120.76.248.139/live/bfgd/4200000166.m3u8
+老故事,http://120.76.248.139/live/bfgd/4200000166.m3u8
 央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 央视台球,http://183.11.239.36:808/hls/73/index.m3u8 
 央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub 
@@ -377,8 +377,6 @@ iQIYI,https://o11.163189.xyz/stream/live/iqiyi/
 凤凰香港,http://r.jdshipin.com/yDoTN 
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk 
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612420/live.m3u8
-Astro AEC,https://o11.163189.xyz/stream/live/aec/
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8 
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0 
@@ -387,6 +385,8 @@ Astro AOD,https://o11.163189.xyz/stream/live/aod/
 邵氏喜剧,http://feilong123.vip/409990236/tv.php?id=ssxj
 天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0 
+Astro AEC,https://o11.163189.xyz/stream/live/aec/
+Astro AOD,https://o11.163189.xyz/stream/live/aod/
 TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVB无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn 
 无线新闻,http://r.jdshipin.com/CkuBd 
