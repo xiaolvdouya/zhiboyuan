@@ -256,7 +256,7 @@ CCTV-4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil
 江苏卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227446/527738562.smil
 浙江卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227453/527738500.smil
 四川卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227335/527738522.smil
-CCTV-4,http://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil/index.m3u8?fmt=ts2hls
+CCTV-4K,http://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil/index.m3u8?fmt=ts2hls
 北京卫视,http://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil/index.m3u8?fmt=ts2hls
 深圳卫视,http://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil/index.m3u8?fmt=ts2hls
 广东卫视,http://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil/index.m3u8?fmt=ts2hls
@@ -359,7 +359,6 @@ CHC家庭影院,http://150.138.8.143/00/SNM/CHANNEL00002028/index.m3u8
 财富天下,http://150.138.8.143/00/SNM/CHANNEL00000607/index.m3u8
 优漫卡通,http://150.138.8.143/00/SNM/CHANNEL00000049/index.m3u8
 
-1905电影网,http://cctv.sohu.blog/1905.php?t=1&id=LIVEOYY31H24H48NE
 1905电影网,https://cdn.jdshipin.com/1905.php
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy2
 iQIYI,https://o11.163189.xyz/stream/live/iqiyi/
@@ -493,8 +492,8 @@ NOW NEWS,http://cdn.163189.xyz/163189/now
 平泉影视,http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
 平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
 昌黎,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
-清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
-清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe2/1500k/tzwj_video.m3u8
 
 
 
