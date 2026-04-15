@@ -475,6 +475,8 @@ NOW NEWS,http://cdn.163189.xyz/163189/now
 石家庄文化娱乐,http://nn.7x9d.cn/石家庄.php?id=6
 石家庄城市服务,http://nn.7x9d.cn/石家庄.php?id=5
 衡水公共,http://ls.qingting.fm/live/2810.m3u8
+衡水公共,http://jwplay.hebyun.com.cn/live/hsgg/1500k/tzwj_video.m3u8
+衡水公共,http://jwplay.hebyun.com.cn/live/hsxw/1500k/tzwj_video.m3u8
 邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxw/1500k/tzwj_video.m3u8?zhebd
