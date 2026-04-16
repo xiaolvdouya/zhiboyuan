@@ -90,7 +90,6 @@ CCTV-8K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 第一剧场,http://61.184.46.85:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
 第一剧场,http://171.83.103.119:9999/rtp/239.69.1.74:10084 
-第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8 
 第一剧场,http://hmfs.f3322.net:3388/hls/21/index.m3u8 
 
 兵器科技,http://107.150.60.122/live/gfjs.m3u8
@@ -99,24 +98,27 @@ CCTV-8K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 老故事,http://107.150.60.122/live/lgs.m3u8
 老故事,http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
 老故事,http://120.76.248.139/live/bfgd/4200000166.m3u8
+
+
+央视台球,http://107.150.60.122/live/lystq.m3u8
 央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-央视台球,http://183.11.239.36:808/hls/73/index.m3u8 
-央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub 
-央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub 
-央视台球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8 
-高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub 
-高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub 
+央视台球,http://183.11.239.36:808/hls/73/index.m3u8
+
+高尔夫网球,http://107.150.60.122/live/gefwq.m3u8
+高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+ 
+电视指南,http://107.150.60.122/live/dszn.m3u8
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
 电视指南,http://171.83.103.119:9999/rtp/239.69.1.87:10162 
-电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub 
-电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub 
+
+风云足球,http://107.150.60.122/live/fyzq.m3u8
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 风云足球,http://61.184.46.85:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
 风云足球,http://183.11.239.36:808/hls/133/index.m3u8 
 风云足球,http://27.41.245.32:801/hls/906/index.m3u8 
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub 
-风云足球,http://dassby.qqff.top:99/live/风云足球/index.m3u8 
+ 
 
 风云音乐,http://107.150.60.122/live/fyyy.m3u8
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
@@ -132,14 +134,14 @@ CCTV-8K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
 
 
-CCTV-中学生,rtsp://150.138.8.132/PLTV/88888888/224/3221227434/523619250.smil
+中学生,rtsp://150.138.8.132/PLTV/88888888/224/3221227434/523619250.smil
 CGTN,rtsp://150.138.8.132/PLTV/88888888/224/3221226976/409209237.smil
 CGTN英文纪录,rtsp://150.138.8.132/PLTV/88888888/224/3221226991/409210231.smil
 CGTN俄语,rtsp://150.138.8.132/PLTV/88888888/224/3221227113/409209241.smil
 CGTN法语,rtsp://150.138.8.132/PLTV/88888888/224/3221227074/409210237.smil
 CGTN阿拉伯语,rtsp://150.138.8.132/PLTV/88888888/224/3221227109/409210246.smil
 CGTN西班牙语,rtsp://150.138.8.132/PLTV/88888888/224/3221226980/409210242.smil
-CCTV-中学生,http://150.138.8.143/00/SNM/CHANNEL00000673/index.m3u8
+中学生,http://150.138.8.143/00/SNM/CHANNEL00000673/index.m3u8
 CGTN,http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
 CGTN,http://150.138.8.143/00/SNM/CHANNEL00000009/index.m3u8
 CGTN英文纪录,http://150.138.8.143/00/SNM/CHANNEL00000353/index.m3u8
