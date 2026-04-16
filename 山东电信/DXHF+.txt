@@ -375,13 +375,12 @@ iQIYI,https://o11.163189.xyz/stream/live/iqiyi/
 凤凰资讯,http://r.jdshipin.com/0Rp07 
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx 
 凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt 
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
+
 凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://r.jdshipin.com/cCCzW 
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw 
-凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0 
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt 
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+
 凤凰香港,http://r.jdshipin.com/yDoTN 
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk 
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612420/live.m3u8
