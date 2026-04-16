@@ -16,6 +16,7 @@ CCTV-13,http://iptv.4666888.xyz/iptv2A.php?id=11
 江苏卫视,http://iptv.4666888.xyz/iptv2A.php?id=15
 浙江卫视,http://iptv.4666888.xyz/iptv2A.php?id=14
 青海卫视,http://iptv.4666888.xyz/iptv2A.php?id=17
+📺 23,#genre#
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 千禧经典台,http://iptv.4666888.xyz/iptv2A.php?id=22
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=28
