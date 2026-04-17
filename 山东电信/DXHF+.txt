@@ -425,13 +425,8 @@ CH8,https://cdn6.163189.xyz/163189/ch8
 澳门体育,http://cdn6.163189.xyz/163189/amty
 澳门体育,http://cdn6.163189.xyz/163189/amty 
 澳门综艺,http://cdn6.163189.xyz/163189/amzy
-澳门综艺,http://cdn6.163189.xyz/163189/amzy 
 NOW新闻台,http://cdn.163189.xyz/163189/now
 NOW新闻台,http://cdn.163189.xyz/163189/now
-
-
-
-
 
 🌏 台湾频道,#genre#
 唐人卫视,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
@@ -479,30 +474,24 @@ NOW NEWS,http://cdn.163189.xyz/163189/now
 石家庄新闻综合,http://nn.7x9d.cn/石家庄.php?id=4
 石家庄文化娱乐,http://nn.7x9d.cn/石家庄.php?id=6
 石家庄城市服务,http://nn.7x9d.cn/石家庄.php?id=5
-淄博交通文艺广播,http://ls.qingting.fm/live/2810.m3u8
-衡水公共,http://jwplay.hebyun.com.cn/live/hsgg/1500k/tzwj_video.m3u8
-衡水公共,http://jwplay.hebyun.com.cn/live/hsxw/1500k/tzwj_video.m3u8
 邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+邢台生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
 邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxw/1500k/tzwj_video.m3u8?zhebd
 邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
 邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
-
-邢台生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
-
 任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
 任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 平泉影视,http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
 平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
-
 清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
 清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe2/1500k/tzwj_video.m3u8
-
+淄博交通文艺广播,http://ls.qingting.fm/live/2810.m3u8
 
 
 🏠 山东省级,#genre#
