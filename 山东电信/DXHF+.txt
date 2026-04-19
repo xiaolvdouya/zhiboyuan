@@ -65,6 +65,8 @@ CCTV-8K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 🌍 央视付费,#genre#
 央视精品,http://107.150.60.122/live/ysjp.m3u8 
 央视精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub 
+文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+文化精品,http://183.11.239.36:808/hls/97/index.m3u8
 
 卫生健康,http://107.150.60.122/live/wsjk.m3u8
 卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub 
@@ -251,23 +253,7 @@ CGTN阿拉伯语,http://150.138.8.143/00/SNM/CHANNEL00000356/index.m3u8
 农林卫视,http://150.138.8.143/00/SNM/CHANNEL00000072/index.m3u8
 
 
-💎 4K超高清,#genre#
-CCTV-4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil
-北京卫视rtsp://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil
-东方卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227331/527738511.smil
-深圳卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil
-山东卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227442/527218192.smil
-湖南卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227316/527738296.smil
-广东卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil
-江苏卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227446/527738562.smil
-浙江卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227453/527738500.smil
-四川卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227335/527738522.smil
-CCTV-4K,http://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil/index.m3u8?fmt=ts2hls
-北京卫视,http://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil/index.m3u8?fmt=ts2hls
-深圳卫视,http://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil/index.m3u8?fmt=ts2hls
-广东卫视,http://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil/index.m3u8?fmt=ts2hls
-深圳卫视,http://nn.7x9d.cn/深圳最新.php?id=szws4k
-河北 4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+
 
 🎬 特色频道,#genre#
 重温经典,http://8.138.7.223/tv/cwjd.php
@@ -431,7 +417,7 @@ NOW新闻台,http://cdn.163189.xyz/163189/now
 🌏 台湾频道,#genre#
 唐人卫视,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 唐人卫视,https://ntd01.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
-唐人卫视,https://ntd02.akamaized.net/HD-NY/tracks-v3a2/mono.m3u8
+
 八度空间,http://cdn6.163189.xyz/163189/8tv
 民視,http://iptv.4666888.xyz/iptv2A.php?id=55
 臺視綜合,http://iptv.4666888.xyz/iptv2A.php?id=51
@@ -471,9 +457,7 @@ NOW NEWS,http://cdn.163189.xyz/163189/now
 河北三农,https://ls.qingting.fm/live/1650/64k.m3u8
 河北三农,http://1.94.31.214/php/hebei.php?id=nmpd
 河北三农,https://radio.pull.hebtv.com/live/hebnczx.m3u8
-石家庄新闻综合,http://nn.7x9d.cn/石家庄.php?id=4
-石家庄文化娱乐,http://nn.7x9d.cn/石家庄.php?id=6
-石家庄城市服务,http://nn.7x9d.cn/石家庄.php?id=5
+
 邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
@@ -484,6 +468,7 @@ NOW NEWS,http://cdn.163189.xyz/163189/now
 邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
+滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
 任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
@@ -762,3 +747,21 @@ NOW NEWS,http://cdn.163189.xyz/163189/now
 春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
 春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 2025年春晚 4K,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
+
+💎 4K超高清,#genre#
+CCTV-4K,rtsp://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil
+北京卫视rtsp://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil
+东方卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227331/527738511.smil
+深圳卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil
+山东卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227442/527218192.smil
+湖南卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227316/527738296.smil
+广东卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil
+江苏卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227446/527738562.smil
+浙江卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227453/527738500.smil
+四川卫视,rtsp://150.138.8.132/PLTV/88888888/224/3221227335/527738522.smil
+CCTV-4K,http://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil/index.m3u8?fmt=ts2hls
+北京卫视,http://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil/index.m3u8?fmt=ts2hls
+深圳卫视,http://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil/index.m3u8?fmt=ts2hls
+广东卫视,http://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil/index.m3u8?fmt=ts2hls
+深圳卫视,http://nn.7x9d.cn/深圳最新.php?id=szws4k
+河北 4K,https://event.pull.hebtv.com:443/live/live101.m3u8
