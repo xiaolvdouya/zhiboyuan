@@ -1,0 +1,240 @@
+﻿{
+  "Configuration": {
+    "提醒": "配置文件在configuration文件夹内不存在的情况下会自动复制到app的configuration文件夹下，已存在就不会复制及覆盖，首次安装也就是无任何缓存数据的情况下才会读取配置文件，提示部分只读取一次，只读取一次，只读取一次！！！",
+
+    "#1": "启动图片路径，支持本地和网络",
+    "loginPng": "/storage/emulated/0/酷9多线/bg.png",
+
+    "#2": "退出图片路径，支持本地和网络",
+    "exitPng": "https://ExitImageUrl",
+
+    "#3": "app升级配置文件路径",
+    "updateUrl": "https://wmdz.top/",
+
+    "#4": "是否隐藏加载数据文字提示及动画；true=隐藏，false=显示",
+    "hideLoginText": false,
+
+    "#5": "启动数据提示文字",
+    "loginText": "正在加载数据，请稍后...",
+
+    "#6": "启动加载文字颜色",
+    "loginTextColor": "#FF000000",
+
+    "#7": "启动加载动画颜色",
+    "progressBarColor": "#FF00BCD4",
+
+    "#8": "网速及时间背景颜色",
+    "speed_timeColor": "#26000000",
+
+    "#9": "网速及时间背景圆角大小",
+    "speed_timeRadius": 10,
+
+    "#10": "EXO bufferForPlaybackMs值",
+    "EXO_bufferForPlaybackMs": 2500,
+
+    "#11": "IJK analyzeduration值",
+    "IJK_analyzeduration": 2000000,
+
+    "#12": "IJK probesize值",
+    "IJK_probesize": 4096000,
+
+    "#13": "数字选台字体颜色，默认清新绿",
+    "selected_ChannelNumber_Color": "#FF70C439",
+
+    "#14": "启动图停留时间，单位毫秒",
+    "loginPng_Dwell_time": 100,
+
+    "#15": "自定义背景色值（渐变色格式：色值1,色值2$渐变方向，单色一种即可，注意色值格式）",
+    "渐变参数": "TOP_BOTTOM(上到下)；TR_BL(右上到左下)；RIGHT_LEFT(右到左)；BR_TL(右下到左上)；BOTTOM_TOP(下到上)；BL_TR(左下到右上)；LEFT_RIGHT(左到右)；TL_BR(左上到右下)",
+    "CUSTOM_BACKGROUND_COLOR": "#036D80,#052D49$BL_TR",
+
+    "#16": "右上角时间格式",
+    "time_format": "HH:mm:ss EE",
+
+    "#17": "倍速值设定(英文逗号隔开，共6个参数)，参数一：最小值；参数二：最大值；参数三：慢放步进；参数四：快放步进；参数五：快放二级步进；参数六：快放触发二级步进的阈值。",
+    "Speed_value": "0.5,3,0.25,0.25,0.25,0.25",
+
+    "#75": "自定义默认图标显示首字时的背景颜色色值（仅支持单色配置）；设置null或空字符为随机颜色（注意null和色值书写格式）",
+    "icon_background_color": "#32FFFFFF",
+
+    "====================================================":"====================================================",
+    "#提示1": "以下设置（分割线内）为初始化配置（首次安装或清除数据时的默认设置），app第一次运行时的配置！之后运行不会生效！！！",
+
+    "#18": "预置列表URL(默认勾选首个)，多个使用双竖线||隔开，格式：地址$自定义名称",
+    "LIVE_URLS": "https://gitee.com/jin-xueling/cinematography/raw/master/json.txt$前缘接口||https://gitee.com/yimi321/tv/raw/master/tv.png$壹米接口||http://rihou.cc:555/gggg.nzk$日后接口||https://d.kstore.dev/download/12441/ds9.txt$DS9接口||https://d.kstore.dev/download/11344/yunduan.txt$云端接口||https://wget.la/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u$测试接口||https://wget.la/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt$月下接口||http://1.94.31.214/live/live9/dgtv.txt$DG接口||http://west.shaonv.me/tvbox/live.txt$天空接口||https://wget.la/https://raw.githubusercontent.com/nianxinmj/nxpz/refs/heads/main/lib/live.txt$念心接口||https://wget.la/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt$Wirili接口||https://wget.la/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt$咪咕接口||https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt$电视多接口||https://wget.la/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt$Box接口||http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt$易发接口||https://9730.kstore.space/%E9%A3%9B%E6%89%AC%E7%9B%B4%E6%92%AD.txt$飞扬接口||http://210.245.166.84:1299/live/live1.txt$天浪接口||https://dsj-1312694395.cos.ap-guangzhou.myqcloud.com/dsj10.1.txt$DSJ接口||http://iptv.4666888.xyz/FYTV.txt$风云接口||https://wget.la/https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt$TNT接口||https://wget.la/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u$裤佬接口||http://210.245.166.84:1299/live/live.txt$龙壹接口||https://ds65.tv1288.xyz$潇宇接口||https://wget.la/https://raw.githubusercontent.com/xmbjm/IPTV/master/output/user_result.m3u$拾光接口||https://wget.la/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u$APTV接口||https://wget.la/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u$Guovin接口||https://gongdian.top/tv/ku9/webview.txt#JS=https://gongdian.top/tv/ku9/js/webview.js$网页接口||https://pan.vma.cc/pan/down.php/350735607a786faaaa69aa5bbe3a3078.txt$Web接口||https://m.iill.top/Live.m3u$娱乐接口||https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u$虎牙一起看||https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u$斗鱼一起看||https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u$yy轮播接口||https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt$澜露接口||https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/refs/heads/main/Telecom-Shandong.m3u$山东电信G原作者||https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/zhiboyuan/refs/heads/main/DIYP%20fanmingming.txt$DIYP+GHt||https://wget.la/https://raw.githubusercontent.com/xiaolvdouya/zhiboyuan/refs/heads/main/%E5%B1%B1%E4%B8%9C%E7%94%B5%E4%BF%A1/DXHF%2B.txt$DXHF+GitH",
+
+    "#19": "预置EPG URL(默认勾选首个)，多个使用双竖线||隔开，格式：地址$自定义名称",
+    "EPG_URLS": "https://diyp11.112114.xyz$【节目单一】||http://epg.dy2.fun:5678$【节目单二】||https://epg.zsdc.eu.org/t.xml$【节目单三】||https://tv.mxdyeah.top/epgphp/index.php$【节目单四】||https://live.fanmingming.com/e.xml$【节目单五】||http://epg.aptvapp.com/xml$【节目单六】||https://epg.v1.mk/fy.xml.gz$【节目单七】||https://epg.pw/xmltv/epg_CN.xml.gz$【节目单八】||https://diyp020.112114.xyz$【节目单九】||https://epg.zbds.top$【节目单十】",
+
+    "#71": "预置JSON URL(默认不勾选)，多个使用双竖线||隔开，格式：地址$自定义名称",
+    "LIVE_JSONS": null,
+
+    "#20": "预置头部请求(默认勾选首个)，headers为json格式，多个使用双竖线||隔开，格式：地址$自定义名称",
+    "HEADERS_URLS": null,
+
+    "#21": "预置用户代理(默认勾选首个)，多个使用双竖线||隔开，格式：地址$自定义名称",
+    "USER_AGENTS": "OKhttp/1.31 || Mozilla/5.0 || SYTV/1.6$预置SYTV/1.6",
+
+    "#22": "解码方式；0=系统解码，1=IJK硬解，2=IJK软解，3=EXO硬解，4=EXO软解",
+    "PLAY_TYPE": 1,
+
+    "#23": "画面比例；0=默认，1=16:9，2=4:3，3=填充，4=原始，6=裁剪",
+    "PLAY_SCALE": 3,
+
+    "#24": "超时换源，0=5s，1=10s，2=15s，3=20s，4=25s，5=30s",
+    "LIVE_CONNECT_TIMEOUT": 1,
+
+    "#25": "EPG解析方式；0=百川/DIYP，1=超级TV，2=XmlTV",
+    "EPGTYPE_SELECT": 0,
+
+    "#26": "显示时间；true=显示，false=隐藏",
+    "LIVE_SHOW_TIME": false,
+
+    "#27": "显示网速；true=显示，false=隐藏",
+    "LIVE_SHOW_NET_SPEED": false,
+
+    "#28": "列表图标；true=显示，false=隐藏",
+    "HIDE_Channel_LOGO": true,
+
+    "#29": "底部图标；true=显示，false=隐藏",
+    "HIDE_Bottom_LOGO": true,
+
+    "#30": "关闭PG；true=显示，false=隐藏",
+    "CLOSE_EPG": false,
+
+    "#31": "关闭收藏；true=显示，false=隐藏",
+    "HIDE_FAVOR": false,
+
+    "#32": "隐藏序号；true=显示，false=隐藏",
+    "HIDE_NUMBER": false,
+
+    "#33": "记忆解码；true=开启，false=关闭",
+    "PL_MEMORYS_ET_SELECT": false,
+
+    "#34": "换台反转；true=开启，false=关闭",
+    "LIVE_CHANNEL_REVERSE": true,
+
+    "#35": "跨选分组；true=开启，false=关闭",
+    "LIVE_CROSS_GROUP": false,
+
+    "#36": "关闭密码；true=开启，false=关闭",
+    "LIVE_SKIP_PASSWORD": false,
+
+    "#37": "画中画；true=开启，false=关闭",
+    "PIC_IN_PIC": false,
+
+    "#38": "开机启动；true=开启，false=关闭",
+    "BOOT_START": false,
+
+    "#39": "快速退出；true=开启，false=关闭",
+    "QUICK_EXIT": false,
+
+    "#40": "画面锁定；true=开启（切换源时保持最后一个画面，部分设备无效，画面渲染异常可尝试关闭），false=关闭（切换源黑屏一下）",
+    "EYE_PROTECTION": true,
+
+    "#41": "回放标识；true=显示，false=隐藏",
+    "PLAYBACK_ID": false,
+
+    "#42": "开启时移；true=开启，false=关闭",
+    "TIME_SHIFT_ON": true,
+
+    "#43": "渲染类型；0=texture，1=surface",
+    "PLAY_RENDER": 1,
+
+    "#44": "安全DNS选项；0=关闭，1=腾讯，2=阿里，3=360，4=Google，5=AdGuard，6=Quad9",
+    "DOH_URL": 0,
+
+    "#45": "主题类型；0-9选项（lite版不支持此选项）",
+    "THEME_SELECT": 2,
+
+    "#46": "回放方式；0=重新加载url更新进度，1=播放器seekTo更新进度",
+    "PLAY_BACK_TYPE": 0,
+
+    "#47": "断线重连；0=关闭重连，1=1秒后重连，2=3秒后重连，3=5秒后重连，4=10秒后重连，5=20秒后重连",
+    "RECONNECT_INDEX": 0,
+
+    "#48": "EXO隧道模式；true=开启，false=关闭",
+    "EXO_TUNNELING_SELECT": false,
+
+    "#49": "RTSP通道；0=TCP，1=UDP",
+    "RTSP_TCP_SELECT": 0,
+
+    "#50": "导航栏模式；0=滑动显示，1=一直显示，2=触摸显示",
+    "NAVIGATION_SELECT": 0,
+
+    "#51": "EPG展示；0=折叠展示，1=一直展示",
+    "EPG_SHOW_TYPE_SELECT": 0,
+
+    "#52": "全局字体，负值比默认小，否则比默认大，数值范围：-12~12",
+    "TEXT_SIZE": 0,
+
+    "#53": "列表宽度，负值比默认小，否则比默认大，数值范围：-12~12",
+    "LIST_WIDTH": 0,
+
+    "#54": "底部信息栏宽度，负值比默认小，否则比默认大，数值范围：-12~12",
+    "BOTTOM_WIDTH": 0,
+
+    "#55": "EPG缓存设置；；0=关闭缓存，1=每天2点，2=每天4点，3=每天6点，4=每天8点，5=每天10点，6=每天12点，7=每天14点，8=每天16点，9=每天18点，10=每天20点，11=每天22点",
+    "EPGCACHE_SELECT": 4,
+
+    "#56": "图标缓存开关；true=开启，false=关闭",
+    "IMAGECACHE_SELECT": false,
+
+    "#57": "脚本缓存；true=开启，false=关闭",
+    "SCRIPT_CACHE": true,
+
+    "#58": "记忆多源；true=开启，false=关闭",
+    "MEMORYS_SOURCE": true,
+
+    "#59": "记忆进度开关；true=开启，false=关闭",
+    "MEMORYS_POSITION": true,
+
+    "#60": "背景色系；0-9选项（9为自定义色系内容，既#15的设置内容）",
+    "BACKGROUND_THEME_SELECT": 6,
+
+    "#61": "开机自启检测设置；true=开机获取ip后自启，false=开机直接自启",
+    "BOOTRECEIVER_SET_SELECT": true,
+
+    "#62": "快捷菜单显示开关；true=开启，false=关闭",
+    "SHORTCUTS_MENU": false,
+
+    "#63": "快捷菜单默认选项，多个以英文逗号隔开，填写的名称与快捷列表名称一致",
+    "SHORTCUTS_MENU_SELECT": "列表订阅,EPG订阅,无线投屏,频道搜索,APP信息",
+
+    "#64": "列表类型；0=传统分组（仅网络列表进行分组），1=列表分组（所有列表进行分组），2=二级分组模式1（所有分组显示二级分组），3=二级分组模式2（分组数小于1的隐藏二级分组）",
+    "GROUP_PARS_SET_SELECT": 3,
+
+    "#65": "遍历多源循环；true=开启，false=关闭",
+    "PLAY_ALL_SOURCE": true,
+
+    "#66": "分辨率显示样式；0=分辨率缩写，1=分辨率数字x数字",
+    "RESOLUTION_MODE_SELECT": 0,
+
+    "#67": "XML时间偏移；0=默认时区，1=-12小时，2=-11小时，......，24=+11小时，25=+12小时",
+    "TIME_ZONE_SELECT": 0,
+
+    "#68": "时移结束播放设置；true=时移结束自动刷新继续播放，false=回到直播",
+    "TIME_SHIFT_MODE": true,
+
+    "#69": "是否显示videoFile文件夹下的本地视频列表；true=开启，false=关闭",
+    "ENABLE_LOCAL_VIDEO": false,
+
+    "#70": "图标优先级，true=m3u获取图标优先级高于epg中获取图标，false=默认优先级",
+    "M3U_LOGO_PRIORITY": false,
+
+    "#72": "列表EPG详情显示；true=显示，false=隐藏（需EPG支持desc字段，移动端长按epg显示）",
+    "EPG_DESC_SET": false,
+
+    "#73": "底部信息栏EPG详情显示；true=显示，false=隐藏（需EPG支持desc字段）",
+    "BOTTOM_DESC_SET": true,
+
+    "#74": "图标默认样式；true=显示自定义背景频道首字，false=显示默认图片",
+    "ICON_INITIAL_SET": true,
+
+    "#76": "epg缓存路径设置，true=外部储存（部分设备可能会有出错），false=内部储存",
+    "EPG_CACHE_PATH_SET": false,
+
+    "=====================================================":"=====================================================",
+    "#提示2": "以上设置（分割线内）为初始化配置（首次安装或清除数据时的默认设置），app第一次运行时的配置！之后运行不会生效！！！"
+  }
+}
