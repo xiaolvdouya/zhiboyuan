@@ -165,6 +165,24 @@ http://107.150.60.122/live/fyjc.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="女性时尚" tvg-logo="" group-title="🌍 央视付费",女性时尚
 http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/中学生.png" group-title="🌍 央视付费" tvg-chno="316" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000673/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,中学生
+http://150.138.8.143/00/SNM/CHANNEL00000673/index.m3u8
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/中学生.png" group-title="🌍 央视付费" tvg-chno="317" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL10000673/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="720x576" ,中学生
+http://150.138.8.143/00/SNM/CHANNEL10000673/index.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CGTN.png" group-title="🌍 央视付费" tvg-chno="403" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CGTN
+http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CGTN.png" group-title="🌍 央视付费" tvg-chno="404" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000009/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CGTN
+http://150.138.8.143/00/SNM/CHANNEL00000009/index.m3u8
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN英文纪录" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CGTN纪录.png" group-title="🌍 央视付费" tvg-chno="405" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000353/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CGTN英文纪录
+http://150.138.8.143/00/SNM/CHANNEL00000353/index.m3u8
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西班牙语" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CGTN西语.png" group-title="🌍 央视付费" tvg-chno="406" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000354/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CGTN西班牙语
+http://150.138.8.143/00/SNM/CHANNEL00000354/index.m3u8
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CGTN法语.png" group-title="🌍 央视付费" tvg-chno="407" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000355/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CGTN法语
+http://150.138.8.143/00/SNM/CHANNEL00000355/index.m3u8
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CGTN俄语.png" group-title="🌍 央视付费" tvg-chno="408" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CGTN俄语
+http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿拉伯语" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CGTN阿语.png" group-title="🌍 央视付费" tvg-chno="409" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000356/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CGTN阿拉伯语
+http://150.138.8.143/00/SNM/CHANNEL00000356/index.m3u8
 
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/河北卫视.png" group-title="⭐ 卫视频道" tvg-chno="122" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000330/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,河北卫视
 http://150.138.8.143/00/SNM/CHANNEL00000330/index.m3u8
