@@ -1,0 +1,268 @@
+﻿#EXTM3U x-tvg-url="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/xml/main/epg.xml"
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1 综合" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV1.png" group-title="📺 央视频道" tvg-chno="001" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-1 综合
+http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1 综合" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV1.png" group-title="📺 央视频道" tvg-chno="002" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00004003/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-1 综合
+http://150.138.8.143/00/SNM/CHANNEL00004003/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1 综合" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV1.png" group-title="📺 央视频道" tvg-chno="003" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000001/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="720x576" ,CCTV-1 综合
+http://150.138.8.143/00/SNM/CHANNEL00000001/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2 财经" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV2.png" group-title="📺 央视频道" tvg-chno="004" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-2 财经
+http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3 综艺" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV3.png" group-title="📺 央视频道" tvg-chno="005" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-3 综艺
+http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3 综艺" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV3.png" group-title="📺 央视频道" tvg-chno="006" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000003/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="720x576" ,CCTV-3 综艺
+http://150.138.8.143/00/SNM/CHANNEL00000003/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4 中文" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV4.png" group-title="📺 央视频道" tvg-chno="007" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000320/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-4 中文
+http://150.138.8.143/00/SNM/CHANNEL00000320/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV-4 美洲" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV4美洲.png" group-title="📺 央视频道" tvg-chno="401" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000351/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-4 美洲
+http://150.138.8.143/00/SNM/CHANNEL00000351/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV-4 欧洲" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV4欧洲.png" group-title="📺 央视频道" tvg-chno="402" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000350/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-4 欧洲
+http://150.138.8.143/00/SNM/CHANNEL00000350/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5 体育" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV5.png" group-title="📺 央视频道" tvg-chno="008" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000360/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-5 体育
+http://150.138.8.143/00/SNM/CHANNEL00000360/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5 体育" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV5.png" group-title="📺 央视频道" tvg-chno="009" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL30000005/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-5 体育
+http://150.138.8.143/00/SNM/CHANNEL30000005/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV5+.png" group-title="📺 央视频道" tvg-chno="010" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-5+ 体育赛事
+http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6 电影" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV6.png" group-title="📺 央视频道" tvg-chno="011" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000361/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-6 电影
+http://150.138.8.143/00/SNM/CHANNEL00000361/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6 电影" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV6.png" group-title="📺 央视频道" tvg-chno="012" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000361/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="720x576" ,CCTV-6 电影
+http://150.138.8.143/00/SNM/CHANNEL00000006/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-7 国防军事" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV7.png" group-title="📺 央视频道" tvg-chno="013" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000318/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-7 国防军事
+http://150.138.8.143/00/SNM/CHANNEL00000318/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8 电视剧" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV8.png" group-title="📺 央视频道" tvg-chno="014" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000362/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-8 电视剧
+http://150.138.8.143/00/SNM/CHANNEL00000362/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8 电视剧" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV8.png" group-title="📺 央视频道" tvg-chno="015" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL20000001/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-8 电视剧
+http://150.138.8.143/00/SNM/CHANNEL20000001/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8 电视剧" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV8.png" group-title="📺 央视频道" tvg-chno="016" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000008/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="720x576" ,CCTV-8 电视剧
+http://150.138.8.143/00/SNM/CHANNEL00000008/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9 纪录" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV9.png" group-title="📺 央视频道" tvg-chno="017" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000319/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-9 纪录
+http://150.138.8.143/00/SNM/CHANNEL00000319/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV-10 科教" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV10.png" group-title="📺 央视频道" tvg-chno="018" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000321/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-10 科教
+http://150.138.8.143/00/SNM/CHANNEL00000321/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV-11 戏曲" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV11.png" group-title="📺 央视频道" tvg-chno="019" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000344/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-11 戏曲
+http://150.138.8.143/00/SNM/CHANNEL00000344/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV-12 社会与法" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV12.png" group-title="📺 央视频道" tvg-chno="020" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000322/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-12 社会与法
+http://150.138.8.143/00/SNM/CHANNEL00000322/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13 新闻" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV13.png" group-title="📺 央视频道" tvg-chno="021" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000345/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-13 新闻
+http://150.138.8.143/00/SNM/CHANNEL00000345/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV-14 少儿" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV14.png" group-title="📺 央视频道" tvg-chno="022" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-14 少儿
+http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-15 音乐" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV15.png" group-title="📺 央视频道" tvg-chno="023" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000346/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-15 音乐
+http://150.138.8.143/00/SNM/CHANNEL00000346/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 奥林匹克" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV16.png" group-title="📺 央视频道" tvg-chno="024" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-16 奥林匹克
+http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV-17 农业农村" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV17.png" group-title="📺 央视频道" tvg-chno="025" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-17 农业农村
+http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="央视精品" tvg-logo="" group-title="🌍 央视付费",央视精品
+http://107.150.60.122/live/ysjp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="央视精品" tvg-logo="" group-title="🌍 央视付费",央视精品
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="央视精品" tvg-logo="" group-title="🌍 央视付费",央视精品
+https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="" tvg-name="央视精品" tvg-logo="" group-title="🌍 央视付费",央视精品
+http://183.11.239.36:808/hls/97/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="卫生健康" tvg-logo="" group-title="🌍 央视付费",卫生健康
+https://live.264788.xyz/channel/weishengjiankang?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="" tvg-name="卫生健康" tvg-logo="" group-title="🌍 央视付费",卫生健康
+http://107.150.60.122/live/wsjk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="卫生健康" tvg-logo="" group-title="🌍 央视付费",卫生健康
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="发现之旅" tvg-logo="" group-title="🌍 央视付费",发现之旅
+http://107.150.60.122/live/fxzl.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="发现之旅" tvg-logo="" group-title="🌍 央视付费",发现之旅
+http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="发现之旅" tvg-logo="" group-title="🌍 央视付费",发现之旅
+http://120.76.248.139/live/bfgd/4200000151.m3u8
+#EXTINF:-1 tvg-id="1649" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="🌍 央视付费",世界地理
+http://107.150.60.122/live/sjdl.m3u8
+#EXTINF:-1 tvg-id="1649" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="🌍 央视付费",世界地理
+http://120.76.248.139/live/bfgd/4200000177.m3u8
+#EXTINF:-1 tvg-id="1649" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="🌍 央视付费",世界地理
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="1649" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="🌍 央视付费",世界地理
+http://61.184.46.85:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
+#EXTINF:-1 tvg-id="1649" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="🌍 央视付费",世界地理
+http://183.11.239.36:808/hls/11/index.m3u8
+#EXTINF:-1 tvg-id="1649" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="🌍 央视付费",世界地理
+http://dassby.qqff.top:99/live/世界地理/index.m3u8
+#EXTINF:-1 tvg-id="1649" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="🌍 央视付费",世界地理
+http://hmfs.f3322.net:3388/hls/28/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="怀旧剧场" tvg-logo="" group-title="🌍 央视付费",怀旧剧场
+http://107.150.60.122/live/hjjc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="怀旧剧场" tvg-logo="" group-title="🌍 央视付费",怀旧剧场
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="怀旧剧场" tvg-logo="" group-title="🌍 央视付费",怀旧剧场
+http://61.184.46.85:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
+#EXTINF:-1 tvg-id="" tvg-name="怀旧剧场" tvg-logo="" group-title="🌍 央视付费",怀旧剧场
+http://171.83.103.119:9999/rtp/239.69.1.89:10174
+#EXTINF:-1 tvg-id="" tvg-name="第一剧场" tvg-logo="" group-title="🌍 央视付费",第一剧场
+http://107.150.60.122/live/dyjc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="第一剧场" tvg-logo="" group-title="🌍 央视付费",第一剧场
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="第一剧场" tvg-logo="" group-title="🌍 央视付费",第一剧场
+http://61.184.46.85:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
+#EXTINF:-1 tvg-id="" tvg-name="第一剧场" tvg-logo="" group-title="🌍 央视付费",第一剧场
+http://171.83.103.119:9999/rtp/239.69.1.74:10084
+#EXTINF:-1 tvg-id="" tvg-name="第一剧场" tvg-logo="" group-title="🌍 央视付费",第一剧场
+http://hmfs.f3322.net:3388/hls/21/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="兵器科技" tvg-logo="" group-title="🌍 央视付费",兵器科技
+http://107.150.60.122/live/gfjs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="兵器科技" tvg-logo="" group-title="🌍 央视付费",兵器科技
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="老故事" tvg-logo="" group-title="🌍 央视付费",老故事
+http://107.150.60.122/live/lgs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="老故事" tvg-logo="" group-title="🌍 央视付费",老故事
+http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="老故事" tvg-logo="" group-title="🌍 央视付费",老故事
+http://120.76.248.139/live/bfgd/4200000166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="" group-title="🌍 央视付费",央视台球
+http://107.150.60.122/live/lystq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="" group-title="🌍 央视付费",央视台球
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="" group-title="🌍 央视付费",央视台球
+http://183.11.239.36:808/hls/73/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="高尔夫网球" tvg-logo="" group-title="🌍 央视付费",高尔夫网球
+http://107.150.60.122/live/gefwq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="高尔夫网球" tvg-logo="" group-title="🌍 央视付费",高尔夫网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-logo="" group-title="🌍 央视付费",电视指南
+http://107.150.60.122/live/dszn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-logo="" group-title="🌍 央视付费",电视指南
+http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-logo="" group-title="🌍 央视付费",电视指南
+http://120.76.248.139/live/bfgd/4200000164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-logo="" group-title="🌍 央视付费",电视指南
+http://171.83.103.119:9999/rtp/239.69.1.87:10162
+#EXTINF:-1 tvg-id="" tvg-name="风云足球" tvg-logo="" group-title="🌍 央视付费",风云足球
+http://107.150.60.122/live/fyzq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="风云足球" tvg-logo="" group-title="🌍 央视付费",风云足球
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="风云足球" tvg-logo="" group-title="🌍 央视付费",风云足球
+http://61.184.46.85:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
+#EXTINF:-1 tvg-id="" tvg-name="风云足球" tvg-logo="" group-title="🌍 央视付费",风云足球
+http://183.11.239.36:808/hls/133/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="风云足球" tvg-logo="" group-title="🌍 央视付费",风云足球
+http://27.41.245.32:801/hls/906/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="风云足球" tvg-logo="" group-title="🌍 央视付费",风云足球
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐" tvg-logo="" group-title="🌍 央视付费",风云音乐
+http://107.150.60.122/live/fyyy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐" tvg-logo="" group-title="🌍 央视付费",风云音乐
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐" tvg-logo="" group-title="🌍 央视付费",风云音乐
+http://171.83.103.119:9999/rtp/239.69.1.90:10180
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐" tvg-logo="" group-title="🌍 央视付费",风云音乐
+http://hmfs.f3322.net:3388/hls/29/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐" tvg-logo="" group-title="🌍 央视付费",风云音乐
+http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐" tvg-logo="" group-title="🌍 央视付费",风云音乐
+http://www.qfly9236.cn:8888/rtp/239.253.92.111:8060
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐" tvg-logo="" group-title="🌍 央视付费",风云音乐
+https://hls-gateway.vpstv.net/streams/708858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="风云剧场" tvg-logo="" group-title="🌍 央视付费",风云剧场
+http://107.150.60.122/live/fyjc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="风云剧场" tvg-logo="" group-title="🌍 央视付费",风云剧场
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="女性时尚" tvg-logo="" group-title="🌍 央视付费",女性时尚
+http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
+
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/河北卫视.png" group-title="⭐ 卫视频道" tvg-chno="122" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000330/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,河北卫视
+http://150.138.8.143/00/SNM/CHANNEL00000330/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/北京卫视.png" group-title="⭐ 卫视频道" tvg-chno="105" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,北京卫视
+http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/天津卫视.png" group-title="⭐ 卫视频道" tvg-chno="110" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000327/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,天津卫视
+http://150.138.8.143/00/SNM/CHANNEL00000327/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/东方卫视.png" group-title="⭐ 卫视频道" tvg-chno="104" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,东方卫视
+http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/深圳卫视.png" group-title="⭐ 卫视频道" tvg-chno="112" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000308/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,深圳卫视
+http://150.138.8.143/00/SNM/CHANNEL00000308/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/山东卫视.png" group-title="⭐ 卫视频道" tvg-chno="107" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000301/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,山东卫视
+http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/山东卫视.png" group-title="⭐ 卫视频道" tvg-chno="108" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL20000012/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,山东卫视
+http://150.138.8.143/00/SNM/CHANNEL20000012/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/山东卫视.png" group-title="⭐ 卫视频道" tvg-chno="109" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL20000004/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,山东卫视
+http://150.138.8.143/00/SNM/CHANNEL20000004/index.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/江西卫视.png" group-title="⭐ 卫视频道" tvg-chno="119" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000335/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,江西卫视
+http://150.138.8.143/00/SNM/CHANNEL00000335/index.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/辽宁卫视.png" group-title="⭐ 卫视频道" tvg-chno="111" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000326/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,辽宁卫视
+http://150.138.8.143/00/SNM/CHANNEL00000326/index.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/重庆卫视.png" group-title="⭐ 卫视频道" tvg-chno="117" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000341/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,重庆卫视
+http://150.138.8.143/00/SNM/CHANNEL00000341/index.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/东南卫视.png" group-title="⭐ 卫视频道" tvg-chno="115" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000310/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,东南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000310/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/湖南卫视.png" group-title="⭐ 卫视频道" tvg-chno="101" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000324/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,湖南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000324/index.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/湖北卫视.png" group-title="⭐ 卫视频道" tvg-chno="113" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000325/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,湖北卫视
+http://150.138.8.143/00/SNM/CHANNEL00000325/index.m3u8
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/山西卫视.png" group-title="⭐ 卫视频道" tvg-chno="127" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000032/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="720x576" ,山西卫视
+http://150.138.8.143/00/SNM/CHANNEL00000032/index.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/陕西卫视.png" group-title="⭐ 卫视频道" tvg-chno="132" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000397/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,陕西卫视
+http://150.138.8.143/00/SNM/CHANNEL00000397/index.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/陕西卫视.png" group-title="⭐ 卫视频道" tvg-chno="133" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000029/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="720x576" ,陕西卫视
+http://150.138.8.143/00/SNM/CHANNEL00000029/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/广东卫视.png" group-title="⭐ 卫视频道" tvg-chno="114" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000307/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,广东卫视
+http://150.138.8.143/00/SNM/CHANNEL00000307/index.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/广西卫视.png" group-title="⭐ 卫视频道" tvg-chno="125" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000368/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,广西卫视
+http://150.138.8.143/00/SNM/CHANNEL00000368/index.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/广西卫视.png" group-title="⭐ 卫视频道" tvg-chno="126" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000038/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="720x576" ,广西卫视
+http://150.138.8.143/00/SNM/CHANNEL00000038/index.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/安徽卫视.png" group-title="⭐ 卫视频道" tvg-chno="106" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000328/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,安徽卫视
+http://150.138.8.143/00/SNM/CHANNEL00000328/index.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/河南卫视.png" group-title="⭐ 卫视频道" tvg-chno="120" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000037/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,河南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000037/index.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/河南卫视.png" group-title="⭐ 卫视频道" tvg-chno="121" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000358/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,河南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000358/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/江苏卫视.png" group-title="⭐ 卫视频道" tvg-chno="103" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,江苏卫视
+http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/浙江卫视.png" group-title="⭐ 卫视频道" tvg-chno="102" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,浙江卫视
+http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/贵州卫视.png" group-title="⭐ 卫视频道" tvg-chno="123" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000329/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,贵州卫视
+http://150.138.8.143/00/SNM/CHANNEL00000329/index.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/云南卫视.png" group-title="⭐ 卫视频道" tvg-chno="130" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000367/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,云南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000367/index.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/云南卫视.png" group-title="⭐ 卫视频道" tvg-chno="131" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000039/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="720x576" ,云南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000039/index.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/四川卫视.png" group-title="⭐ 卫视频道" tvg-chno="118" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000348/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,四川卫视
+http://150.138.8.143/00/SNM/CHANNEL00000348/index.m3u8
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/海南卫视.png" group-title="⭐ 卫视频道" tvg-chno="124" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000347/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,海南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000347/index.m3u8
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/三沙卫视.png" group-title="⭐ 卫视频道" tvg-chno="147" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000078/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="720x576" ,三沙卫视
+http://150.138.8.143/00/SNM/CHANNEL00000078/index.m3u8
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/厦门卫视.png" group-title="⭐ 卫视频道" tvg-chno="149" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000075/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="720x576" ,厦门卫视
+http://150.138.8.143/00/SNM/CHANNEL00000075/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/黑龙江卫视.png" group-title="⭐ 卫视频道" tvg-chno="116" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000306/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,黑龙江卫视
+http://150.138.8.143/00/SNM/CHANNEL00000306/index.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/吉林卫视.png" group-title="⭐ 卫视频道" tvg-chno="128" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000363/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,吉林卫视
+http://150.138.8.143/00/SNM/CHANNEL00000363/index.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/吉林卫视.png" group-title="⭐ 卫视频道" tvg-chno="129" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000036/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="720x576" ,吉林卫视
+http://150.138.8.143/00/SNM/CHANNEL00000036/index.m3u8
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/内蒙古卫视.png" group-title="⭐ 卫视频道" tvg-chno="134" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000398/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,内蒙古卫视
+http://150.138.8.143/00/SNM/CHANNEL00000398/index.m3u8
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/内蒙古卫视.png" group-title="⭐ 卫视频道" tvg-chno="135" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000040/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="720x576" ,内蒙古卫视
+http://150.138.8.143/00/SNM/CHANNEL00000040/index.m3u8
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/新疆卫视.png" group-title="⭐ 卫视频道" tvg-chno="138" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000393/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,新疆卫视
+http://150.138.8.143/00/SNM/CHANNEL00000393/index.m3u8
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/新疆卫视.png" group-title="⭐ 卫视频道" tvg-chno="139" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000044/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="720x576" ,新疆卫视
+http://150.138.8.143/00/SNM/CHANNEL00000044/index.m3u8
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/西藏卫视.png" group-title="⭐ 卫视频道" tvg-chno="143" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000392/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,西藏卫视
+http://150.138.8.143/00/SNM/CHANNEL00000392/index.m3u8
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/西藏卫视.png" group-title="⭐ 卫视频道" tvg-chno="144" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000045/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="720x576" ,西藏卫视
+http://150.138.8.143/00/SNM/CHANNEL00000045/index.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/青海卫视.png" group-title="⭐ 卫视频道" tvg-chno="141" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000366/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,青海卫视
+http://150.138.8.143/00/SNM/CHANNEL00000366/index.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/青海卫视.png" group-title="⭐ 卫视频道" tvg-chno="142" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000042/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="720x576" ,青海卫视
+http://150.138.8.143/00/SNM/CHANNEL00000042/index.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/甘肃卫视.png" group-title="⭐ 卫视频道" tvg-chno="140" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000349/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,甘肃卫视
+http://150.138.8.143/00/SNM/CHANNEL00000349/index.m3u8
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/宁夏卫视.png" group-title="⭐ 卫视频道" tvg-chno="136" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000395/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,宁夏卫视
+http://150.138.8.143/00/SNM/CHANNEL00000395/index.m3u8
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/宁夏卫视.png" group-title="⭐ 卫视频道" tvg-chno="137" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000043/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="720x576" ,宁夏卫视
+http://150.138.8.143/00/SNM/CHANNEL00000043/index.m3u8
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/兵团卫视.png" group-title="⭐ 卫视频道" tvg-chno="145" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000394/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,兵团卫视
+http://150.138.8.143/00/SNM/CHANNEL00000394/index.m3u8
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/兵团卫视.png" group-title="⭐ 卫视频道" tvg-chno="146" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000071/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="720x576" ,兵团卫视
+http://150.138.8.143/00/SNM/CHANNEL00000071/index.m3u8
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/延边卫视.png" group-title="⭐ 卫视频道" tvg-chno="150" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000668/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="720x576" ,延边卫视
+http://150.138.8.143/00/SNM/CHANNEL00000668/index.m3u8
+#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/农林卫视.png" group-title="⭐ 卫视频道" tvg-chno="148" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000072/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="720x576" ,农林卫视
+http://150.138.8.143/00/SNM/CHANNEL00000072/index.m3u8

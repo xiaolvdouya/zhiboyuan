@@ -57,7 +57,7 @@ CCTV-16,http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
 // 以上是山东电信源 
 
 
-CCTV-4Khttp://107.150.60.122/live/cctv4k.m3u8
+CCTV-4K,http://107.150.60.122/live/cctv4k.m3u8
 CCTV-4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV-8K超高清,http://107.150.60.122/live/cctv8k.m3u8
 CCTV-8K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
@@ -449,20 +449,17 @@ NOW NEWS,http://cdn.163189.xyz/163189/now
 
 🌏 河北频道,#genre#
 河北经济,http://1.94.31.214/php/hebei.php?id=jjsh
-
-河北影视,http://1.94.31.214/php/hebei.php?id=hbds
+河北都市,http://1.94.31.214/php/hebei.php?id=nmpd
+河北文旅体育,http://1.94.31.214/php/hebei.php?id=hbds
 
 河北少儿,http://1.94.31.214/php/hebei.php?id=hbys
-河北公共,http://1.94.31.214/php/hebei.php?id=sekj
-河北少儿,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
-河北三农,http://1.94.31.214/php/hebei.php?id=hbgg
+河北三农,http://1.94.31.214/php/hebei.php?id=sekj
 
-河北都市,http://1.94.31.214/php/hebei.php?id=nmpd
+河北三佳购物,http://1.94.31.214/php/hebei.php?id=hbgg
 
 邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
-
 邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
 邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
