@@ -8,3 +8,4 @@ http://192.168.123.1:20231/rtp/239.21.2.45:5002?fcc=150.138.8.132:8027
 http://192.168.123.1:20231/rtp/239.21.1.154:5002?fcc=150.138.8.132:8027
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5 体育" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img/CCTV5.png" group-title="📺 央视频道" tvg-chno="006" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://150.138.8.143/00/SNM/CHANNEL00000360/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,CCTV-5 体育
 http://192.168.123.1:20231/rtp/239.21.2.46:5002?fcc=150.138.8.132:8027
+
