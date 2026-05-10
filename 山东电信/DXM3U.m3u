@@ -421,6 +421,10 @@ https://o11.163189.xyz/stream/live/iqiyi/
 http://iptv.4666888.xyz/iptv2A.php?id=59
 #EXTINF:-1 tvg-id="" tvg-name="梦工场动漫" tvg-logo="" group-title="🎬 特色频道",梦工场动漫
 http://iptv.4666888.xyz/iptv2A.php?id=40
+<<<<<<< HEAD
+=======
+
+>>>>>>> bec1b5772e910c5ad1750279f236290575eefc1b
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="" group-title="🌊港澳频道",凤凰资讯
 http://r.jdshipin.com/0Rp07
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="" group-title="🌊港澳频道",凤凰资讯
@@ -513,7 +517,11 @@ https://cdn6.163189.xyz/163189/as
 https://cdn6.163189.xyz/163189/asam
 #EXTINF:-1 tvg-id="" tvg-name="澳视澳门" tvg-logo="" group-title="🌊港澳频道",澳视澳门
 http://r.jdshipin.com/n2YZI
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="" tvg-name="澳视澳门" tvg-logo="" group-title="🌊港澳频道",澳视澳门
+=======
+#EXTINF:-1 tvg-id="" tvg-name="澳視澳門" tvg-logo="" group-title="🌊港澳频道",澳視澳門
+>>>>>>> bec1b5772e910c5ad1750279f236290575eefc1b
 http://iptv.4666888.xyz/iptv2A.php?id=41
 #EXTINF:-1 tvg-id="" tvg-name="澳门体育" tvg-logo="" group-title="🌊港澳频道",澳门体育
 http://cdn6.163189.xyz/163189/amty
