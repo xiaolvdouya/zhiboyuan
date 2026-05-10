@@ -410,7 +410,7 @@ CH8,https://cdn6.163189.xyz/163189/ch8
 澳视卫星,https://cdn6.163189.xyz/163189/as 
 澳视澳门,https://cdn6.163189.xyz/163189/asam 
 澳视澳门,http://r.jdshipin.com/n2YZI 
-澳視澳門,http://iptv.4666888.xyz/iptv2A.php?id=41
+澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
 澳门体育,http://cdn6.163189.xyz/163189/amty
 澳门体育,http://cdn6.163189.xyz/163189/amty 
 澳门综艺,http://cdn6.163189.xyz/163189/amzy
