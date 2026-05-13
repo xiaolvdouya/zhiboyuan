@@ -1,0 +1,4739 @@
+{
+  "epgs": [
+
+  {
+      "epgid": "CCTV1",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",
+      "name": "CCTV1,001,1⃣️,1111,19.CCTV-1综合-1080P,1.CCTV-1综合-1080P,CCTC1综合频道,CCTV,CCTV0001,CCTV_01,CCTV-01综合,CCTV_01综合,CCTV---1,CCTV-1,CCTV_1,CCTV11080,CCTV1[1920*1080],CCTV1-4K,CCTV1-4K1,CCTV1-4K2,CCTV1-4K3,CCTV1-4K4,CCTV1-4K5,CCTV1-4K6,CCTV18M,CCTV18M1080,CCTV1.CN,CCTV1F,CCTV1H,CCTV-1-HD,CCTV1-HD,CCTV-1HD,CCTV1HD,CCTV1「IPTV」,CCTV1MAX16M1080,CCTV-1綜合頻道,CCTV-1_综合,CCTV1-综合,CCTV-1综合,CCTV1综合,CCTV1综合1,CCTV-1综合（1080P）,CCTV1-综合频道,CCTV-1综合频道,CCTV1综合频道,CCTV-1综合(高清),CCTV-1综合[高清],CCTV1综合高清,CCTV1综合(高清),CCTV1超高清,CCTV1-高清,CCTV1（高清）,CCTV-1高清,CCTV1高清,CCTV1高清综合,CCTV99999,CCTVL,CCTV中央一套,CCTV体育,CCTV综合,CCTV-综合,CCTV综合.备用,CHNCCTV1.CN,QWE,中一,中央1,中央①,中央1台,中央一,中央一台,中央一套,中央一套高清,中央电视台1,中央综合,凯悦宾馆CCTV1综合,嘻嘻体委一,大海里的鱼,央视,央视-1,央视1套,实打实的,综合,综合1台,综合一台,聊城,范德萨范德萨"
+    },
+    {
+      "epgid": "CCTV10",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png",
+      "name": "CCTV10,30.CCTV-10科教-1080P,CCTV-10,CCTV10H,CCTV10HD,CCTV-10科学,CCTV-10科教,CCTV_10科教,CCTV10科教,CCTV-10高清,CCTV科教,CCTV科教.备用,中央10台,中央十台,中央十套,中央电视台10,中央科教,央视-10,科教10台"
+    },
+    {
+      "epgid": "CCTV11",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png",
+      "name": "CCTV11,31.CCTV-11戏剧-1080P,CCTV-11,CCTV11戏剧,CCTV-11戏曲,CCTV_11戏曲,CCTV11戏曲,CCTV-11戏曲HD,CCTV-11高清,CCTV戏曲,CCTV戏曲.备用,中央11台,中央十一台,中央戏曲,中央电视台11,央视-11,戏曲11台"
+    },
+    {
+      "epgid": "CCTV12",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png",
+      "name": "CCTV12,32.CCTV-12社会与法-1080P,CCTV-12,CCTV12H,CCTV12HD,CCTV-12法治,CCTV-12社会,CCTV-12社会与法,CCTV_12社会与法,CCTV12社会与法,CCTV-12社会与法-1080P,CCTV-12社会与法HD,CCTV-12高清,CCTV法制,CCTV法制.备用,中央12台,中央十二套,中央十二高清,中央电视台12,中央社法,央视-12,社会与法12台"
+    },
+    {
+      "epgid": "CCTV13",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",
+      "name": "CCTV13,13新闻,20.CCTV-13新闻-1080P,CCTV-13,CCTV13.CN,CCTV13F,CCTV13H,CCTV13HD,CCTV-13新闻,CCTV_13新闻,CCTV13新闻,CCTV-13高清,🆕CCTV13,🆕CCTV新闻,中央13台,中央-13高清,中央新闻,中央新闻高清,中央电视台13,央視新聞,央视-13,央视新闻,新闻13台"
+    },
+    {
+      "epgid": "CCTV14",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",
+      "name": "CCTV14,33.CCTV-14少儿-1080P,CCTV-14,CCTV14H,CCTV14HD,CCTV-14少儿,CCTV_14少儿,CCTV14少儿,CCTV-14少儿HD,CCTV-14高清,CCTV99,CCTV少儿,CCTV-少儿,CCTV少儿.备用,SNAKE_CCTV14,SNAKECCTV14,中央14台,中央少儿,中央电视台14,中央科教高清,央视-14,央视少儿,少儿14台"
+    },
+    {
+      "epgid": "CCTV15",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png",
+      "name": "CCTV15,34.CCTV-15音乐-1080P,C15C15,CCTV-15,CCTV15.CN,CCTV15H,CCTV15HD,CCTV-15音乐,CCTV_15音乐,CCTV15音乐,CCTV-15音乐HD,CCTV-15高清,CCTV音乐,CCTV音乐HD,CCTV音乐.备用,中央15台,中央15套,中央电视台15,央视-15,音乐15台"
+    },
+    {
+      "epgid": "CCTV16",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png",
+      "name": "CCTV16,35.CCTV-16奥林匹克-1080P,CCTV-16,CCTV164K,CCTV-16 4K,CCTV16-4K,CCTV164K（SDR）,CCTV16.CN,CCTV16H,CCTV16HD,CCTV-16奥林匹克,CCTV_16奥林匹克,CCTV16奥林匹克,CCTV16-奥林匹克,CCTV-16奥林匹克4K,CCTV16-奥林匹克4K,CCTV-16奥运4K,CCTV16超高清,CCTV-16高清,CCTV-16 高清,CCTVOHD,CCTV奥林匹克4K,中央16台,中央奥运,中央奥运4K,中央电视台16,中央音乐,央视-16,奥林匹克16台,奥林匹克4K,奥运频道UHD"
+    },
+    {
+      "epgid": "CCTV17",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png",
+      "name": "CCTV17,10.CCTV-17农业农村-1080P,CCTV17H,CCTV17HD,CCTV-17农业,CCTV17农业,CCTV-17农业农村,CCTV_17农业农村,CCTV17农业农村,CCTV17-农业农村,CCTV-17高清,中央17台,中央农业,中央十七套,农业农村17台,央视-17"
+    },
+    {
+      "epgid": "CCTV2",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png",
+      "name": "CCTV2,21.CCTV-2财经-1080P,CCTV_02,CCTV_02财经,CCTV-2,CCTV2,CCTV21,CCTV22,CCTV2C,CCTV2F,CCTV2H,CCTV2HD,CCTV2经济,CCTV-2财经,CCTV2财经,CCTV-2财经[高清],CCTV-2[高清],CCTV2-高清,CCTV-2高清,CCTV财经,CCTV财经.备用,中央2台,中央二台,中央二套,中央电视台2,中央财经,央视-2,财经,财经2台"
+    },
+    {
+      "epgid": "CCTV3",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png",
+      "name": "CCTV3,22.CCTV-3综艺-1080P,CCTV_03综艺,CCTV-3,CCTV3,CCTV34K,CCTV3-4K,CCTV3F,CCTV3H,CCTV3HD,CCTV-3综艺,CCTV3综艺,CCTV-3高清,CCTV综艺,CCTV综艺.备用,中央3台,中央三台,中央三套,中央电视台3,中央综艺,央视-3,综艺3台"
+    },
+    {
+      "epgid": "CCTV3D",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3D.png",
+      "name": "CCTV3D,"
+    },
+    {
+      "epgid": "CCTV4",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png",
+      "name": "CCTV4,23.CCTV-4中文国际-1080P,CCTV_04中文国际,CCTV-4,CCTV4F,CCTV4H,CCTV4HD,CCTV-4中文,CCTV-4中文国际,CCTV4中文国际,CCTV-4国际,CCTV4国际,CCTV-4高清,CCTV国际,CCTV-国际,CCTV--国际,CCTV国际.备用,CHNCCTV4.CN,中央4台,中央四台,中央四套,中央国际,中央电视台4,中文国际,中文国际4台,央视-4"
+    },
+    {
+      "epgid": "CCTV4AME",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4AME.png",
+      "name": "CCTV4AME,"
+    },
+    {
+      "epgid": "CCTV4EUO",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4EUO.png",
+      "name": "CCTV4EUO,"
+    },
+    {
+      "epgid": "CCTV4K",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png",
+      "name": "CCTV4K,CCTV-4K,CCTV4K1,CCTV4K2,CCTV-4K-25P-HLG源,CCTV-4K25P-SDR-百事通源,CCTV4K3,CCTV4K.CN,CCTV4K-HD,CCTV-4K超高清,CCTV4K-超高清1,CCTV4K-超高清2,CCTV4K-超高清3,CCTV4K-超高清F,CCTVUHD,中央4K台,中央超清,央视超清UHD,央视超高清"
+    },
+    {
+      "epgid": "CCTV4欧洲",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4欧洲.png",
+      "name": "CCTV4欧洲,CCTV4EUO,CCTV4-中文国际欧洲,CCTV-4中文国际欧洲,CCTV4-国际欧洲,CCTV-4欧洲,中文欧洲,央视欧洲"
+    },
+    {
+      "epgid": "CCTV4美洲",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4美洲.png",
+      "name": "CCTV4美洲,CCTV4AME,CCTV4-中文国际美洲,CCTV-4中文国际美洲,CCTV4-国际美洲,CCTV-4美洲,中文美洲,央视美洲"
+    },
+    {
+      "epgid": "CCTV5+",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png",
+      "name": "CCTV5+,25.CCTV-5+体育赛事-1080P,CCTV18,CCTV-5+,CCTV-5⁺,CCTV5P,CCTV5PLUS,CCTV-5P体育赛事,CCTV-5+体育,CCTV-5体育+,CCTV-5+体育赛事,CCTV-5⁺体育赛事,CCTV5+体育赛事,CCTV5⁺体育赛事,CCTV-5体育赛事,CCTV5+-体育赛事,CCTV-5+体育赛事-1080P,CCTV-5＋体育赛事高清,CCTV5+体育赛视,CCTV5+体育高清,CCTV-5+体赛,CCTV5+赛事,CCTV-5+高清,CCTV-5＋高清,CCTV5+ 高清,CCTV赛事,CCTV赛事.备用,中央赛事,体育赛事,咪咕视频-21,央视-5+"
+    },
+    {
+      "epgid": "CCTV5",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png",
+      "name": "CCTV5,24.CCTV-5体育-1080P,CCTV_05体育,CCTV-5,CCTV54K,CCTV5-4K,CCTV5H,CCTV-5HD,CCTV5HD,CCTV5HD1,CCTV5HD2,CCTV-5体育,CCTV5体育,CCTV-5体育-1080P,CCTV5＋赛事,CCTV-5 高清,CCTV-5高清,CCTV体育.备用,中央5台,中央五台,中央五套,中央体育,中央电视台5,体育5台,央视-5,央视体育"
+    },
+    {
+      "epgid": "CCTV6",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png",
+      "name": "CCTV6,26.CCTV-6电影-1080P,6,CCTV_06电影,CCTV-6,CCTV64K,CCTV6-4K,CCTV6F,CCTV6H,CCTV6HD,CCTV-6电影,CCTV6电影,CCTV-6-高清,CCTV-6高清,CCTV电影,CCTV电影.备用,CCTV-电影「高清」,中央6台,中央六台,中央六套,中央电影,中央电视台6,央视-6,港台,电影6台"
+    },
+    {
+      "epgid": "CCTV7",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png",
+      "name": "CCTV7,27.CCTV-7国防军事-1080P,CCTV_07国防军事,CCTV-7,CCTV7H,CCTV-7HD,CCTV7HD,CCTV-7军事,CCTV7军事农业,CCTV-7国防,CCTV7-国防军事,CCTV-7国防军事,CCTV7国防军事,CCTV-7高清,CCTV军事,CCTV军事.备用,中央7台,中央七台,中央七套,中央国防,中央电视台7,国防军事7台,央视-7"
+    },
+    {
+      "epgid": "CCTV8",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png",
+      "name": "CCTV8,28.CCTV-8电视剧-1080P,CCTV_08电视剧,CCTV-8,CCTV8-4K,CCTV8F,CCTV8H,CCTV8HD,CCTV8-电视剧,CCTV-8电视剧,CCTV8电视剧,CCTV-8高清,CCTV剧集,CCTV剧集.备用,中央8台,中央八台,中央八套,中央电视,中央电视台8,央视-8,电视剧8台"
+    },
+    {
+      "epgid": "CCTV8K",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8K.png",
+      "name": "CCTV8K,CCTV-8K,CCTV8K1,CCTV8K2,CCTV-8K超高清,CCTV8K超高清,CCTV8K-超高清F"
+    },
+    {
+      "epgid": "CCTV9",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png",
+      "name": "CCTV9,29.CCTV-9纪录-1080P,CCTV_09纪录,CCTV-9,CCTV9记录,CCTV9HD,CCTV-9纪录,CCTV9纪录,CCTV-9记录,CCTV-9高清,CCTV纪录,CCTV纪录.备用,中央9台,中央九台,中央九套,中央电视台9,中央记录,中央记录高清,央视-9,纪录9台,记录9台"
+    },
+    {
+      "epgid": "CCTV娱乐",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV娱乐.png",
+      "name": "CCTV娱乐,"
+    },
+    {
+      "epgid": "CCTV戏曲",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV戏曲.png",
+      "name": "CCTV戏曲,"
+    },
+  {
+      "epgid": "CCTV风云剧场",
+      "name": "CCTV风云剧场,风云剧场",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png"
+  },
+  {
+      "epgid": "CCTV风云音乐",
+      "name": "CCTV风云音乐,风云音乐",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png"
+  },
+  {
+      "epgid": "CCTV风云足球",
+      "name": "CCTV风云足球,风云足球",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png"
+  },
+  {
+      "epgid": "CCTV兵器科技",
+      "name": "CCTV兵器科技,兵器科技",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVbqkj.png"
+  },
+  {
+      "epgid": "CCTV电视指南",
+      "name": "CCTV电视指南,电视指南",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png"
+  },
+  {
+      "epgid": "CCTV第一剧场",
+      "name": "CCTV第一剧场,第一剧场",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png"
+  },
+  {
+      "epgid": "CCTV怀旧剧场",
+      "name": "CCTV怀旧剧场,怀旧剧场",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png"
+  },
+  {
+      "epgid": "CCTV女性时尚",
+      "name": "CCTV女性时尚,女性时尚",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png"
+  },
+  {
+      "epgid": "CCTV世界地理",
+      "name": "CCTV世界地理,世界地理",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png"
+  },
+  {
+      "epgid": "CCTV卫生健康",
+      "name": "CCTV卫生健康,卫生健康",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVwsjk.png"
+  },
+  {
+      "epgid": "CCTV央视台球",
+      "name": "CCTV央视台球,央视台球",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png"
+  },
+  {
+      "epgid": "CCTV高尔夫网球",
+      "name": "CCTV高尔夫网球,高尔夫网球,高尔网球,高尔夫•网球,CCTV高尔夫•网球",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png"
+  },
+  {
+      "epgid": "CCTV央视文化精品",
+      "name": "CCTV央视文化精品,CCTV文化精品,文化精品,央视文化精品",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png"
+  },
+
+  {
+      "epgid": "CGTN",
+      "name": "CGTN,CGTN高清,CGTN[高清],CGTN英语,CGTN英语高清,CGTN英语,CGTN 新闻[高清],CGTN-新闻,CGTN新闻[高清]",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTN.png"
+  },
+  {
+      "epgid": "CGTN纪录",
+      "name": "CGTNDocumentary,CGTN纪录,CGTN记录,CGTN-记录,CGTN纪录[高清],CGTN纪录高清,CGTN-纪录,CGTN 纪录[高清],CGTN 纪录高清,CGTN 纪录,CGTN 英文记录,CGTN 记录[高清]",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNjilu.png"
+  },
+  {
+      "epgid": "CGTN法语",
+      "name": "CGTNFrench,CGTN法语,CGTN法语[高清],CGTN法语高清,CGTN 法语,CGTN-法语,CGTN 法语[高清],CGTN 法语高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNfy.png"
+  },
+  {
+      "epgid": "CGTN俄语",
+      "name": "CGTNRussian,CGTN俄语,CGTN俄语[高清],CGTN俄语高清,CGTN 俄语,CGTN-俄语,CGTN 俄语[高清],CGTN 俄语高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNey.png"
+  },
+  {
+      "epgid": "CGTN西班牙语",
+      "name": "CGTNSpanish,CGTN西语,CGTN西班牙语,CGTN espsnol,CGTN-西语,CGTN西班牙语[高清],CGTN espsnol[高清],CGTN西班牙语高清,CGTN 西班牙语,CGTN 西班牙语高清,CGTN 西班牙语[高清]",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNxbyy.png"
+  },
+  {
+      "epgid": "CGTN阿拉伯语",
+      "name": "CGTNArabic,CGTN阿拉伯语,CGTN阿语,CGTN阿拉伯语[高清],CGTN阿语[高清],CGTN阿拉伯语高清,CGTN 阿拉伯语,CGTN 阿语,CGTN-阿语,CGTN 阿拉伯语[高清],CGTN 阿语[高清],CGTN 阿拉伯语高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNalby.png"
+  },
+  {
+      "epgid": "中国教育电视台-1",
+      "name": "中国教育电视台-1,中国教育1台,CETV1",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV1.png"
+  },
+  {
+      "epgid": "中国教育电视台-2",
+      "name": "中国教育电视台-2,中国教育2台,CETV2",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV2.png"
+  },
+  {
+      "epgid": "中国教育电视台-3",
+      "name": "中国教育电视台-3,中国教育3台,CETV3",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV3.png"
+  },
+  {
+      "epgid": "中国教育电视台-4",
+      "name": "中国教育电视台-4,中国教育4台,CETV4",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV4.png"
+  },
+  {
+      "epgid": "新华社中文",
+      "name": "新华社中文,新华社中文别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CNCCN.png"
+  },
+  {
+      "epgid": "新华社英文",
+      "name": "新华社英文,新华社英文别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CNCEN.png"
+  },
+  {
+      "epgid": "中央新影发现之旅",
+      "name": "发现之旅,中央新影发现之旅,中央新影-发现之旅,CCTV发现之旅",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CNDfxzl.png"
+  },
+  {
+      "epgid": "中央新影新科动漫",
+      "name": "中央新影新科动漫,新科动漫,CCTV新科动漫,中央新影-新科动漫",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CNDxkdm.png"
+  },
+  {
+      "epgid": "中央新影证券资讯",
+      "name": "中央新影证券资讯,证券资讯,CCTV证券资讯,中央新影-证券资讯",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CNDzqzx.png"
+  },
+  {
+      "epgid": "中央新影老故事",
+      "name": "老故事,中央新影老故事,CCTV老故事,中央新影-老故事",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CNDlgs.png"
+  },
+  {
+      "epgid": "中央新影中学生",
+      "name": "中学生,中央新影中学生,中央新影-中学生,CCTV中学生",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CNDzxs.png"
+  },
+
+  {
+      "epgid": "湖南卫视",
+      "name": "湖南卫视,湖南卫视HD,湖南卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png"
+  },
+  {
+      "epgid": "浙江卫视",
+      "name": "浙江卫视,浙江卫视HD,浙江卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png"
+  },
+  {
+      "epgid": "东方卫视",
+      "name": "东方卫视,东方卫视HD,东方卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png"
+  },
+  {
+      "epgid": "北京卫视",
+      "name": "北京卫视,北京卫视HD,北京卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png"
+  },
+  {
+      "epgid": "江苏卫视",
+      "name": "江苏卫视,江苏卫视HD,江苏卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png"
+  },
+  {
+      "epgid": "安徽卫视",
+      "name": "安徽卫视,安徽卫视HD,安徽卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Anhui.png"
+  },
+  {
+      "epgid": "重庆卫视",
+      "name": "重庆卫视,重庆卫视HD,重庆卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Chongqing.png"
+  },
+  {
+      "epgid": "东南卫视",
+      "name": "东南卫视,东南卫视HD,东南卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongnan.png"
+  },
+  {
+      "epgid": "甘肃卫视",
+      "name": "甘肃卫视,甘肃卫视HD,甘肃卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Gansu.png"
+  },
+  {
+      "epgid": "广东卫视",
+      "name": "广东卫视,广东卫视HD,广东卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png"
+  },
+  {
+      "epgid": "广西卫视",
+      "name": "广西卫视,广西卫视HD,广西卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangxi.png"
+  },
+  {
+      "epgid": "贵州卫视",
+      "name": "贵州卫视,贵州卫视HD,贵州卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guizhou.png"
+  },
+  {
+      "epgid": "海南卫视",
+      "name": "海南卫视,海南卫视HD,海南卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hainan.png"
+  },
+  {
+      "epgid": "河北卫视",
+      "name": "河北卫视,河北卫视HD,河北卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hebei.png"
+  },
+  {
+      "epgid": "黑龙江卫视",
+      "name": "黑龙江卫视,黑龙江卫视HD,黑龙江卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Heilongjiang.png"
+  },
+  {
+      "epgid": "河南卫视",
+      "name": "河南卫视,河南卫视HD,河南卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Henan.png"
+  },
+  {
+      "epgid": "湖北卫视",
+      "name": "湖北卫视,湖北卫视HD,湖北卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hubei.png"
+  },
+  {
+      "epgid": "江西卫视",
+      "name": "江西卫视,江西卫视HD,江西卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangxi.png"
+  },
+  {
+      "epgid": "吉林卫视",
+      "name": "吉林卫视,吉林卫视HD,吉林卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jilin.png"
+  },
+  {
+      "epgid": "内蒙古卫视",
+      "name": "内蒙古卫视,内蒙古卫视HD,内蒙古卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Neimeng.png"
+  },
+  {
+      "epgid": "辽宁卫视",
+      "name": "辽宁卫视,辽宁卫视HD,辽宁卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Liaoning.png"
+  },
+  {
+      "epgid": "宁夏卫视",
+      "name": "宁夏卫视,宁夏卫视HD,宁夏卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Ningxia.png"
+  },
+  {
+      "epgid": "青海卫视",
+      "name": "青海卫视,青海卫视HD,青海卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qinghai.png"
+  },
+  {
+      "epgid": "山东卫视",
+      "name": "山东卫视,山东卫视HD,山东卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png"
+  },
+  {
+      "epgid": "陕西卫视",
+      "name": "陕西卫视,陕西卫视HD,陕西卫视高清,陝西卫视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi.png"
+  },
+  {
+      "epgid": "山西卫视",
+      "name": "山西卫视,山西卫视HD,山西卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi_.png"
+  },
+  {
+      "epgid": "深圳卫视",
+      "name": "深圳卫视,深圳卫视HD,深圳卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png"
+  },
+  {
+      "epgid": "四川卫视",
+      "name": "四川卫视,四川卫视HD,四川卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png"
+  },
+  {
+      "epgid": "天津卫视",
+      "name": "天津卫视,天津卫视HD,天津卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Tianjin.png"
+  },
+  {
+      "epgid": "新疆卫视",
+      "name": "新疆卫视,新疆卫视HD,新疆卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Xinjiang.png"
+  },
+  {
+      "epgid": "西藏卫视",
+      "name": "西藏卫视,西藏卫视HD,西藏卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Xizang.png"
+  },
+  {
+      "epgid": "云南卫视",
+      "name": "云南卫视,云南卫视HD,云南卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Yunnan.png"
+  },
+  {
+      "epgid": "海峡卫视",
+      "name": "海峡卫视,海峡卫视HD,海峡卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Haixia.png"
+  },
+  {
+      "epgid": "兵团卫视",
+      "name": "兵团卫视,兵团卫视HD,兵团卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Bingtuan.png"
+  },
+  {
+      "epgid": "黄河卫视",
+      "name": "黄河卫视,黄河卫视HD,黄河卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Huanghe.png"
+  },
+  {
+      "epgid": "安多卫视",
+      "name": "安多卫视,安多卫视HD,安多卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Anduo.png"
+  },
+  {
+      "epgid": "康巴卫视",
+      "name": "康巴卫视,康巴卫视HD,康巴卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Kangba.png"
+  },
+  {
+      "epgid": "南方卫视",
+      "name": "南方卫视,南方卫视别称HD,南方卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nanfang.png"
+  },
+  {
+      "epgid": "农林卫视",
+      "name": "农林卫视,农林卫视HD,农林卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nonglin.png"
+  },
+  {
+      "epgid": "三沙卫视",
+      "name": "三沙卫视,三沙卫视HD,三沙卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sansha.png"
+  },
+  {
+      "epgid": "延边卫视",
+      "name": "延边卫视,延边卫视HD,延边卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Yanbian.png"
+  },
+  {
+      "epgid": "厦门卫视",
+      "name": "厦门卫视,厦门卫视HD,厦门卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Xiamen.png"
+  },
+  {
+      "epgid": "山东教育卫视",
+      "name": "山东教育卫视,山东教育卫视HD,山东教育卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandongjy.png"
+  },
+  {
+      "epgid": "澜湄国际卫视",
+      "name": "澜湄国际卫视,澜湄国际卫视HD,澜湄国际卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Meilan.png"
+  },
+  {
+      "epgid": "凤凰中文台",
+      "name": "凤凰中文,凤凰中文台,凤凰卫视,凤凰卫视中文台,凤凰中文高清,凤凰卫视高清,凤凰卫视中文台高清,鳳凰中文,鳳凰中文HD,鳳凰中文台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png"
+  },
+  {
+      "epgid": "凤凰资讯台",
+      "name": "凤凰资讯,凤凰资讯台,凤凰咨询,凤凰资讯高清,凤凰资讯台高清,凤凰咨询高清,鳳凰資訊,鳳凰資訊HD,鳳凰資訊台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png"
+  },
+  {
+      "epgid": "凤凰香港台",
+      "name": "凤凰香港,凤凰香港台,鳳凰香港,鳳凰香港台,凤凰卫视香港台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png"
+  },
+  {
+      "epgid": "凤凰电影台",
+      "name": "凤凰电影台,凤凰电影",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png"
+  },
+  {
+      "epgid": "翡翠台",
+      "name": "翡翠台,翡翠,TVB翡翠,TVB翡翠4K,TVB翡翠4k,无线翡翠,翡翠4K,翡翠台4K,TVB翡翠(亚),TVB翡翠(美东),TVB翡翠(美西),TVB翡翠(美),TVB翡翠(英),TVB翡翠(澳),TVB翡翠(欧),TVBJade",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png"
+  },
+  {
+      "epgid": "明珠台",
+      "name": "明珠台,明珠,Pearl,TVB Pearl,无线明珠,TVB明珠",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png"
+  },
+  {
+      "epgid": "J2",
+      "name": "J2,TVBJ2,TVB J2",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png"
+  },
+  {
+      "epgid": "无线新闻台",
+      "name": "无线新闻台,无线新闻,TVB新闻,TVB新闻（北美）",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png"
+  },
+  {
+      "epgid": "无线财经资讯台",
+      "name": "无线财经资讯台,无线财经资讯,无线财经",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB5.png"
+  },
+  {
+      "epgid": "无线星河台",
+      "name": "无线星河台,TVB星河频道,TVB星河,无线星河,星河频道,TVB星河国,TVB星河粤,TVB星河(粤),TVB星河(国)",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB6.png"
+  },
+  {
+      "epgid": "无线韩剧台",
+      "name": "无线韩剧台,TVB韩剧台,TVB韩剧,无线韩剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB7.png"
+  },
+  {
+      "epgid": "无线经典台",
+      "name": "无线经典台,TVB经典台,TVB经典,无线经典",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB8.png"
+  },
+  {
+      "epgid": "无线综艺台",
+      "name": "无线综艺台,无线综艺,TVB综艺台,TVB综艺",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB9.png"
+  },
+  {
+      "epgid": "无线为食台",
+      "name": "无线为食台,无线为食,TVB为食台,TVB为食",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB10.png"
+  },
+  {
+      "epgid": "无线日剧台",
+      "name": "无线日剧台,TVB日剧台,TVB日剧,无线日剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB11.png"
+  },
+  {
+      "epgid": "无线粤语片台",
+      "name": "无线粤语片台,TVB粤语片,TVB粤语片台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB12.png"
+  },
+  {
+      "epgid": "无线华语剧台",
+      "name": "无线华语剧台,TVB华剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB13.png"
+  },
+  {
+      "epgid": "MytvSuper",
+      "name": "MytvSuper,MyTVSuper,MYTVSUPER,MyTV亚洲剧台,MyTV华语剧台,MyTV黄金翡翠,MyTV千禧经典,MyTV少儿台,MyTVSuperFree,MyTVHandsUP,MyTV戏曲台,MyTV粤语片台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png"
+  },
+  {
+      "epgid": "功夫台",
+      "name": "无线功夫,TVB功夫,TVB功夫(粤),TVB功夫(国),香港功夫,功夫台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB15.png"
+  },
+  {
+      "epgid": "Hands UP",
+      "name": "Hands UP,HandsUP",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB16.png"
+  },
+  {
+      "epgid": "有线新闻台",
+      "name": "有线新闻台,有线新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/icable1.png"
+  },
+  {
+      "epgid": "有线财经资讯台",
+      "name": "有线财经资讯台,有线财经,有线财经资讯",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/icable2.png"
+  },
+  {
+      "epgid": "有线新闻直播台",
+      "name": "有线新闻直播台,有线新闻直播",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/icable3.png"
+  },
+  {
+      "epgid": "有线娱乐台",
+      "name": "有线娱乐台,有线娱乐",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/icable4.png"
+  },
+  {
+      "epgid": "有线电影台",
+      "name": "有线电影台,有线电影",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/icable5.png"
+  },
+  {
+      "epgid": "有线HD603",
+      "name": "有线HD603,有线HD603台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/icable6.png"
+  },
+  {
+      "epgid": "有线体育台",
+      "name": "有线体育台,有线体育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/icable7.png"
+  },
+  {
+      "epgid": "有线Sports Plus 1",
+      "name": "有线Sports Plus 1,有线SportsPlus1",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/icable8.png"
+  },
+  {
+      "epgid": "有线Sports Plus 2",
+      "name": "有线Sports Plus 2,有线SportsPlus2",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/icable9.png"
+  },
+  {
+      "epgid": "有线Sports Plus 3",
+      "name": "有线Sports Plus 3,有线SportsPlus3",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/icable10.png"
+  },
+  {
+      "epgid": "有线18台",
+      "name": "有线18台,有线18,有线18赛马",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/icable11.png"
+  },
+  {
+      "epgid": "RTHK 31",
+      "name": "RTHK 31,RTHK31",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK31.png"
+  },
+  {
+      "epgid": "RTHK 32",
+      "name": "RTHK 32,RTHK32",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK32.png"
+  },
+  {
+      "epgid": "RTHK 33",
+      "name": "RTHK 33,RTHK33",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK33.png"
+  },
+  {
+      "epgid": "Viutv",
+      "name": "Viutv,Viu tv,VIU TV,viu tv,viutv,VIUTV",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png"
+  },
+  {
+      "epgid": "Viutv6",
+      "name": "Viutv6,Viu tv6,VIU TV6,viu tv6,viutv6,VIUTV6",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv6.png"
+  },
+  {
+      "epgid": "Now新闻台",
+      "name": "Now新闻台,Now新闻,NOW新闻台,NOW新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png"
+  },
+  {
+      "epgid": "Now财经台",
+      "name": "Now财经台,Now财经,NOW财经台,NOW财经",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now2.png"
+  },
+  {
+      "epgid": "Now直播台",
+      "name": "Now直播台,Now直播,NOW直播台,NOW直播",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now3.png"
+  },
+  {
+      "epgid": "爆谷台",
+      "name": "爆谷台,NOW爆谷,Now爆谷,NOW爆谷台,Now爆谷台,爆谷频道",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png"
+  },
+  {
+      "epgid": "星影台",
+      "name": "星影台,NOW星影,Now星影,NOW星影台,Now星影台,星影频道",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png"
+  },
+  {
+      "epgid": "Now剧集台",
+      "name": "Now剧集台,Now剧集,NOW剧集台,NOW剧集",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now6.png"
+  },
+  {
+      "epgid": "Now华剧台",
+      "name": "Now华剧台,Now华剧,NOW华剧台,NOW华剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now7.png"
+  },
+  {
+      "epgid": "香港国际财经台",
+      "name": "香港国际财经台,国际财经,HKIBS,香港國際財經台,香港国际财经",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xggjcj.png"
+  },
+  {
+      "epgid": "香港开电视",
+      "name": "香港开电视,开电视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xgkai.png"
+  },
+  {
+      "epgid": "私人影院",
+      "name": "私人影院,私人影院别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sirenyy.png"
+  },
+  {
+      "epgid": "香港卫视",
+      "name": "香港卫视,香港卫视高清,香港卫视HKS,HKS,香港衛視",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HKS.png"
+  },
+  {
+      "epgid": "星空卫视",
+      "name": "星空卫视,星空",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Startv.png"
+  },
+  {
+      "epgid": "阳光卫视",
+      "name": "阳光卫视,阳光频道",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Suntv.png"
+  },
+  {
+      "epgid": "亚洲电视",
+      "name": "亚洲电视,亚洲电视台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ATV.png"
+  },
+  {
+      "epgid": "澳视澳门台",
+      "name": "澳视澳门台,澳视澳门",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi1.png"
+  },
+  {
+      "epgid": "澳视葡文台",
+      "name": "澳视葡文台,澳视葡文",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi2.png"
+  },
+  {
+      "epgid": "澳视体育台",
+      "name": "澳视体育台,澳视体育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi3.png"
+  },
+  {
+      "epgid": "澳视资讯台",
+      "name": "澳视资讯台,澳视资讯",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi4.png"
+  },
+  {
+      "epgid": "澳视综艺台",
+      "name": "澳视综艺台,澳视综艺",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi5.png"
+  },
+  {
+      "epgid": "澳视Macau",
+      "name": "澳视Macau,澳门Macau",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi6.png"
+  },
+  {
+      "epgid": "澳门莲花卫视",
+      "name": "澳门莲花卫视,莲花卫视,澳门莲花",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Lotus.png"
+  },
+  {
+      "epgid": "亚旅卫视",
+      "name": "亚旅卫视,亚旅卫视台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ACTSTV.png"
+  },
+  {
+      "epgid": "澳亚卫视",
+      "name": "澳亚卫视,澳亚卫视台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoya.png"
+  },
+  {
+      "epgid": "中华卫视",
+      "name": "中华卫视,中华卫视台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHTV.png"
+  },
+
+  {
+      "epgid": "TVBS",
+      "name": "TVBS,TVBS台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS.png"
+  },
+  {
+      "epgid": "TVBS新闻台",
+      "name": "TVBS 新闻台,TVBS新闻台,TVBS新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS1.png"
+  },
+  {
+      "epgid": "TVBS欢乐台",
+      "name": "TVBS欢乐台,TVBS欢乐",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS2.png"
+  },
+  {
+      "epgid": "TVBS精采台",
+      "name": "TVBS精采台,TVBS精采,TVBS精彩,TVBS精彩台,精彩台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS3.png"
+  },
+  {
+      "epgid": "TVBS亚洲台",
+      "name": "TVBS亚洲台,TVBS亚洲",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS4.png"
+  },
+  {
+      "epgid": "东森综合",
+      "name": "东森综合,东森综合台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC1.png"
+  },
+  {
+      "epgid": "东森超视",
+      "name": "东森超视,东森超视台,超视,東森超視",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png"
+  },
+  {
+      "epgid": "东森电影",
+      "name": "东森电影,东森电影台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC3.png"
+  },
+  {
+      "epgid": "东森洋片",
+      "name": "东森洋片,东森洋片台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC4.png"
+  },
+  {
+      "epgid": "东森戏剧",
+      "name": "东森戏剧,东森戏剧台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC5.png"
+  },
+  {
+      "epgid": "东森新闻",
+      "name": "东森新闻,东森新闻台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png"
+  },
+  {
+      "epgid": "东森财经新闻",
+      "name": "东森财经新闻,东森财经,东森财经新闻台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC7.png"
+  },
+  {
+      "epgid": "东森亚洲台",
+      "name": "东森亚洲台,东森亚洲",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC8.png"
+  },
+  {
+      "epgid": "东森亚洲新闻",
+      "name": "东森亚洲新闻,东森亚洲新闻台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC9.png"
+  },
+  {
+      "epgid": "东森幼幼",
+      "name": "东森幼幼,东森幼幼别称台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC10.png"
+  },
+  {
+      "epgid": "东森购物",
+      "name": "东森购物,东森购物台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC11.png"
+  },
+  {
+      "epgid": "三立综合台",
+      "name": "三立综合台,三立综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET1.png"
+  },
+  {
+      "epgid": "三立新闻台",
+      "name": "三立新闻台,三立新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png"
+  },
+  {
+      "epgid": "三立财经新闻台",
+      "name": "三立财经新闻台,三立财经新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET3.png"
+  },
+  {
+      "epgid": "三立台湾台",
+      "name": "三立台湾台,三立台湾",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET4.png"
+  },
+  {
+      "epgid": "三立都会台",
+      "name": "三立都会台,三立都会",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET5.png"
+  },
+  {
+      "epgid": "三立戏剧台",
+      "name": "三立戏剧台,三立戏剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET6.png"
+  },
+  {
+      "epgid": "三立国际台",
+      "name": "三立国际台,三立国际",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET7.png"
+  },
+  {
+      "epgid": "中天综合台",
+      "name": "中天综合台,中天综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI1.png"
+  },
+  {
+      "epgid": "中天新闻台",
+      "name": "中天新闻台,中天新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png"
+  },
+  {
+      "epgid": "中天娱乐台",
+      "name": "中天娱乐台,中天娱乐",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI3.png"
+  },
+  {
+      "epgid": "中天亚洲台",
+      "name": "中天亚洲台,中天亚洲",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI4.png"
+  },
+  {
+      "epgid": "民视",
+      "name": "民视,民视台,民视HD,民視,民視(備),民視HD,民视综合台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV.png"
+  },
+  {
+      "epgid": "民视新闻台",
+      "name": "民视新闻台,民视新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV1.png"
+  },
+  {
+      "epgid": "民视第一台",
+      "name": "民视第一台,民视第一",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV2.png"
+  },
+  {
+      "epgid": "民视台湾台",
+      "name": "民视台湾台,民视台湾",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV3.png"
+  },
+  {
+      "epgid": "民视影剧台",
+      "name": "民视影剧台,民视影剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV4.png"
+  },
+  {
+      "epgid": "民视旅游台",
+      "name": "民视旅游台,民视旅游",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV5.png"
+  },
+  {
+      "epgid": "民视综艺台",
+      "name": "民视综艺台,民视综艺",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV6.png"
+  },
+  {
+      "epgid": "猪哥亮歌厅秀",
+      "name": "猪哥亮歌厅秀,猪哥亮",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV7.png"
+  },
+  {
+      "epgid": "中视",
+      "name": "中视,中视台,中视HD,中视 HD,中視,中視HD,中視(備)",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV.png"
+  },
+  {
+      "epgid": "中视新闻台",
+      "name": "中视新闻台,中视新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV1.png"
+  },
+  {
+      "epgid": "中视经典台",
+      "name": "中视经典台,中视经典",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV2.png"
+  },
+  {
+      "epgid": "中视菁采台",
+      "name": "中视菁采台,中视菁采",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV3.png"
+  },
+  {
+      "epgid": "寰宇综合台",
+      "name": "寰宇综合台,寰宇综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global1.png"
+  },
+  {
+      "epgid": "寰宇新闻台",
+      "name": "寰宇新闻台,寰宇新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global2.png"
+  },
+  {
+      "epgid": "寰宇新闻台湾台",
+      "name": "寰宇新闻台湾台,寰宇新闻台湾",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global3.png"
+  },
+  {
+      "epgid": "寰宇财经台",
+      "name": "寰宇财经台,寰宇财经",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global4.png"
+  },
+  {
+      "epgid": "台视",
+      "name": "台视,台视台,台視,台視(備)",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV.png"
+  },
+  {
+      "epgid": "台视综合台",
+      "name": "台视综合台,台视综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV1.png"
+  },
+  {
+      "epgid": "台视新闻台",
+      "name": "台视新闻台,台视新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV2.png"
+  },
+  {
+      "epgid": "台视财经台",
+      "name": "台视财经台,台视财经",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV3.png"
+  },
+  {
+      "epgid": "华视",
+      "name": "华视,华视台,華視,華視(備)",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS.png"
+  },
+  {
+      "epgid": "华视新闻资讯",
+      "name": "华视新闻资讯,华视新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS1.png"
+  },
+  {
+      "epgid": "华视教育文化",
+      "name": "华视教育文化,华视教育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS2.png"
+  },
+  {
+      "epgid": "公视",
+      "name": "公视,公视台,公視,公視台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/PTS.png"
+  },
+  {
+      "epgid": "公视台语台",
+      "name": "公视2,公视2台,公视台湾台,公视台湾,公视台语,公视台语台,公視2台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/PTS1.png"
+  },
+  {
+      "epgid": "公视3台",
+      "name": "公视3,公视3台,公视三,公视三台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/PTS2.png"
+  },
+  {
+      "epgid": "公视戏剧",
+      "name": "公视戏剧,公视戏剧台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/PTS3.png"
+  },
+  {
+      "epgid": "大爱-1",
+      "name": "大爱-1,大爱1,大爱一",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Daai1.png"
+  },
+  {
+      "epgid": "大爱-2",
+      "name": "大爱-2,大爱2,大爱二",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Daai2.png"
+  },
+  {
+      "epgid": "大爱海外",
+      "name": "大爱海外,大爱海外台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Daai3.png"
+  },
+  {
+      "epgid": "好消息-1",
+      "name": "好消息-1,好消息1,好消息一",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoodTV1.png"
+  },
+  {
+      "epgid": "好消息-2",
+      "name": "好消息-2,好消息2,好消息二",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoodTV2.png"
+  },
+  {
+      "epgid": "龙华电影",
+      "name": "龙华电影,龙华电影台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png"
+  },
+  {
+      "epgid": "龙华洋片",
+      "name": "龙华洋片,龙华洋片台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV2.png"
+  },
+  {
+      "epgid": "龙华影剧",
+      "name": "龙华影剧,龙华影剧台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV3.png"
+  },
+  {
+      "epgid": "龙华戏剧",
+      "name": "龙华戏剧,龙华戏剧台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV4.png"
+  },
+  {
+      "epgid": "龙华日韩",
+      "name": "龙华日韩,龙华日韩台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV5.png"
+  },
+  {
+      "epgid": "龙华偶像",
+      "name": "龙华偶像,龙华偶像台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV6.png"
+  },
+  {
+      "epgid": "龙华经典",
+      "name": "龙华经典,龙华经典台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV7.png"
+  },
+  {
+      "epgid": "龙华动画",
+      "name": "龙华动画,龙华动画台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV8.png"
+  },
+  {
+      "epgid": "龙华卡通",
+      "name": "龙华卡通,龙华卡通台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV9.png"
+  },
+  {
+      "epgid": "八大综合台",
+      "name": "八大综合台,八大综合台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV1.png"
+  },
+  {
+      "epgid": "八大第一台",
+      "name": "八大第一台,八大第一",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV2.png"
+  },
+  {
+      "epgid": "八大娱乐台",
+      "name": "八大娱乐台,八大娱乐",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV3.png"
+  },
+  {
+      "epgid": "八大戏剧台",
+      "name": "八大戏剧台,八大戏剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV4.png"
+  },
+  {
+      "epgid": "八大精彩台",
+      "name": "八大精彩台,八大精彩",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV5.png"
+  },
+  {
+      "epgid": "八大优频道",
+      "name": "八大优频道,八大优",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV6.png"
+  },
+  {
+      "epgid": "博斯运动-1",
+      "name": "博斯运动-1,博斯运动1",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast1.png"
+  },
+  {
+      "epgid": "博斯运动-2",
+      "name": "博斯运动-2,博斯运动2",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast2.png"
+  },
+  {
+      "epgid": "博斯高球",
+      "name": "博斯高球,博斯高球1,博斯高球-1",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast3.png"
+  },
+  {
+      "epgid": "博斯高球-2",
+      "name": "博斯高球-2,博斯高球2",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast4.png"
+  },
+  {
+      "epgid": "博斯网球",
+      "name": "博斯网球,博斯网球别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast5.png"
+  },
+  {
+      "epgid": "博斯魅力",
+      "name": "博斯魅力,博斯魅力别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast6.png"
+  },
+  {
+      "epgid": "博斯无限",
+      "name": "博斯无限,博斯无限1,博斯无限-1,博斯无限一",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast7.png"
+  },
+  {
+      "epgid": "博斯无限-2",
+      "name": "博斯无限-2,博斯无限2,博斯无限二",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast8.png"
+  },
+  {
+      "epgid": "Eleven-1",
+      "name": "Eleven-1,Eleven1",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven1.png"
+  },
+  {
+      "epgid": "Eleven-2",
+      "name": "Eleven-2,Eleven2",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven2.png"
+  },
+  {
+      "epgid": "Eleven-3",
+      "name": "Eleven-3,Eleven3",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven3.png"
+  },
+  {
+      "epgid": "ElevenPlus",
+      "name": "ElevenPlus,Eleven Plus",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven4.png"
+  },
+  {
+      "epgid": "壹综合",
+      "name": "壹综合,壹综合台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NextTV1.png"
+  },
+  {
+      "epgid": "壹新闻",
+      "name": "壹新闻,壹新闻台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NextTV2.png"
+  },
+  {
+      "epgid": "壹电影",
+      "name": "壹电影,壹电影台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NextTV3.png"
+  },
+  {
+      "epgid": "非凡新闻",
+      "name": "非凡新闻,非凡新闻台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Unique1.png"
+  },
+  {
+      "epgid": "非凡商业",
+      "name": "非凡商业,非凡商业台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Unique2.png"
+  },
+  {
+      "epgid": "年代MUCH",
+      "name": "年代MUCH,年代MUCH台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ERA1.png"
+  },
+  {
+      "epgid": "年代新闻",
+      "name": "年代新闻,年代新闻台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ERA2.png"
+  },
+  {
+      "epgid": "高点综合台",
+      "name": "高点综合台,高点综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Top1.png"
+  },
+  {
+      "epgid": "高点育乐台",
+      "name": "高点育乐台,高点育乐",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Top2.png"
+  },
+  {
+      "epgid": "EYETV戏剧",
+      "name": "EYETV戏剧,EYETV戏剧台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EYE1.png"
+  },
+  {
+      "epgid": "EYETV旅游",
+      "name": "EYETV旅游,EYETV旅游台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EYE2.png"
+  },
+  {
+      "epgid": "iFun",
+      "name": "iFun,iFun台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ifun1.png"
+  },
+  {
+      "epgid": "iFun动漫台",
+      "name": "iFun动漫台,iFun动漫",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ifun2.png"
+  },
+  {
+      "epgid": "iFun儿童台",
+      "name": "iFun儿童台,iFun儿童",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ifun3.png"
+  },
+  {
+      "epgid": "影迷数位电影台",
+      "name": "影迷数位电影台,影迷数位电影,影迷数位",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FANS1.png"
+  },
+  {
+      "epgid": "影迷纪实台",
+      "name": "影迷纪实台,影迷纪实",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FANS2.png"
+  },
+  {
+      "epgid": "momo亲子台",
+      "name": "momo亲子台,momo亲子",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/momo1.png"
+  },
+  {
+      "epgid": "momo综合台",
+      "name": "momo综合台,momo综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/momo2.png"
+  },
+  {
+      "epgid": "momo追剧台",
+      "name": "momo追剧台,momo追剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/momo3.png"
+  },
+  {
+      "epgid": "华艺MBC综合台",
+      "name": "华艺MBC综合台,华艺MBC综合,华艺综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/huayi1.png"
+  },
+  {
+      "epgid": "华艺台湾台",
+      "name": "华艺台湾台,华艺台湾",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/huayi2.png"
+  },
+  {
+      "epgid": "华艺影剧台",
+      "name": "华艺影剧台,华艺影剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/huayi3.png"
+  },
+
+  {
+      "epgid": "艾尔达综合",
+      "name": "爱尔达综合台,爱尔达综合,爱尔达综合HD,爱尔达综合台HD,ELTA綜合HD,ELTA綜合台,ELTA综合台,ELTA综合,愛爾達綜合台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA1.png"
+  },
+  {
+      "epgid": "艾尔达影剧",
+      "name": "爱尔达影剧,爱尔达影剧台,爱尔达影视,爱尔达影视台,爱尔达影剧HD,ELTA影劇HD,ELTA影劇台,ELTA影剧台,ELTA影剧,愛爾達影劇台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA2.png"
+  },
+  {
+      "epgid": "艾尔达娱乐",
+      "name": "爱尔达娱乐台,爱尔达娱乐,爱尔达娱乐HD,爱尔达娱乐台HD,ELTA娛樂HD,ELTA娱乐台,ELTA娱乐,ELTA娛樂台,愛爾達娛樂台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA3.png"
+  },
+  {
+      "epgid": "艾尔达体育-1",
+      "name": "爱尔达体育1,爱尔达体育1台,ELTA體育1台,ELTA体育1台,爱尔达体育Ⅰ台,ELTA體育1,愛爾達體育1台,愛爾達體育1台(備),ELTA体育-1,ELTA体育1",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png"
+  },
+  {
+      "epgid": "艾尔达体育-2",
+      "name": "爱尔达体育2,爱尔达体育2台,ELTA體育2台,ELTA体育2台,爱尔达体育Ⅱ台,ELTA體育2,愛爾達體育2台,ELTA体育-2,ELTA体育2",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png"
+  },
+  {
+      "epgid": "艾尔达体育-3",
+      "name": "爱尔达体育3,爱尔达体育3台,ELTA體育3台,ELTA体育3台,爱尔达体育Ⅲ台,ELTA體育3,愛爾達體育3台,ELTA体育-3,ELTA体育3",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png"
+  },
+  {
+      "epgid": "艾尔达生活英语",
+      "name": "艾尔达生活英语,ELTA生活英语",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA7.png"
+  },
+  {
+      "epgid": "艾尔达奥运-1",
+      "name": "艾尔达奥运-1,艾尔达奥运1,ELTA奥运-1,ELTA奥运1",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA8.png"
+  },
+  {
+      "epgid": "艾尔达奥运-2",
+      "name": "艾尔达奥运-2,艾尔达奥运2,ELTA奥运-2,ELTA奥运2",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA9.png"
+  },
+  {
+      "epgid": "艾尔达奥运-3",
+      "name": "艾尔达奥运-3,艾尔达奥运3,ELTA奥运-3,ELTA奥运3",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA10.png"
+  },
+  {
+      "epgid": "艾尔达原音-1",
+      "name": "艾尔达原音-1,艾尔达原音1,ELTA原音-1,ELTA原音1",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA11.png"
+  },
+  {
+      "epgid": "艾尔达原音-2",
+      "name": "艾尔达原音-2,艾尔达原音2,ELTA原音-2,ELTA原音2",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA12.png"
+  },
+  {
+      "epgid": "艾尔达原音-3",
+      "name": "艾尔达原音-3,艾尔达原音3,ELTA原音-3,ELTA原音3",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA13.png"
+  },
+  {
+      "epgid": "靖天综合台",
+      "name": "靖天综合台,靖天综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV1.png"
+  },
+  {
+      "epgid": "靖天资讯台",
+      "name": "靖天资讯台,靖天资讯",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV2.png"
+  },
+  {
+      "epgid": "靖天映画台",
+      "name": "靖天映画台,靖天映画",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV3.png"
+  },
+  {
+      "epgid": "靖天娱乐台",
+      "name": "靖天娱乐台,靖天娱乐",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV4.png"
+  },
+  {
+      "epgid": "靖天育乐台",
+      "name": "靖天育乐台,靖天育乐",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV5.png"
+  },
+  {
+      "epgid": "靖天日本台",
+      "name": "靖天日本台,靖天日本",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV6.png"
+  },
+  {
+      "epgid": "靖天卡通台",
+      "name": "靖天卡通台,靖天卡通",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV7.png"
+  },
+  {
+      "epgid": "靖天戏剧台",
+      "name": "靖天戏剧台,靖天戏剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV8.png"
+  },
+  {
+      "epgid": "靖天电影台",
+      "name": "靖天电影台,靖天电影",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV9.png"
+  },
+  {
+      "epgid": "靖天国际台",
+      "name": "靖天国际台,靖天国际",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV10.png"
+  },
+  {
+      "epgid": "靖洋卡通台",
+      "name": "靖洋卡通台,靖洋卡通",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jy1.png"
+  },
+  {
+      "epgid": "靖洋戏剧台",
+      "name": "靖洋戏剧台,靖洋戏剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jy2.png"
+  },
+  {
+      "epgid": "纬来综合",
+      "name": "纬来综合,纬来综合台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland1.png"
+  },
+  {
+      "epgid": "纬来电影",
+      "name": "纬来电影,纬来电影台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland2.png"
+  },
+  {
+      "epgid": "纬来戏剧",
+      "name": "纬来戏剧,纬来戏剧台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland3.png"
+  },
+  {
+      "epgid": "纬来精采",
+      "name": "纬来精采,纬来精彩,纬来精采台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland4.png"
+  },
+  {
+      "epgid": "纬来日本",
+      "name": "纬来日本,纬来日本台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland5.png"
+  },
+  {
+      "epgid": "纬来育乐",
+      "name": "纬来育乐,纬来育乐台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland6.png"
+  },
+  {
+      "epgid": "纬来体育",
+      "name": "纬来体育,纬来体育台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png"
+  },
+  {
+      "epgid": "Catchplay电影台",
+      "name": "Catchplay电影台,Catchplay电影",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CatchPlay1.png"
+  },
+  {
+      "epgid": "CatchplayBeyond",
+      "name": "CatchplayBeyond,CatchplayBeyond台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CatchPlay2.png"
+  },
+  {
+      "epgid": "天映频道",
+      "name": "天映频道,天映频道台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/typd.png"
+  },
+  {
+      "epgid": "天映经典频道",
+      "name": "天映经典频道,天映经典",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/tyjdpd.png"
+  },
+  {
+      "epgid": "卫视中文台",
+      "name": "卫视中文台,卫视中文",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/weishi1.png"
+  },
+  {
+      "epgid": "卫视电影台",
+      "name": "卫视电影台,卫视电影",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/weishi2.png"
+  },
+  {
+      "epgid": "卫视卡式台",
+      "name": "卫视卡式台,卫视卡式",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/weishi3.png"
+  },
+  {
+      "epgid": "星卫娱乐台",
+      "name": "星卫娱乐台,星卫娱乐",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xingwei1.png"
+  },
+  {
+      "epgid": "星卫HD电影台",
+      "name": "星卫HD电影台,星卫HD电影",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xingwei2.png"
+  },
+  {
+      "epgid": "国会频道-1",
+      "name": "国会频道-1,国会频道1,国会频道一",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/guohui1.png"
+  },
+  {
+      "epgid": "国会频道-2",
+      "name": "国会频道-2,国会频道2,国会频道二",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/guohui2.png"
+  },
+  {
+      "epgid": "冠军梦想",
+      "name": "冠军梦想,冠军梦想台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/guanjunmx.png"
+  },
+  {
+      "epgid": "冠军No1",
+      "name": "冠军No1,冠军No1台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/guanjunno1.png"
+  },
+  {
+      "epgid": "JET综合台",
+      "name": "JET综合台,JET综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/JET.png"
+  },
+  {
+      "epgid": "东风卫视",
+      "name": "东风卫视,东风卫称台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfeng.png"
+  },
+  {
+      "epgid": "国兴卫视",
+      "name": "国兴卫视,国兴卫视台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GSTV.png"
+  },
+  {
+      "epgid": "客家电视",
+      "name": "客家电视,客家电视台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hakka.png"
+  },
+  {
+      "epgid": "原住民电视",
+      "name": "原住民电视,原住民频道,原住民台,原住民",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TITV.png"
+  },
+  {
+      "epgid": "新唐人亚太台",
+      "name": "新唐人亚太台,新唐人,新唐人台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NTD.png"
+  },
+  {
+      "epgid": "海豚电视台",
+      "name": "海豚电视台,海豚电视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/haitun.png"
+  },
+  {
+      "epgid": "双子卫视",
+      "name": "双子卫视,双子卫视台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shuangzi.png"
+  },
+  {
+      "epgid": "番薯电视",
+      "name": "番薯电视,番薯电视台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/fanshutv.png"
+  },
+  {
+      "epgid": "美好电视",
+      "name": "美好电视,美好电视台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viva.png"
+  },
+  {
+      "epgid": "信大电视",
+      "name": "信大电视,信大电视台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xindatv.png"
+  },
+  {
+      "epgid": "全大电视",
+      "name": "全大电视,全大电视台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/quandatv.png"
+  },
+  {
+      "epgid": "大立电视",
+      "name": "大立电视,大立电视台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dalitv.png"
+  },
+  {
+      "epgid": "正德电视",
+      "name": "正德电视,正德电视台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zhengde.png"
+  },
+  {
+      "epgid": "信吉卫视",
+      "name": "信吉卫视,信吉卫视台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SJTV.png"
+  },
+  {
+      "epgid": "诚心电视",
+      "name": "诚心电视,诚心电视台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/chengxintv.png"
+  },
+  {
+      "epgid": "人间卫视",
+      "name": "人间卫视,人间卫视台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BLTV.png"
+  },
+  {
+      "epgid": "生命电视",
+      "name": "生命电视,生命电视台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shengming.png"
+  },
+  {
+      "epgid": "天良电视",
+      "name": "天良电视,天良电视台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/tianliangtv.png"
+  },
+  {
+      "epgid": "唯心电视",
+      "name": "唯心电视,唯心电视台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/WXTV.png"
+  },
+  {
+      "epgid": "华藏电视",
+      "name": "华藏电视,华藏电视台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HZTV.png"
+  },
+  {
+      "epgid": "十方法界",
+      "name": "十方法界,十方法界台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sffj.png"
+  },
+  {
+      "epgid": "佛卫慈悲台",
+      "name": "佛卫慈悲台,佛卫慈悲",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/fwcb.png"
+  },
+  {
+      "epgid": "希望电视",
+      "name": "希望电视,希望电视台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HelpTV.png"
+  },
+  {
+      "epgid": "视纳华仁纪实台",
+      "name": "视纳华仁纪实台,视纳华仁纪实,视纳华仁",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cnex.png"
+  },
+  {
+      "epgid": "美亚电影台",
+      "name": "美亚高清电影台(香港),美亚电影(粤),美亚电影(国),美亚电影粤,美亚电影国,美亚电影(台),美亚电影,美亚电影台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/meiyady.png"
+  },
+  {
+      "epgid": "龙祥时代电影台",
+      "name": "龙祥时代电影台,龙祥时代",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LStime.png"
+  },
+  {
+      "epgid": "采昌影剧台",
+      "name": "采昌影剧台,采昌影剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/caichang.png"
+  },
+  {
+      "epgid": "狼谷育乐台",
+      "name": "狼谷育乐台,狼谷育乐",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/WolvesValley.png"
+  },
+  {
+      "epgid": "亚洲旅游台",
+      "name": "亚洲旅游台,亚洲旅游",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Asiatravel.png"
+  },
+  {
+      "epgid": "金光布袋戏",
+      "name": "金光布袋戏,布袋戏",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jgbdx.png"
+  },
+  {
+      "epgid": "霹雳台湾台",
+      "name": "霹雳台湾台,霹雳台湾",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/pltwt.png"
+  },
+  {
+      "epgid": "Animax",
+      "name": "Animax,ANIMAX,animax",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Animax.png"
+  },
+  {
+      "epgid": "曼迪日本台",
+      "name": "曼迪日本台,曼迪日本",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dmrbt.png"
+  },
+  {
+      "epgid": "韩国育乐台",
+      "name": "韩国育乐台,韩国育乐",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hanguoyl.png"
+  },
+  {
+      "epgid": "时尚运动X",
+      "name": "时尚运动X,时尚运动",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ssydX.png"
+  },
+  {
+      "epgid": "美食星球",
+      "name": "美食星球,美食星球台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/foodplanet.png"
+  },
+  {
+      "epgid": "知识频道",
+      "name": "知识频道,知识频道台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/smarttv.png"
+  },
+  {
+      "epgid": "车迷频道",
+      "name": "车迷频道,车迷频道别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/chemitv.png"
+  },
+  {
+      "epgid": "幸福空间居家",
+      "name": "幸福空间居家,幸福空间",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Gorgeous.png"
+  },
+  {
+      "epgid": "空中英语教室",
+      "name": "空中英语教室,空中英语",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/kzyyjs.png"
+  },
+  {
+      "epgid": "LiveABC互动英语",
+      "name": "LiveABC互动英语,互动英语",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/liveabc.png"
+  },
+  {
+      "epgid": "智林体育",
+      "name": "智林体育,智林体育台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TSL.png"
+  },
+  {
+      "epgid": "美丽人生台",
+      "name": "美丽人生台,美丽人生",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Maylife.png"
+  },
+  {
+      "epgid": "ETtoday综合台",
+      "name": "ETtoday综合台,ETtoday综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ETtoday.png"
+  },
+  {
+      "epgid": "台湾艺术台",
+      "name": "台湾艺术台,台湾艺术",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TACT.png"
+  },
+  {
+      "epgid": "世界电视台",
+      "name": "世界电视台,世界电视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/WorldTV.png"
+  },
+  {
+      "epgid": "富立电视台",
+      "name": "富立电视台,富立电视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FuliTV.png"
+  },
+  {
+      "epgid": "新天地民俗台",
+      "name": "新天地民俗台,新天地民俗",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xtdmst.png"
+  },
+  {
+      "epgid": "三圣电视台",
+      "name": "三圣电视台,三圣电视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SanshengTV.png"
+  },
+  {
+      "epgid": "天美丽电视台",
+      "name": "天美丽电视台,天美丽电视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/tmltv.png"
+  },
+  {
+      "epgid": "台湾综合台",
+      "name": "台湾综合台,台湾综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Taiwanzh.png"
+  },
+  {
+      "epgid": "天天电视台",
+      "name": "天天电视台,天天电视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Tiantian.png"
+  },
+  {
+      "epgid": "台湾戏剧台",
+      "name": "台湾戏剧台,台湾戏剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Taiwanxiju.png"
+  },
+  {
+      "epgid": "世新综合",
+      "name": "世新综合,世新综合台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CYCzonghe.png"
+  },
+  {
+      "epgid": "威达超舜",
+      "name": "威达超舜,威达超舜台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/VEETV.png"
+  },
+
+  {
+      "epgid": "MyKids",
+      "name": "MyKids,MyKids台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Mykids.png"
+  },
+  {
+      "epgid": "MY101",
+      "name": "MY101,MY101台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/MY101.png"
+  },
+  {
+      "epgid": "梅迪奇艺术频道",
+      "name": "梅迪奇艺术频道,梅迪奇艺术",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Mediciarts.png"
+  },
+  {
+      "epgid": "MezzoLive",
+      "name": "MezzoLive,MezzoLive台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/mezzolive.png"
+  },
+  {
+      "epgid": "电影原声台",
+      "name": "电影原声台,电影原声",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cmusic.png"
+  },
+  {
+      "epgid": "古典音乐台",
+      "name": "古典音乐台,古典音乐",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/classical.png"
+  },
+  {
+      "epgid": "SBN全球财经台",
+      "name": "SBN全球财经台,SBN全球财经",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SBNcaijing.png"
+  },
+  {
+      "epgid": "EFTV运通财经台",
+      "name": "EFTV运通财经台,EFTV运通财经",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EFTVcaijing.png"
+  },
+  {
+      "epgid": "Z频道",
+      "name": "Z频道,Z频道别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zpindao.png"
+  },
+  {
+      "epgid": "滚动力rollor",
+      "name": "滚动力rollor,滚动力台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/rollor.png"
+  },
+  {
+      "epgid": "GINX电子体育",
+      "name": "GINX电子体育,GINX电子体育别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GINXesport.png"
+  },
+  {
+      "epgid": "Baby TV",
+      "name": "Baby TV,BabyTV",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BabyTV.png"
+  },
+  {
+      "epgid": "Baby First",
+      "name": "Baby First,BabyFirst",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BabyFirst.png"
+  },
+  {
+      "epgid": "Boomerang",
+      "name": "Boomerang,Boomerang台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Boomerang.png"
+  },
+  {
+      "epgid": "Nick",
+      "name": "Nick,Nick台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nick.png"
+  },
+  {
+      "epgid": "Nickelodeon",
+      "name": "Nickelodeon,Nicke lodeon",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nickelodeon.png"
+  },
+  {
+      "epgid": "Nickjr",
+      "name": "Nickjr,Nickjr台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nickjr.png"
+  },
+  {
+      "epgid": "达文西频道",
+      "name": "达文西频道,达文西",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/DaVinci.png"
+  },
+  {
+      "epgid": "CN卡通频道",
+      "name": "CN卡通频道,CN卡通",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CNCartoon.png"
+  },
+  {
+      "epgid": "Pet Club TV",
+      "name": "Pet Club TV,PetClub",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/PetClubTV.png"
+  },
+  {
+      "epgid": "欧洲光影",
+      "name": "欧洲光影,欧洲光影台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/MyCinema.png"
+  },
+  {
+      "epgid": "AMC最爱电影",
+      "name": "AMC最爱电影,AMC电影",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AMCMovies.png"
+  },
+  {
+      "epgid": "HITS",
+      "name": "HITS,HITS别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HITS.png"
+  },
+  {
+      "epgid": "Warner TV",
+      "name": "Warner TV,WarnerTV,Warner",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/WarnerTV.png"
+  },
+  {
+      "epgid": "CinemaWorld",
+      "name": "CinemaWorld,CinemaWorld别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CinemaWorld.png"
+  },
+  {
+      "epgid": "好莱坞电影台",
+      "name": "好莱坞电影台,好莱坞电影",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hollywood.png"
+  },
+  {
+      "epgid": "Mtv综合台",
+      "name": "Mtv综合台,Mtv综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/MTV.png"
+  },
+  {
+      "epgid": "MtvLive",
+      "name": "MtvLive,MtvLive台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/MTVLive.png"
+  },
+  {
+      "epgid": "Trace Urban",
+      "name": "Trace Urban,TraceUrban",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TraceUrban.png"
+  },
+  {
+      "epgid": "Trace Sport Stars",
+      "name": "Trace Sport Stars,TraceSportStars",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TraceSport.png"
+  },
+  {
+      "epgid": "DreamWorks",
+      "name": "DreamWorks,Dream Works",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/DreamWorks.png"
+  },
+  {
+      "epgid": "EuroSport",
+      "name": "EuroSport,Euro Sport",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EuroSport.png"
+  },
+  {
+      "epgid": "Star World",
+      "name": "Star World,StarWorld",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/StarWorld.png"
+  },
+  {
+      "epgid": "Star Movies",
+      "name": "Star Movies,StarMovies",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/StarMovies.png"
+  },
+  {
+      "epgid": "Star Sports",
+      "name": "Star Sports,StarSports",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/StarSports.png"
+  },
+  {
+      "epgid": "罪案侦缉频道",
+      "name": "罪案侦缉频道,罪案侦缉",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Crimeplus.png"
+  },
+  {
+      "epgid": "Luxe TV",
+      "name": "Luxe TV,LuxeTV",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LuxeTV.png"
+  },
+  {
+      "epgid": "LoveNarure 4K",
+      "name": "LoveNarure 4K,LoveNarure",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LoveNarure4K.png"
+  },
+  {
+      "epgid": "TLC",
+      "name": "TLC,TLC台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TLCTV.png"
+  },
+  {
+      "epgid": "Asian Food",
+      "name": "Asian Food,AsianFood",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AsianFood.png"
+  },
+  {
+      "epgid": "Outdoor",
+      "name": "Outdoor,Outdoor台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Outdoor.png"
+  },
+  {
+      "epgid": "FX",
+      "name": "FX,FX频道",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FXTV.png"
+  },
+  {
+      "epgid": "WAKUWAKU",
+      "name": "WAKUWAKU,WAKUWAKU台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/WAKUWAKU.png"
+  },
+  {
+      "epgid": "动物星球",
+      "name": "动物星球,动物星球台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/animalplanet.png"
+  },
+  {
+      "epgid": "EVE频道",
+      "name": "EVE频道,EVE频道别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/eve.png"
+  },
+  {
+      "epgid": "DMAX",
+      "name": "DMAX,DMAX台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/DMAX.png"
+  },
+  {
+      "epgid": "Food Network",
+      "name": "Food Network,FoodNetwork",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FoodNetwork.png"
+  },
+  {
+      "epgid": "Travel Channel",
+      "name": "Travel Channel,TravelChannel",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TravelChannel.png"
+  },
+  {
+      "epgid": "Fashion One",
+      "name": "Fashion One,FashionOne",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FashionOne.png"
+  },
+  {
+      "epgid": "Fashion TV",
+      "name": "Fashion TV,FashionTV",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FashionTV.png"
+  },
+  {
+      "epgid": "TV5Monde",
+      "name": "TV5Monde,TV5 Monde",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TV5Monde.png"
+  },
+  {
+      "epgid": "TV5Monde Style",
+      "name": "TV5Monde Style,TV5MondeStyle",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TV5MondeStyle.png"
+  },
+  {
+      "epgid": "HGTV居家乐活",
+      "name": "HGTV居家乐活,居家乐活",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HGTV.png"
+  },
+  {
+      "epgid": "TVN",
+      "name": "TVN,tvn,Tvn",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVNChannel.png"
+  },
+  {
+      "epgid": "thrill",
+      "name": "thrill,THRILL,Thrill",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/thrill.png"
+  },
+  {
+      "epgid": "Smithsonian",
+      "name": "Smithsonian,Smithsonian台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Smithsonian.png"
+  },
+  {
+      "epgid": "Cinemax",
+      "name": "Cinemax,cinemax,CINEMAX",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Cinemax.png"
+  },
+  {
+      "epgid": "Kix",
+      "name": "Kix,KIX,kix",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/KixTV.png"
+  },
+  {
+      "epgid": "TFC",
+      "name": "TFC,TFC台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TFCTV.png"
+  },
+  {
+      "epgid": "Comedy Central",
+      "name": "Comedy Central,ComedyCentral",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ComedyCentral.png"
+  },
+  {
+      "epgid": "ChannelV",
+      "name": "ChannelV,Channel V",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ChannelV.png"
+  },
+  {
+      "epgid": "AXN",
+      "name": "AXN,AXN台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AXNTV.png"
+  },
+  {
+      "epgid": "ROCK Extreme",
+      "name": "ROCK Extreme,ROCKExtreme",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ROCKExtreme.png"
+  },
+  {
+      "epgid": "ROCK Entertainment",
+      "name": "ROCK Entertainment,ROCKEntertainment",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ROCKEntertainment.png"
+  },
+  {
+      "epgid": "CNN",
+      "name": "CNN,CNN",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CNN.png"
+  },
+  {
+      "epgid": "Sky News",
+      "name": "Sky News,SkyNews",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SkyNews.png"
+  },
+  {
+      "epgid": "Bloomberg TV",
+      "name": "Bloomberg TV,BloombergTV",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BloombergTV.png"
+  },
+  {
+      "epgid": "CNA",
+      "name": "CNA,CNA别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ChannelAsia.png"
+  },
+  {
+      "epgid": "CNBC Asia",
+      "name": "CNBC Asia,CNBCAsia",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CNBCAsia.png"
+  },
+  {
+      "epgid": "Euronews",
+      "name": "Euronews,Euronews别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png"
+  },
+  {
+      "epgid": "DW德国之声",
+      "name": "DW德国之声,DW",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/DWChannel.png"
+  },
+  {
+      "epgid": "France24",
+      "name": "France24,France24",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png"
+  },
+  {
+      "epgid": "NHK World",
+      "name": "NHK World,NHKWorld",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NHKWorld.png"
+  },
+  {
+      "epgid": "半岛新闻",
+      "name": "半岛新闻,半岛新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AlJazeera.png"
+  },
+  {
+      "epgid": "Arirang",
+      "name": "Arirang,阿里郎",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ArirangTV.png"
+  },
+  {
+      "epgid": "美国之音",
+      "name": "美国之音,美国之音别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/VOATV.png"
+  },
+  {
+      "epgid": "VTV4",
+      "name": "VTV4,VTV4别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/VTV4.png"
+  },
+  {
+      "epgid": "ABC Australia",
+      "name": "ABC Australia,ABCAustralia",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ABCAustralia.png"
+  },
+  {
+      "epgid": "FOX",
+      "name": "FOX,FOX别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FOX.png"
+  },
+  {
+      "epgid": "FOX电影",
+      "name": "FOX电影,FOX电影台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FOX1.png"
+  },
+  {
+      "epgid": "FOX动作电影",
+      "name": "FOX动作电影,FOX动作电影台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FOX2.png"
+  },
+  {
+      "epgid": "FOX家庭影院",
+      "name": "FOX家庭影院,FOX家庭影院台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FOX3.png"
+  },
+  {
+      "epgid": "FOX罪案调查",
+      "name": "FOX罪案调查,FOX罪案调查台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FOX4.png"
+  },
+  {
+      "epgid": "FOX生活频道",
+      "name": "FOX生活频道,FOX生活频道台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FOX5.png"
+  },
+  {
+      "epgid": "FOX体育",
+      "name": "FOX体育,FOX体育台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FOX6.png"
+  },
+  {
+      "epgid": "FOX体育-2",
+      "name": "FOX体育-2,FOX体育2",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FOX7.png"
+  },
+  {
+      "epgid": "FOX体育-3",
+      "name": "FOX体育-3,FOX体育3",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FOX8.png"
+  },
+  {
+      "epgid": "FOX新闻台",
+      "name": "FOX新闻台,FOX新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FOX9.png"
+  },
+  {
+      "epgid": "FOX财经新闻台",
+      "name": "FOX财经新闻台,FOX财经新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FOX10.png"
+  },
+  {
+      "epgid": "HBO",
+      "name": "HBO,HBO别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO.png"
+  },
+  {
+      "epgid": "HBO温馨家庭",
+      "name": "HBO温馨家庭,HBO家庭",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO1.png"
+  },
+  {
+      "epgid": "HBO强档巨献",
+      "name": "HBO强档巨献,HBO强档",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO2.png"
+  },
+  {
+      "epgid": "HBO原创巨献",
+      "name": "HBO原创巨献,HBO原创",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO3.png"
+  },
+  {
+      "epgid": "HBOPlus",
+      "name": "HBOPlus,HBOPlus别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO4.png"
+  },
+  {
+      "epgid": "HBOZone",
+      "name": "HBOZone,HBOZone别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO5.png"
+  },
+  {
+      "epgid": "HBOGO",
+      "name": "HBOGO,HBOGO别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO6.png"
+  },
+  {
+      "epgid": "HBOMax",
+      "name": "HBOMax,HBOMax别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO7.png"
+  },
+  {
+      "epgid": "Discovery",
+      "name": "Discovery,Discovery频道",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery.png"
+  },
+  {
+      "epgid": "Discovery亚洲",
+      "name": "Discovery亚洲,Discovery亚洲台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery1.png"
+  },
+  {
+      "epgid": "Discovery科学",
+      "name": "Discovery科学,Discovery科学台",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery2.png"
+  },
+  {
+      "epgid": "国家地理频道",
+      "name": "国家地理频道,国家地理",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NATGEO.png"
+  },
+  {
+      "epgid": "国家地理野生频道",
+      "name": "国家地理野生频道,国家地理野生",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NATGEO1.png"
+  },
+  {
+      "epgid": "国家地理悠人频道",
+      "name": "国家地理悠人频道,国家地理悠人",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NATGEO2.png"
+  },
+  {
+      "epgid": "BBC World News",
+      "name": "BBC World News,BBCWorldNews",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BBC1.png"
+  },
+  {
+      "epgid": "BBC Cbeebies",
+      "name": "BBC Cbeebies,BBCCbeebies",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BBC4.png"
+  },
+  {
+      "epgid": "BBC lifestyle",
+      "name": "BBC lifestyle,BBClifestyle",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BBC3.png"
+  },
+  {
+      "epgid": "BBC Earth",
+      "name": "BBC Earth,BBCEarth",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BBC2.png"
+  },
+  {
+      "epgid": "History",
+      "name": "History,History频道",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/History1.png"
+  },
+  {
+      "epgid": "History-2",
+      "name": "History-2,History2",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/History2.png"
+  },
+  {
+      "epgid": "Disney",
+      "name": "Disney,迪士尼",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Disney.png"
+  },
+  {
+      "epgid": "Disney XD",
+      "name": "Disney XD,DisneyXD",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Disney1.png"
+  },
+  {
+      "epgid": "Disney Junior",
+      "name": "Disney Junior,DisneyJunior",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Disney2.png"
+  },
+  {
+      "epgid": "Tech Storm",
+      "name": "Tech Storm,TechStorm",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TechStorm.png"
+  }, 
+  
+  {
+      "epgid": "CHC高清电影",
+      "name": "高清电影,CHC高清電影,CHC高清电影",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC1.png"
+  },
+  {
+      "epgid": "CHC家庭影院",
+      "name": "CHC家庭影院,家庭影院,CHC家庭影院[高清],家庭影院[高清]",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC2.png"
+  },
+  {
+      "epgid": "CHC动作电影",
+      "name": "CHC动作电影,CHC动作电影[高清],CHC動作電影",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC3.png"
+  },
+  {
+      "epgid": "求索纪录4K",
+      "name": "求索纪录4K,求索纪录4K别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qiusuo5.png"
+  },
+  {
+      "epgid": "求索纪录",
+      "name": "求索纪录,求索一纪录,求索纪录高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qiusuo1.png"
+  },
+  {
+      "epgid": "求索科学",
+      "name": "求索科学,求索三科学,求索科学高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qiusuo2.png"
+  },
+  {
+      "epgid": "求索动物",
+      "name": "求索动物,求索四动物,求索动物高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qiusuo3.png"
+  },
+  {
+      "epgid": "求索生活",
+      "name": "求索生活,求索二生活,求索生活高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qiusuo4.png"
+  },
+  {
+      "epgid": "CBN每日影院",
+      "name": "CBN每日影院,CBN每日影院别称,CBN1",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CBN1.png"
+  },
+  {
+      "epgid": "CBN幸福剧场",
+      "name": "CBN幸福剧场,幸福剧场,CBN2",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CBN2.png"
+  },
+  {
+      "epgid": "CBN幸福娱乐",
+      "name": "CBN幸福娱乐,幸福娱乐,CBN3",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CBN3.png"
+  },
+  {
+      "epgid": "CBN风尚生活",
+      "name": "CBN风尚生活,风尚生活,CBN4",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CBN4.png"
+  },
+  {
+      "epgid": "欢笑剧场4K",
+      "name": "欢笑剧场4K,SITV欢笑剧场4K",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjc4k.png"
+  },
+  {
+      "epgid": "欢笑剧场",
+      "name": "欢笑剧场,SITV欢笑剧场",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjchd.png"
+  },
+  {
+      "epgid": "纪实人文",
+      "name": "纪实人文,上海纪实,上海纪实人文",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jsrw.png"
+  },
+  {
+      "epgid": "幸福彩",
+      "name": "幸福彩,幸福彩别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xfc.png"
+  },
+  {
+      "epgid": "动漫秀场",
+      "name": "动漫秀场,SITV动漫秀场",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dmxc.png"
+  },
+  {
+      "epgid": "生活时尚",
+      "name": "生活时尚,SITV生活时尚",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shss.png"
+  },
+  {
+      "epgid": "都市剧场",
+      "name": "都市剧场,SITV都市剧场",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dsjc.png"
+  },
+  {
+      "epgid": "乐游",
+      "name": "乐游,SITV乐游,乐游频道",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/leyou.png"
+  },
+  {
+      "epgid": "游戏风云",
+      "name": "游戏风云,SITV游戏风云",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/yxfy.png"
+  },
+  {
+      "epgid": "极速汽车",
+      "name": "极速汽车,SITV极速汽车",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jsqc.png"
+  },
+  {
+      "epgid": "劲爆体育",
+      "name": "劲爆体育,SITV劲爆体育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jbty.png"
+  },
+  {
+      "epgid": "新视觉",
+      "name": "新视觉,新视觉频道",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xsj.png"
+  },
+  {
+      "epgid": "汽摩频道",
+      "name": "汽摩频道,重庆汽摩,重庆汽摩频道",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/qmpd.png"
+  },
+  {
+      "epgid": "梨园频道",
+      "name": "梨园频道,河南梨园,河南梨园频道",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/lypd.png"
+  },
+  {
+      "epgid": "武术世界",
+      "name": "武术世界,河南武术,河南武术世界",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/wssj.png"
+  },
+  {
+      "epgid": "文物宝库",
+      "name": "文物宝库,河南文物宝库",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/wwbk.png"
+  },
+  {
+      "epgid": "卡酷少儿",
+      "name": "卡酷少儿,北京卡酷,北京卡酷少儿",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/kakushaoer.png"
+  },
+  {
+      "epgid": "纪实科教",
+      "name": "纪实科教,北京纪实科教,北京纪实",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jskj.png"
+  },
+  {
+      "epgid": "篮球频道",
+      "name": "篮球频道,篮球频道别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/lqpd.png"
+  },
+  {
+      "epgid": "东北戏曲",
+      "name": "东北戏曲,东北戏曲别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dbxq.png"
+  },
+  {
+      "epgid": "农民频道",
+      "name": "农民频道,河北农民频道",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/nmpd.png"
+  },
+  {
+      "epgid": "东方财经",
+      "name": "东方财经,SITV东方财经",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dfcj.png"
+  },
+  {
+      "epgid": "靓妆频道",
+      "name": "靓妆频道,靓妆频道别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/liangzhuang.png"
+  },
+  {
+      "epgid": "陶瓷频道",
+      "name": "陶瓷频道,陶瓷频道别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/tcpd.png"
+  },
+  {
+      "epgid": "数码时代",
+      "name": "数码时代,数码时代别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/smsd.png"
+  },
+  {
+      "epgid": "嘉佳卡通",
+      "name": "嘉佳卡通",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jjkt.png"
+  },
+  {
+      "epgid": "DV生活",
+      "name": "DV生活,DV生活别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dvsh.png"
+  },
+  {
+      "epgid": "茶频道",
+      "name": "茶频道,茶频道别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/chapd.png"
+  },
+  {
+      "epgid": "金鹰卡通",
+      "name": "金鹰卡通,金鹰卡通别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jykt.png"
+  },
+  {
+      "epgid": "金鹰纪实",
+      "name": "金鹰纪实,金鹰纪实别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jyjs.png"
+  },
+  {
+      "epgid": "快乐垂钓",
+      "name": "快乐垂钓,快乐垂钓别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/klcd.png"
+  },
+  {
+      "epgid": "先锋乒羽",
+      "name": "先锋乒羽,先锋乒羽别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xfpy.png"
+  },
+  {
+      "epgid": "体育赛事",
+      "name": "体育赛事,体育赛事别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/tyss.png"
+  },
+  {
+      "epgid": "冰雪体育",
+      "name": "冰雪体育,冰雪体育别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bxty.png"
+  },
+  {
+      "epgid": "每日健身",
+      "name": "每日健身,每日健身别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/mrjs.png"
+  },
+  {
+      "epgid": "马拉松",
+      "name": "马拉松,马拉松别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/malasong.png"
+  },
+  {
+      "epgid": "弈坛春秋",
+      "name": "弈坛春秋,弈坛春秋别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ytcq.png"
+  },
+  {
+      "epgid": "置业频道",
+      "name": "置业频道,置业频道别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zypd.png"
+  },
+  {
+      "epgid": "新动漫",
+      "name": "新动漫,新动漫别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xindm.png"
+  },
+  {
+      "epgid": "中国天气",
+      "name": "中国天气,中国天气别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zgtq.png"
+  },
+  {
+      "epgid": "环球奇观",
+      "name": "环球奇观,环球奇观别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hyqg.png"
+  },
+  {
+      "epgid": "家庭理财",
+      "name": "家庭理财,家庭理财别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jtlc.png"
+  },
+  {
+      "epgid": "早期教育",
+      "name": "早期教育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zqjy.png"
+  },
+  {
+      "epgid": "七彩戏剧",
+      "name": "七彩戏剧,七彩戏剧别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/qcxj.png"
+  },
+  {
+      "epgid": "书画频道",
+      "name": "书画频道,书画",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shpd.png"
+  },
+  {
+      "epgid": "优优宝贝",
+      "name": "优优宝贝,优优宝贝别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/yybb.png"
+  },
+  {
+      "epgid": "四海钓鱼",
+      "name": "四海钓鱼,四海钓鱼别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shdy.png"
+  },
+  {
+      "epgid": "环球旅游",
+      "name": "环球旅游,环球旅游别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hqly.png"
+  },
+  {
+      "epgid": "足球频道",
+      "name": "足球频道,足球频道别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zqpd.png"
+  },
+  {
+      "epgid": "法制天地",
+      "name": "法制天地,SITV法治天地",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/fztd.png"
+  },
+  {
+      "epgid": "魅力足球",
+      "name": "魅力足球,SITV魅力足球",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/mlzq.png"
+  },
+  {
+      "epgid": "国学频道",
+      "name": "国学频道,国学频道别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/gxpd.png"
+  },
+  {
+      "epgid": "中华美食",
+      "name": "中华美食,中华美食别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zhms.png"
+  },
+  {
+      "epgid": "天元围棋",
+      "name": "天元围棋,天元围棋别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/tywq.png"
+  },
+  {
+      "epgid": "摄影频道",
+      "name": "摄影频道,摄影频道别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sypd.png"
+  },
+  {
+      "epgid": "现代教育",
+      "name": "现代教育,现代教育别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xdjy.png"
+  },
+  {
+      "epgid": "精彩影视",
+      "name": "精彩影视,精彩影视别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jcys.png"
+  },
+  {
+      "epgid": "金色学堂",
+      "name": "金色学堂,SITV金色学堂",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jsxt.png"
+  },
+  {
+      "epgid": "百姓健康",
+      "name": "百姓健康,百姓健康别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bxjk.png"
+  },
+  {
+      "epgid": "中华特产",
+      "name": "中华特产,中华特产别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zhtc.png"
+  },
+  {
+      "epgid": "生态环境",
+      "name": "生态环境,生态环境别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sthj.png"
+  },
+  {
+      "epgid": "第一财经",
+      "name": "第一财经,上海第一财经",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dycj.png"
+  },
+  {
+      "epgid": "收藏天下",
+      "name": "收藏天下,收藏天下别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sctx.png"
+  },
+  {
+      "epgid": "家政频道",
+      "name": "家政频道,家政频道别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jzpd.png"
+  },
+  {
+      "epgid": "游戏竞技",
+      "name": "游戏竞技,游戏竞技别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/yxjj.png"
+  },
+  {
+      "epgid": "网络棋牌",
+      "name": "网络棋牌,网络棋牌别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/wlqp.png"
+  },
+  {
+      "epgid": "电子体育",
+      "name": "电子体育,电子体育别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dzty.png"
+  },
+  {
+      "epgid": "中国交通",
+      "name": "中国交通,中国交通别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zgjt.png"
+  },
+  {
+      "epgid": "哈哈炫动",
+      "name": "哈哈炫动,哈哈炫动别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hhxd.png"
+  },
+  {
+      "epgid": "优漫卡通",
+      "name": "优漫卡通,优漫卡通别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ymkt.png"
+  },
+  {
+      "epgid": "爱上4K",
+      "name": "爱上4K,爱上4K别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ah4k.png"
+  },
+  {
+      "epgid": "纯享4K",
+      "name": "纯享4K,纯享4K别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cx4k.png"
+  },
+  {
+      "epgid": "财富天下",
+      "name": "财富天下,财富天下别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cftx.png"
+  },
+  {
+      "epgid": "清华大学",
+      "name": "清华大学,清华大学别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/qhdx.png"
+  },
+  {
+      "epgid": "北京4K超清",
+      "name": "北京4K超清,北京4K超清别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bj4kcq.png"
+  },
+  {
+      "epgid": "北京淘娱乐",
+      "name": "北京淘娱乐,IPTV淘娱乐,淘娱乐",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjtyl.png"
+  },
+  {
+      "epgid": "北京淘电影",
+      "name": "北京淘电影,IPTV淘电影,淘电影",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjtdy.png"
+  },
+  {
+      "epgid": "北京淘剧场",
+      "name": "北京淘剧场,IPTV淘剧场,淘剧场",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjtjc.png"
+  },
+  {
+      "epgid": "北京淘Baby",
+      "name": "北京淘Baby,IPTV淘Baby,淘Baby",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjtbb.png"
+  },
+  {
+      "epgid": "北京萌宠TV",
+      "name": "北京萌宠TV,IPTV萌宠TV,萌宠TV",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjmctv.png"
+  },
+  {
+      "epgid": "北京大健康",
+      "name": "北京大健康,大健康",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjdjk.png"
+  },
+  {
+      "epgid": "哒啵赛事",
+      "name": "哒啵赛事,哒啵赛事别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dbss.png"
+  },
+  {
+      "epgid": "黑莓电影",
+      "name": "黑莓电影,黑莓电影别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hmdy.png"
+  },
+  {
+      "epgid": "黑莓动画",
+      "name": "黑莓动画,黑莓动画别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hmdh.png"
+  },
+  {
+      "epgid": "3D试验频道",
+      "name": "3D试验频道,3D试验频道别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sz3dsypd.png"
+  },
+  {
+      "epgid": "长影频道",
+      "name": "长影频道,长影频道别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cypd.png"
+  },
+  {
+      "epgid": "证券服务",
+      "name": "证券服务,证券服务别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/inbm.png"
+  },
+
+  {
+      "epgid": "DOXTV高清",
+      "name": "DOXTV高清,DOXTV高清别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/DOX1.png"
+  },
+  {
+      "epgid": "DOXTV",
+      "name": "DOXTV,DOXTV别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/DOX2.png"
+  },
+  {
+      "epgid": "DOXTV",
+      "name": "DOXTV,DOXTV别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/DOX3.png"
+  },
+  {
+      "epgid": "DOX院线",
+      "name": "DOX院线,DOX院线别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/DOX4.png"
+  },
+  {
+      "epgid": "DOX雅趣",
+      "name": "DOX雅趣,DOX雅趣别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/DOX5.png"
+  },
+  {
+      "epgid": "DOX英伦",
+      "name": "DOX英伦,DOX英伦别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/DOX6.png"
+  },
+  {
+      "epgid": "DOX怡家",
+      "name": "DOX怡家,DOX怡家别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/DOX7.png"
+  },
+  {
+      "epgid": "DOX映画",
+      "name": "DOX映画,DOX映画别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/DOX8.png"
+  },
+  {
+      "epgid": "DOX新知",
+      "name": "DOX新知,DOX新知别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/DOX9.png"
+  },
+  {
+      "epgid": "DOX新艺",
+      "name": "DOX新艺,DOX新艺别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/DOX10.png"
+  },
+  {
+      "epgid": "DOX剧场",
+      "name": "DOX剧场,DOX剧场别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/DOX11.png"
+  },
+  {
+      "epgid": "DOX4K",
+      "name": "DOX4K,DOX4K别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/DOX12.png"
+  },
+
+  {
+      "epgid": "iHOT爱院线",
+      "name": "iHOT爱院线,IHOT爱院线,爱院线",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot01.png"
+  },
+  {
+      "epgid": "iHOT爱科幻",
+      "name": "iHOT爱科幻,IHOT爱科幻,爱科幻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot02.png"
+  },
+  {
+      "epgid": "iHOT爱喜剧",
+      "name": "iHOT爱喜剧,IHOT爱喜剧,爱喜剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot03.png"
+  },
+  {
+      "epgid": "iHOT爱奇谈",
+      "name": "iHOT爱奇谈,IHOT爱奇谈,爱奇谈",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot04.png"
+  },
+  {
+      "epgid": "iHOT爱探索",
+      "name": "iHOT爱探索,IHOT爱探索,爱探索",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot05.png"
+  },
+  {
+      "epgid": "iHOT爱解密",
+      "name": "iHOT爱解密,IHOT爱解密,爱解密",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot06.png"
+  },
+  {
+      "epgid": "iHOT爱科学",
+      "name": "iHOT爱科学,IHOT爱科学,爱科学",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot07.png"
+  },
+  {
+      "epgid": "iHOT爱猎奇",
+      "name": "iHOT爱猎奇,IHOT爱猎奇,爱猎奇",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot08.png"
+  },
+  {
+      "epgid": "iHOT爱浪漫",
+      "name": "iHOT爱浪漫,IHOT爱浪漫,爱浪漫",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot09.png"
+  },
+  {
+      "epgid": "iHOT爱历史",
+      "name": "iHOT爱历史,IHOT爱历史,爱历史",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot10.png"
+  },
+  {
+      "epgid": "iHOT爱动漫",
+      "name": "iHOT爱动漫,IHOT爱动漫,爱动漫",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot11.png"
+  },
+  {
+      "epgid": "iHOT爱电竞",
+      "name": "iHOT爱电竞,IHOT爱电竞,爱电竞",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot12.png"
+  },
+  {
+      "epgid": "iHOT爱玩具",
+      "name": "iHOT爱玩具,IHOT爱玩具,爱玩具",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot13.png"
+  },
+  {
+      "epgid": "iHOT爱悬疑",
+      "name": "iHOT爱悬疑,IHOT爱悬疑,爱悬疑",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot14.png"
+  },
+  {
+      "epgid": "iHOT爱体育",
+      "name": "iHOT爱体育,IHOT爱体育,爱体育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot15.png"
+  },
+  {
+      "epgid": "iHOT爱赛车",
+      "name": "iHOT爱赛车,IHOT爱赛车,爱赛车",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot16.png"
+  },
+  {
+      "epgid": "iHOT爱世界",
+      "name": "iHOT爱世界,IHOT爱世界,爱世界",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot17.png"
+  },
+  {
+      "epgid": "iHOT爱极限",
+      "name": "iHOT爱极限,IHOT爱极限,爱极限",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot18.png"
+  },
+  {
+      "epgid": "iHOT爱旅行",
+      "name": "iHOT爱旅行,IHOT爱旅行,爱旅行",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot19.png"
+  },
+  {
+      "epgid": "iHOT爱美食",
+      "name": "iHOT爱美食,IHOT爱美食,爱美食",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot20.png"
+  },
+  {
+      "epgid": "iHOT爱家庭",
+      "name": "iHOT爱家庭,IHOT爱家庭,爱家庭",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot21.png"
+  },
+  {
+      "epgid": "iHOT爱青春",
+      "name": "iHOT爱青春,IHOT爱青春,爱青春",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot22.png"
+  },
+  {
+      "epgid": "iHOT爱时尚",
+      "name": "iHOT爱时尚,IHOT爱时尚,爱时尚",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot23.png"
+  },
+  {
+      "epgid": "iHOT爱娱乐",
+      "name": "iHOT爱娱乐,IHOT爱娱乐,爱娱乐",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot24.png"
+  },
+  {
+      "epgid": "iHOT爱都市",
+      "name": "iHOT爱都市,IHOT爱都市,爱都市",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot25.png"
+  },
+  {
+      "epgid": "iHOT爱谍战",
+      "name": "iHOT爱谍战,IHOT爱谍战,爱谍战",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot26.png"
+  },
+  {
+      "epgid": "iHOT爱经典",
+      "name": "iHOT爱经典,IHOT爱经典,爱经典",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot27.png"
+  },
+  {
+      "epgid": "iHOT爱江湖",
+      "name": "iHOT爱江湖,IHOT爱江湖,爱江湖",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot28.png"
+  },
+  {
+      "epgid": "iHOT爱怀旧",
+      "name": "iHOT爱怀旧,IHOT爱怀旧,爱怀旧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot29.png"
+  },
+  {
+      "epgid": "iHOT爱幼教",
+      "name": "iHOT爱幼教,IHOT爱幼教,爱幼教",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot30.png"
+  },
+
+  {
+      "epgid": "NewTV军事评论",
+      "name": "军事评论,NEWTV军事评论,NewTV军事评论,NewTV 军事评论",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV01.png"
+  },
+  {
+      "epgid": "NewTV军旅剧场",
+      "name": "军旅剧场,NEWTV军旅剧场,NewTV军旅剧场,NewTV 军旅剧场",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV02.png"
+  },
+  {
+      "epgid": "NewTV动作电影",
+      "name": "动作电影,NEWTV动作电影,NewTV动作电影,NewTV 动作电影,动作电影NEWTV",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV03.png"
+  },
+  {
+      "epgid": "NewTV古装剧场",
+      "name": "古装剧场,NEWTV古装剧场,NewTV古装剧场,NewTV 古装剧场",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV04.png"
+  },
+  {
+      "epgid": "NewTV家庭剧场",
+      "name": "家庭剧场,NEWTV家庭剧场,NewTV家庭剧场,NewTV 家庭剧场",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV05.png"
+  },
+  {
+      "epgid": "NewTV海外剧场",
+      "name": "海外剧场,NEWTV海外剧场,NewTV海外剧场,NewTV 海外剧场",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV06.png"
+  },
+  {
+      "epgid": "NewTV中国功夫",
+      "name": "中国功夫,NEWTV中国功夫,NewTV中国功夫,NewTV 中国功夫,中国功夫NEWTV",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV07.png"
+  },
+  {
+      "epgid": "NewTV农业致富",
+      "name": "农业致富,NEWTV农业致富,NewTV农业致富,NewTV 农业致富",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV08.png"
+  },
+  {
+      "epgid": "NewTV东北热剧",
+      "name": "东北热剧,NEWTV东北热剧,NewTV东北热剧,NewTV 东北热剧,东北热剧NEWTV",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV09.png"
+  },
+  {
+      "epgid": "NewTV惊悚悬疑",
+      "name": "惊悚悬疑,NEWTV惊悚悬疑,NewTV惊悚悬疑,NewTV 惊悚悬疑",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV10.png"
+  },
+  {
+      "epgid": "NewTV怡伴健康",
+      "name": "怡伴健康,NEWTV怡伴健康,NewTV怡伴健康,NewTV 怡伴健康",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV11.png"
+  },
+  {
+      "epgid": "NewTV明星大片",
+      "name": "明星大片,NEWTV明星大片,NewTV明星大片,NewTV 明星大片",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV12.png"
+  },
+  {
+      "epgid": "NewTV欢乐剧场",
+      "name": "欢乐剧场,NEWTV欢乐剧场,NewTV欢乐剧场,NewTV 欢乐剧场",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV13.png"
+  },
+  {
+      "epgid": "NewTV武搏世界",
+      "name": "武搏世界,NEWTV武搏世界,NewTV武搏世界,NewTV 武搏世界,武博世界,NEWTV武博世界,NewTV武博世界,NewTV 武博世界",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV14.png"
+  },
+  {
+      "epgid": "NewTV潮妈辣婆",
+      "name": "潮妈辣婆,NEWTV潮妈辣婆,NewTV潮妈辣婆,NewTV 潮妈辣婆,潮妈辣婆NEWTV",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV15.png"
+  },
+  {
+      "epgid": "NewTV炫舞未来",
+      "name": "炫舞未来,NEWTV炫舞未来,NewTV炫舞未来,NewTV 炫舞未来",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV16.png"
+  },
+  {
+      "epgid": "NewTV爱情喜剧",
+      "name": "爱情喜剧,NEWTV爱情喜剧,NewTV爱情喜剧,NewTV 爱情喜剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV17.png"
+  },
+  {
+      "epgid": "NewTV精品体育",
+      "name": "精品体育,NEWTV精品体育,NewTV精品体育,NewTV 精品体育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV18.png"
+  },
+  {
+      "epgid": "NewTV精品大剧",
+      "name": "精品大剧,NEWTV精品大剧,NewTV精品大剧,NewTV 精品大剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV19.png"
+  },
+  {
+      "epgid": "NewTV精品纪录",
+      "name": "精品纪录,精品记录,NEWTV精品纪录,NewTV精品纪录,NewTV 精品纪录",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV20.png"
+  },
+  {
+      "epgid": "NewTV金牌综艺",
+      "name": "金牌综艺,NEWTV金牌综艺,NewTV金牌综艺,NewTV 金牌综艺",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV21.png"
+  },
+  {
+      "epgid": "NewTV超级体育",
+      "name": "超级体育,NEWTV超级体育,NewTV超级体育,NewTV 超级体育,超级体育NEWTV",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV22.png"
+  },
+  {
+      "epgid": "NewTV超级电影",
+      "name": "超级电影,NEWTV超级电影,NewTV超级电影,NewTV 超级电影,超级电影NEWTV",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV23.png"
+  },
+  {
+      "epgid": "NewTV超级综艺",
+      "name": "超级综艺,NEWTV超级综艺,NewTV超级综艺,NewTV 超级综艺,超级综艺NEWTV",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV24.png"
+  },
+  {
+      "epgid": "NewTV超级电视剧",
+      "name": "超级电视剧,NEWTV超级电视剧,NewTV超级电视剧,NewTV 超级电视剧,超级电视剧NEWTV",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV25.png"
+  },
+  {
+      "epgid": "NewTV魅力黑龙江",
+      "name": "NewTV魅力黑龙江,魅力黑龙江",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV26.png"
+  },
+  {
+      "epgid": "NewTV魅力江西",
+      "name": "NewTV魅力江西,魅力江西",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV27.png"
+  },
+  {
+      "epgid": "NewTV魅力山东",
+      "name": "NewTV魅力山东,魅力山东",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV28.png"
+  },
+  {
+      "epgid": "NewTV魅力广东",
+      "name": "NewTV魅力广东,魅力广东",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV29.png"
+  },
+  {
+      "epgid": "NewTV魅力四川",
+      "name": "NewTV魅力四川,魅力四川",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV30.png"
+  },
+  {
+      "epgid": "NewTV魅力吉林",
+      "name": "NewTV魅力吉林,魅力吉林",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV31.png"
+  },
+  {
+      "epgid": "NewTV魅力广西",
+      "name": "NewTV魅力广西,魅力广西",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV32.png"
+  },
+  {
+      "epgid": "NewTV魅力云南",
+      "name": "NewTV魅力云南,魅力云南",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV33.png"
+  },
+  {
+      "epgid": "NewTV魅力潇湘",
+      "name": "魅力潇湘,NEWTV魅力潇湘,NewTV魅力潇湘,NewTV 魅力潇湘,魅力潇湘NEWTV",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV34.png"
+  },
+
+  {
+      "epgid": "CIBN经典剧场",
+      "name": "CIBN经典剧场,经典剧场",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CIBN01.png"
+  },
+  {
+      "epgid": "CIBN古装剧场",
+      "name": "CIBN古装剧场,古装剧场",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CIBN02.png"
+  },
+  {
+      "epgid": "CIBN动画乐园",
+      "name": "CIBN动画乐园,动画乐园",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CIBN03.png"
+  },
+  {
+      "epgid": "CIBN骄阳剧场",
+      "name": "CIBN骄阳剧场,骄阳剧场",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CIBN04.png"
+  },
+  {
+      "epgid": "CIBN流金岁月",
+      "name": "CIBN流金岁月,流金岁月",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CIBN05.png"
+  },
+  {
+      "epgid": "CIBN风尚运动",
+      "name": "CIBN风尚运动,风尚运动",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CIBN06.png"
+  },
+  {
+      "epgid": "CIBN真人秀",
+      "name": "CIBN真人秀,真人秀",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CIBN07.png"
+  },
+  {
+      "epgid": "CIBN微电影",
+      "name": "CIBN微电影,微电影",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CIBN08.png"
+  },
+  {
+      "epgid": "CIBN纪录片",
+      "name": "CIBN纪录片,纪录片",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CIBN09.png"
+  },
+  {
+      "epgid": "CIBN综合",
+      "name": "CIBN综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CIBN10.png"
+  },
+
+  {
+      "epgid": "山东4K超高清",
+      "name": "山东卫视4K超高清,山东4K超高清,山东卫视4K,山东卫视超高清",
+      "logo": "http://ABCD.kstore.vip/epglog/山东卫视4K超高清.png"
+  },
+  {
+      "epgid": "山东齐鲁频道",
+      "name": "山东齐鲁频道,齐鲁频道,山东齐鲁",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shandong1.png"
+  },
+  {
+      "epgid": "山东体育频道",
+      "name": "山东体育频道,山东体育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shandong2.png"
+  },
+  {
+      "epgid": "山东农科频道",
+      "name": "山东农科频道,山东农科",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shandong3.png"
+  },
+  {
+      "epgid": "山东新闻频道",
+      "name": "山东新闻频道,山东新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shandong4.png"
+  },
+  {
+      "epgid": "山东少儿频道",
+      "name": "山东少儿频道,山东少儿",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shandong5.png"
+  },
+  {
+      "epgid": "山东文旅频道",
+      "name": "山东文旅频道,山东文旅",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shandong6.png"
+  },
+  {
+      "epgid": "山东综艺频道",
+      "name": "山东综艺频道,山东综艺",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shandong7.png"
+  },
+  {
+      "epgid": "山东生活频道",
+      "name": "山东生活频道,山东生活",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shandong8.png"
+  },
+  {
+      "epgid": "江苏4K超高清",
+      "name": "江苏卫视4K超高清,江苏4K超高清,江苏卫视4K,江苏卫视超高清",
+      "logo": "http://ABCD.kstore.vip/epglog/江苏卫视4K超高清.png"
+  },
+  {
+      "epgid": "江苏公共新闻频道",
+      "name": "江苏公共新闻频道,江苏公共,江苏公共新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu1.png"
+  },
+  {
+      "epgid": "江苏城市频道",
+      "name": "江苏城市频道,江苏城市",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png"
+  },
+  {
+      "epgid": "江苏综艺频道",
+      "name": "江苏综艺频道,江苏综艺",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu3.png"
+  },
+  {
+      "epgid": "江苏影视频道",
+      "name": "江苏影视频道,江苏影视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu4.png"
+  },
+  {
+      "epgid": "江苏体育休闲频道",
+      "name": "江苏体育休闲频道,江苏体育,江苏体育休闲",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png"
+  },
+  {
+      "epgid": "江苏国际频道",
+      "name": "江苏国际频道,江苏国际",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu6.png"
+  },
+  {
+      "epgid": "江苏教育频道",
+      "name": "江苏教育频道,江苏教育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png"
+  },
+  {
+      "epgid": "江苏学习频道",
+      "name": "江苏学习频道,江苏学习",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu8.png"
+  },
+
+  {
+      "epgid": "安徽经济生活频道",
+      "name": "安徽经济生活频道,安徽经济,安徽生活,安徽经济生活,安徽经生",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Anhui1.png"
+  },
+  {
+      "epgid": "安徽影视频道",
+      "name": "安徽影视频道,安徽影视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Anhui2.png"
+  },
+  {
+      "epgid": "安徽公共频道",
+      "name": "安徽公共频道,安徽公共",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Anhui3.png"
+  },
+  {
+      "epgid": "安徽综艺体育频道",
+      "name": "安徽综艺体育频道,安徽综艺,安徽体育,安徽综艺体育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Anhui4.png"
+  },
+  {
+      "epgid": "安徽农业科教频道",
+      "name": "安徽农业科教频道,安徽农业,安徽科教,安徽农科,安徽农业科教",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Anhui5.png"
+  },
+  {
+      "epgid": "安徽国际频道",
+      "name": "安徽国际频道,安徽国际频道",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Anhui6.png"
+  },
+
+  {
+      "epgid": "浙江4K超高清",
+      "name": "浙江卫视4K超高清,浙江4K超高清,浙江卫视4K,浙江卫视超高清",
+      "logo": "http://ABCD.kstore.vip/epglog/浙江卫视4K超高清.png"
+  },
+  {
+      "epgid": "浙江钱江都市",
+      "name": "浙江钱江都市,浙江钱江,钱江都市",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang1.png"
+  },
+  {
+      "epgid": "浙江经济生活",
+      "name": "浙江经济生活,浙江经济,浙江生活,浙江经生",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang2.png"
+  },
+  {
+      "epgid": "浙江科教影视",
+      "name": "浙江科教影视,浙江科教,浙江影视,浙江科影",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang3.png"
+  },
+  {
+      "epgid": "浙江民生休闲",
+      "name": "浙江民生休闲,浙江民生,浙江休闲,浙江民休",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang4.png"
+  },
+  {
+      "epgid": "浙江公共新闻",
+      "name": "浙江公共新闻,浙江公共,浙江新闻,浙江公新",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang5.png"
+  },
+  {
+      "epgid": "浙江少儿频道",
+      "name": "浙江少儿频道,浙江少儿",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang6.png"
+  },
+  {
+      "epgid": "浙江国际频道",
+      "name": "浙江国际频道,浙江国际",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang7.png"
+  },
+
+  {
+      "epgid": "福建综合频道",
+      "name": "福建综合频道,福建综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian1.png"
+  },
+  {
+      "epgid": "福建乡村公共频道",
+      "name": "福建乡村公共频道,福建乡村,福建公共,福建乡村公共",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian2.png"
+  },
+  {
+      "epgid": "福建新闻频道",
+      "name": "福建新闻频道,福建新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian3.png"
+  },
+  {
+      "epgid": "福建电视剧频道",
+      "name": "福建电视剧频道,福建电视剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian4.png"
+  },
+  {
+      "epgid": "福建旅游频道",
+      "name": "福建旅游频道,福建旅游",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian5.png"
+  },
+  {
+      "epgid": "福建经济频道",
+      "name": "福建经济频道,福建经济",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian6.png"
+  },
+  {
+      "epgid": "福建体育频道",
+      "name": "福建体育频道,福建体育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian7.png"
+  },
+  {
+      "epgid": "福建少儿频道",
+      "name": "福建少儿频道,福建少儿",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian8.png"
+  },
+  {
+      "epgid": "福建教育频道",
+      "name": "福建教育频道,福建教育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian9.png"
+  },
+
+  {
+      "epgid": "东方4K超高清",
+      "name": "东方卫视4K超高清,东方4K超高清,东方卫视4K,东方卫视超高清",
+      "logo": "http://ABCD.kstore.vip/epglog/东方卫视4K超高清.png"
+  },
+  {
+      "epgid": "上海新闻综合",
+      "name": "上海新闻综合,上海新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai1.png"
+  },
+  {
+      "epgid": "上海都市",
+      "name": "上海都市,上海都市频道",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai2.png"
+  },
+  {
+      "epgid": "上海东方影视",
+      "name": "上海东方影视,东方影视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai3.png"
+  },
+  {
+      "epgid": "上海ICS外语",
+      "name": "上海ICS外语,上海外语,ICS外语",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai4.png"
+  },
+  {
+      "epgid": "上海五星体育",
+      "name": "上海五星体育,五星体育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai5.png"
+  },
+  {
+      "epgid": "上海教育",
+      "name": "上海教育,上海教育别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai6.png"
+  },
+
+  {
+      "epgid": "广东卫视4K超高清",
+      "name": "广东卫视4K超高清,广东卫视4K,广东卫视超高清",
+      "logo": "http://ABCD.kstore.vip/epglog/广东4K超高清.png"
+  },
+  {
+      "epgid": "广东卫视Name版",
+      "name": "广东卫视Name版,广东卫视Name版别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong0.png"
+  },
+  {
+      "epgid": "广东新闻",
+      "name": "广东新闻,广东新闻别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong1.png"
+  },
+  {
+      "epgid": "广东民生",
+      "name": "广东民生,广东民生别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong2.png"
+  },
+  {
+      "epgid": "广东影视",
+      "name": "广东影视,广东影视别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong3.png"
+  },
+  {
+      "epgid": "广东4K超高清",
+      "name": "广东4K超高清,广东4K",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong4.png"
+  },
+  {
+      "epgid": "广东体育",
+      "name": "广东体育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong5.png"
+  },
+  {
+      "epgid": "广东少儿",
+      "name": "广东少儿",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong6.png"
+  },
+  {
+      "epgid": "广东经济科教",
+      "name": "广东经济科教,广东经济,广东科教,广东经科",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong7.png"
+  },
+  {
+      "epgid": "广东国际",
+      "name": "广东国际",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong8.png"
+  },
+  {
+      "epgid": "广东珠江",
+      "name": "广东珠江",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png"
+  },
+  {
+      "epgid": "大湾区卫视",
+      "name": "大湾区卫视,大湾区卫视HD,大湾区卫视高清",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong10.png"
+  },
+  {
+      "epgid": "岭南戏曲",
+      "name": "岭南戏曲,广东岭南戏曲",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong11.png"
+  },
+  {
+      "epgid": "广东房产",
+      "name": "广东房产",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong12.png"
+  },
+  {
+      "epgid": "现代教育",
+      "name": "现代教育,广东现代教育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong13.png"
+  },
+  {
+      "epgid": "嘉佳卡通",
+      "name": "嘉佳卡通,嘉佳卡通别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong14.png"
+  },
+  {
+      "epgid": "广东移动",
+      "name": "广东移动,广东移动别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong15.png"
+  },
+  {
+      "epgid": "南方购物",
+      "name": "南方购物,广东南方购物",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong16.png"
+  },
+  {
+      "epgid": "广州综合频道",
+      "name": "广州综合频道,广州综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou1.png"
+  },
+  {
+      "epgid": "广州新闻频道",
+      "name": "广州新闻频道,广州新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou2.png"
+  },
+  {
+      "epgid": "广州法治频道",
+      "name": "广州法治频道,广州法治",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou3.png"
+  },
+  {
+      "epgid": "广州竞赛频道",
+      "name": "广州竞赛频道,广州竞赛",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou4.png"
+  },
+  {
+      "epgid": "广州影视频道",
+      "name": "广州影视频道,广州影视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou5.png"
+  },
+  {
+      "epgid": "广州南国都市",
+      "name": "广州南国都市,南国都市",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou6.png"
+  },
+  {
+      "epgid": "深圳4K超高清",
+      "name": "深圳4K超高清,深圳卫视4K,深圳卫视超高清",
+      "logo": "http://ABCD.kstore.vip/epglog/深圳4K超高清.png"
+  },
+  {
+      "epgid": "深圳都市频道",
+      "name": "深圳都市频道,深圳都市",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen1.png"
+  },
+  {
+      "epgid": "深圳电视剧频道",
+      "name": "深圳电视剧频道,深圳电视剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen2.png"
+  },
+  {
+      "epgid": "深圳公共频道",
+      "name": "深圳公共频道,深圳公共",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen3.png"
+  },
+  {
+      "epgid": "深圳财经生活频道",
+      "name": "深圳财经生活频道,深圳财经生活,深圳财经,深圳生活",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen4.png"
+  },
+  {
+      "epgid": "深圳娱乐频道",
+      "name": "深圳娱乐频道,深圳娱乐",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen5.png"
+  },
+  {
+      "epgid": "深圳少儿频道",
+      "name": "深圳少儿频道,深圳少儿",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen6.png"
+  },
+  {
+      "epgid": "深圳国际频道",
+      "name": "深圳国际频道,深圳国际",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen7.png"
+  },
+  {
+      "epgid": "深圳体育健康频道",
+      "name": "深圳体育健康频道,深圳体育,深圳健康,深圳体育健康",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen8.png"
+  },
+  {
+      "epgid": "深圳宝安频道",
+      "name": "深圳宝安频道,深圳宝安",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen9.png"
+  },
+  {
+      "epgid": "深圳龙岗频道",
+      "name": "深圳龙岗频道,深圳龙岗",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen8.png"
+  },
+  {
+      "epgid": "深圳众创TV频道",
+      "name": "深圳众创TV频道,深圳众创TV,深圳众创",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen9.png"
+  },
+  {
+      "epgid": "广西新闻频道",
+      "name": "广西新闻频道,广西新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Guangxi1.png"
+  },
+  {
+      "epgid": "广西综艺旅游频道",
+      "name": "广西综艺旅游频道,广西综艺,广西旅游,广西综艺旅游,广西综旅",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Guangxi2.png"
+  },
+  {
+      "epgid": "广西都市频道",
+      "name": "广西都市频道,广西都市",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Guangxi3.png"
+  },
+  {
+      "epgid": "广西影视频道",
+      "name": "广西影视频道,广西影视频道别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Guangxi4.png"
+  },
+  {
+      "epgid": "广西国际频道",
+      "name": "广西国际频道,广西国际",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Guangxi5.png"
+  },
+
+  {
+      "epgid": "海南经济频道",
+      "name": "海南经济频道,海南经济",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hainan1.png"
+  },
+  {
+      "epgid": "海南新闻频道",
+      "name": "海南新闻频道,海南新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hainan2.png"
+  },
+  {
+      "epgid": "海南公共频道",
+      "name": "海南公共频道,海南公共",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hainan3.png"
+  },
+  {
+      "epgid": "海南文旅频道",
+      "name": "海南文旅频道,海南文旅",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hainan4.png"
+  },
+  {
+      "epgid": "海南少儿频道",
+      "name": "海南少儿频道,海南少儿",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hainan5.png"
+  },
+
+  {
+      "epgid": "湖南4K超高清",
+      "name": "湖南卫视4K超高清,湖南4K超高清,湖南卫视4K,湖南卫视超高清",
+      "logo": "http://ABCD.kstore.vip/epglog/湖南卫视4K超高清.png"
+  },
+  {
+      "epgid": "湖南卫视N",
+      "name": "湖南卫视N",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan0.png"
+  },
+  {
+      "epgid": "湖南经视",
+      "name": "湖南经视,湖南经视别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan1.png"
+  },
+  {
+      "epgid": "湖南都市",
+      "name": "湖南都市,湖南都市别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan2.png"
+  },
+  {
+      "epgid": "湖南爱晚",
+      "name": "湖南爱晚,湖南爱晚别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan3.png"
+  },
+  {
+      "epgid": "湖南国际",
+      "name": "湖南国际,湖南国际别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan4.png"
+  },
+  {
+      "epgid": "湖南娱乐",
+      "name": "湖南娱乐,湖南娱乐别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan5.png"
+  },
+  {
+      "epgid": "湖南电影",
+      "name": "湖南电影,湖南电影别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan6.png"
+  },
+  {
+      "epgid": "湖南电视剧",
+      "name": "湖南电视剧,湖南电视剧别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan7.png"
+  },
+  {
+      "epgid": "湖南教育台",
+      "name": "湖南教育台,湖南教育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan8.png"
+  },
+  {
+      "epgid": "金鹰纪实",
+      "name": "金鹰纪实,金鹰纪实别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan9.png"
+  },
+  {
+      "epgid": "金鹰卡通",
+      "name": "金鹰卡通,金鹰卡通别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan10.png"
+  },
+  {
+      "epgid": "快乐垂钓",
+      "name": "快乐垂钓,快乐垂钓别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan11.png"
+  },
+  {
+      "epgid": "茶频道",
+      "name": "茶频道,茶频道别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan12.png"
+  },
+  {
+      "epgid": "先锋乒羽",
+      "name": "先锋乒羽,先锋乒羽别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan13.png"
+  },
+
+  {
+      "epgid": "湖北综合频道",
+      "name": "湖北综合频道,湖北综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hubei1.png"
+  },
+  {
+      "epgid": "湖北影视频道",
+      "name": "湖北影视频道,湖北影视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hubei2.png"
+  },
+  {
+      "epgid": "湖北教育频道",
+      "name": "湖北教育频道,湖北教育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hubei3.png"
+  },
+  {
+      "epgid": "湖北生活频道",
+      "name": "湖北生活频道,湖北生活",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hubei4.png"
+  },
+  {
+      "epgid": "湖北公共新闻频道",
+      "name": "湖北公共新闻频道,湖北公共,湖北新闻,湖北公共新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hubei5.png"
+  },
+  {
+      "epgid": "湖北经视频道",
+      "name": "湖北经视频道,湖北经视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hubei6.png"
+  },
+  {
+      "epgid": "湖北垄上频道",
+      "name": "湖北垄上频道,湖北垄上",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hubei7.png"
+  },
+  {
+      "epgid": "武汉新闻综合频道",
+      "name": "武汉新闻综合频道,武汉新闻,武汉综合,武汉新闻综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Wuhan1.png"
+  },
+  {
+      "epgid": "武汉电视剧频道",
+      "name": "武汉电视剧频道,武汉电视剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Wuhan2.png"
+  },
+  {
+      "epgid": "武汉科技生活频道",
+      "name": "武汉科技生活频道,武汉科技,武汉生活,武汉科技生活",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Wuhan3.png"
+  },
+  {
+      "epgid": "武汉经济频道",
+      "name": "武汉经济频道,武汉经济",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Wuhan4.png"
+  },
+  {
+      "epgid": "武汉文体频道",
+      "name": "武汉文体频道,武汉文体",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Wuhan5.png"
+  },
+  {
+      "epgid": "武汉外语频道",
+      "name": "武汉外语频道,武汉外语",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Wuhan6.png"
+  },
+  {
+      "epgid": "武汉少儿频道",
+      "name": "武汉少儿频道,武汉少儿",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Wuhan7.png"
+  },
+  {
+      "epgid": "武汉教育频道",
+      "name": "武汉教育频道,武汉教育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Wuhan8.png"
+  },
+
+  {
+      "epgid": "河南都市频道",
+      "name": "河南都市频道,河南都市",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Henan1.png"
+  },
+  {
+      "epgid": "河南民生频道",
+      "name": "河南民生频道,河南民生",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Henan2.png"
+  },
+  {
+      "epgid": "河南法治频道",
+      "name": "河南法治频道,河南法治",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Henan3.png"
+  },
+  {
+      "epgid": "河南电视剧频道",
+      "name": "河南电视剧频道,河南电视剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Henan4.png"
+  },
+  {
+      "epgid": "河南国际频道",
+      "name": "河南国际频道,河南国际",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Henan5.png"
+  },
+  {
+      "epgid": "河南新闻频道",
+      "name": "河南新闻频道,河南新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Henan6.png"
+  },
+  {
+      "epgid": "河南公共频道",
+      "name": "河南公共频道,河南公共",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Henan7.png"
+  },
+  {
+      "epgid": "河南乡村频道",
+      "name": "河南乡村频道,河南乡村",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Henan8.png"
+  },
+
+  {
+      "epgid": "江西都市频道",
+      "name": "江西都市频道,江西都市",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi1.png"
+  },
+  {
+      "epgid": "江西经济生活频道",
+      "name": "江西经济生活频道,江西经济,江西生活,江西经济生活",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi2.png"
+  },
+  {
+      "epgid": "江西影视旅游频道",
+      "name": "江西影视旅游频道,江西影视,江西旅游,江西影视旅游",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi3.png"
+  },
+  {
+      "epgid": "江西公共农业频道",
+      "name": "江西公共农业频道,江西公共,江西农业,江西公共农业",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi4.png"
+  },
+  {
+      "epgid": "江西少儿频道",
+      "name": "江西少儿频道,江西少儿",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi5.png"
+  },
+  {
+      "epgid": "江西新闻频道",
+      "name": "江西新闻频道,江西新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi6.png"
+  },
+
+  {
+      "epgid": "北京4K超高清",
+      "name": "北京卫视4K超高清,北京4K超高清,北京卫视4K,北京卫视超高清",
+      "logo": "http://ABCD.kstore.vip/epglog/北京4K超高清.png"
+  },
+  {
+      "epgid": "北京卫视N",
+      "name": "北京卫视N",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing0.png"
+  },
+  {
+      "epgid": "北京新闻",
+      "name": "北京新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing1.png"
+  },
+  {
+      "epgid": "北京财经",
+      "name": "北京财经",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png"
+  },
+  {
+      "epgid": "北京文艺",
+      "name": "北京文艺",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing3.png"
+  },
+  {
+      "epgid": "北京影视",
+      "name": "北京影视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing4.png"
+  },
+  {
+      "epgid": "北京纪实科教",
+      "name": "北京纪实科教,北京纪实,纪实科教",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing5.png"
+  },
+  {
+      "epgid": "北京体育休闲",
+      "name": "北京体育休闲,北京体育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing6.png"
+  },
+  {
+      "epgid": "北京生活",
+      "name": "北京生活",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing7.png"
+  },
+  {
+      "epgid": "北京卡酷少儿",
+      "name": "北京卡酷少儿,北京卡酷,卡酷少儿",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png"
+  },
+  {
+      "epgid": "北京纪实科教8K",
+      "name": "北京纪实科教8K,纪实科教8K",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing9.png"
+  },
+  {
+      "epgid": "北京体育休闲4K",
+      "name": "北京体育休闲4K,北京体育4K",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing10.png"
+  },
+  {
+      "epgid": "北京4K超清",
+      "name": "北京4K超清,IPTV4K超清,4K超清,北京IPTV4K",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bj4kcq.png"
+  },
+  {
+      "epgid": "北京淘娱乐",
+      "name": "北京淘娱乐,IPTV淘娱乐,淘娱乐",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjtyl.png"
+  },
+  {
+      "epgid": "北京淘电影",
+      "name": "北京淘电影,IPTV淘电影,淘电影",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjtdy.png"
+  },
+  {
+      "epgid": "北京淘剧场",
+      "name": "北京淘剧场,IPTV淘剧场,淘剧场",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjtjc.png"
+  },
+  {
+      "epgid": "北京淘精彩",
+      "name": "北京淘精彩,IPTV淘精彩,淘精彩",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjtjcai.png"
+  },
+  {
+      "epgid": "北京淘Baby",
+      "name": "北京淘Baby,IPTV淘Baby,淘Baby",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjtbb.png"
+  },
+  {
+      "epgid": "北京萌宠TV",
+      "name": "北京萌宠TV,IPTV萌宠TV,萌宠TV",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjmctv.png"
+  },
+  {
+      "epgid": "北京大健康",
+      "name": "北京大健康,IPTV大健康",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjdjk.png"
+  },
+
+  {
+      "epgid": "天津新闻频道",
+      "name": "天津新闻频道,天津新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Tianjin1.png"
+  },
+  {
+      "epgid": "天津文艺频道",
+      "name": "天津文艺频道,天津文艺",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Tianjin2.png"
+  },
+  {
+      "epgid": "天津影视频道",
+      "name": "天津影视频道,天津影视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Tianjin3.png"
+  },
+  {
+      "epgid": "天津都市频道",
+      "name": "天津都市频道,天津都市",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Tianjin4.png"
+  },
+  {
+      "epgid": "天津体育频道",
+      "name": "天津体育频道,天津体育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Tianjin5.png"
+  },
+  {
+      "epgid": "天津教育频道",
+      "name": "天津教育频道,天津教育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Tianjin6.png"
+  },
+  {
+      "epgid": "天津少儿频道",
+      "name": "天津少儿频道,天津少儿",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Tianjin7.png"
+  },
+
+  {
+      "epgid": "河北经济生活频道",
+      "name": "河北经济生活频道,河北经济,河北生活,河北经生,河北经济生活",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hebei1.png"
+  },
+  {
+      "epgid": "河北都市频道",
+      "name": "河北都市频道,河北都市",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hebei2.png"
+  },
+  {
+      "epgid": "河北影视剧频道",
+      "name": "河北影视剧频道,河北影视剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hebei3.png"
+  },
+  {
+      "epgid": "河北少儿科教频道",
+      "name": "河北少儿科教频道,河北少儿,河北科教,河北少科,河北少儿科教",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hebei4.png"
+  },
+  {
+      "epgid": "河北公共频道",
+      "name": "河北公共频道,河北公共",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hebei5.png"
+  },
+
+  {
+      "epgid": "山西经济与科技频道",
+      "name": "山西经济与科技频道,山西经济科技频道,山西经济,山西科技,山西经科,山西经济与科技,山西经济科技",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanxi_1.png"
+  },
+  {
+      "epgid": "山西影视频道",
+      "name": "山西影视频道,山西影视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanxi_2.png"
+  },
+  {
+      "epgid": "山西社会与法治频道",
+      "name": "山西社会与法治频道,山西社会法治频道,山西社会,山西法治,山西社法,山西社会与法治,山西社会法治",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanxi_3.png"
+  },
+  {
+      "epgid": "山西公共频道",
+      "name": "山西公共频道,山西公共",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanxi_4.png"
+  },
+  {
+      "epgid": "内蒙古新闻综合频道",
+      "name": "内蒙古新闻综合频道,内蒙古新闻,内蒙古综合,内蒙古新闻综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng1.png"
+  },
+  {
+      "epgid": "内蒙古文体娱乐频道",
+      "name": "内蒙古文体娱乐频道,内蒙古文体,内蒙古娱乐,内蒙古文娱,内蒙古文体娱乐",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng2.png"
+  },
+  {
+      "epgid": "内蒙古经济生活频道",
+      "name": "内蒙古经济生活频道,内蒙古经济,内蒙古生活,内蒙古经生,内蒙古经济生活",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng3.png"
+  },
+  {
+      "epgid": "内蒙古农牧频道",
+      "name": "内蒙古农牧频道,内蒙古农牧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng4.png"
+  },
+  {
+      "epgid": "内蒙古少儿频道",
+      "name": "内蒙古少儿频道,内蒙古少儿",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng5.png"
+  },
+  {
+      "epgid": "宁夏公共频道",
+      "name": "宁夏公共频道,宁夏公共",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Ningxia1.png"
+  },
+  {
+      "epgid": "宁夏经济频道",
+      "name": "宁夏经济频道,宁夏经济",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Ningxia2.png"
+  },
+  {
+      "epgid": "宁夏影视频道",
+      "name": "宁夏影视频道,宁夏影视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Ningxia3.png"
+  },
+  {
+      "epgid": "宁夏少儿频道",
+      "name": "宁夏少儿频道,宁夏少儿",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Ningxia4.png"
+  },
+  {
+      "epgid": "维语新闻综合频道",
+      "name": "维语新闻综合频道,维语新闻,维语综合,维语新闻综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Xinjiang1.png"
+  },
+  {
+      "epgid": "哈语新闻综合频道",
+      "name": "哈语新闻综合频道,哈语新闻,哈语综合,哈语新闻综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Xinjiang2.png"
+  },
+  {
+      "epgid": "汉语综艺频道",
+      "name": "汉语综艺频道,汉语综艺",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Xinjiang3.png"
+  },
+  {
+      "epgid": "维语影视频道",
+      "name": "维语影视频道,维语影视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Xinjiang4.png"
+  },
+  {
+      "epgid": "汉语经济生活频道",
+      "name": "汉语经济生活频道,汉语经济,汉语生活,汉语经生,汉语经济生活",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Xinjiang4.png"
+  },
+  {
+      "epgid": "哈语综艺频道",
+      "name": "哈语综艺频道,哈语综艺",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Xinjiang6.png"
+  },
+  {
+      "epgid": "维语经济生活频道",
+      "name": "维语经济生活频道,维语经济,维语生活,维语经生,维语经济生活",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Xinjiang5.png"
+  },
+  {
+      "epgid": "汉语体育健康频道",
+      "name": "汉语体育健康频道,汉语体育,汉语健康,汉语体健,汉语体育健康",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Xinjiang8.png"
+  },
+  {
+      "epgid": "汉语信息服务频道",
+      "name": "汉语信息服务频道,汉语信息服务",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Xinjiang7.png"
+  },
+  {
+      "epgid": "少儿频道",
+      "name": "新疆少儿频道,新疆少儿",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Xinjiang10.png"
+  },
+
+  {
+      "epgid": "青海经视频道",
+      "name": "青海经视频道,青海经视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Qinghai1.png"
+  },
+  {
+      "epgid": "青海都市频道",
+      "name": "青海都市频道,青海都市",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Qinghai2.png"
+  },
+  {
+      "epgid": "陕西新闻资讯频道",
+      "name": "陕西新闻资讯频道,陕西新闻,陕西资讯,陕西新闻资讯",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanxi1.png"
+  },
+  {
+      "epgid": "陕西都市青春频道",
+      "name": "陕西都市青春频道,陕西都市,陕西青春,陕西都市青春",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanxi2.png"
+  },
+  {
+      "epgid": "陕西生活频道",
+      "name": "陕西生活频道,陕西生活",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanxi3.png"
+  },
+  {
+      "epgid": "陕西影视频道",
+      "name": "陕西影视频道,陕西影视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanxi4.png"
+  },
+  {
+      "epgid": "陕西公共频道",
+      "name": "陕西公共频道,陕西公共",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanxi5.png"
+  },
+  {
+      "epgid": "陕西体育休闲频道",
+      "name": "陕西体育休闲频道,陕西体育,陕西休闲,陕西体育休闲",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanxi6.png"
+  },
+  {
+      "epgid": "陕西西部电影",
+      "name": "陕西西部电影,陕西西部电影,西部电影",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanxi7.png"
+  },
+
+  {
+      "epgid": "甘肃都市频道",
+      "name": "甘肃都市频道,甘肃都市",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Gansu1.png"
+  },
+  {
+      "epgid": "甘肃经济频道",
+      "name": "甘肃经济频道,甘肃经济",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Gansu2.png"
+  },
+  {
+      "epgid": "甘肃文化影视频道",
+      "name": "甘肃文化影视频道,甘肃文化,甘肃影视,甘肃文化影视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Gansu3.png"
+  },
+  {
+      "epgid": "甘肃少儿频道",
+      "name": "甘肃少儿频道,甘肃少儿",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Gansu4.png"
+  },
+ {
+      "epgid": "四川4K超高清",
+      "name": "四川卫视4K超高清,四川4K超高清,四川卫视4K,四川卫视超高清",
+      "logo": "http://ABCD.kstore.vip/epglog/四川4K超高清.png"
+  },
+  {
+      "epgid": "四川经济频道",
+      "name": "四川经济频道,四川经济",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan1.png"
+  },
+  {
+      "epgid": "四川文化旅游频道",
+      "name": "四川文化旅游频道,四川文化,四川旅游,四川文旅,四川文化旅游",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan2.png"
+  },
+  {
+      "epgid": "四川新闻频道",
+      "name": "四川新闻频道,四川新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan3.png"
+  },
+  {
+      "epgid": "四川影视文艺频道",
+      "name": "四川影视文艺频道,四川影视,四川文艺,四川影视文艺",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan4.png"
+  },
+  {
+      "epgid": "四川妇女儿童频道",
+      "name": "四川妇女儿童频道,四川妇女,四川儿童,四川妇女儿童",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan5.png"
+  },
+  {
+      "epgid": "四川乡村频道",
+      "name": "四川乡村频道,四川乡村",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan6.png"
+  },
+  {
+      "epgid": "四川科教频道",
+      "name": "四川科教频道,四川科教",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan7.png"
+  },
+  {
+      "epgid": "峨眉电影",
+      "name": "峨眉电影,四川峨眉电影",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan8.png"
+  },
+  {
+      "epgid": "峨眉电影4K",
+      "name": "峨眉电影4K,四川峨眉电影4K",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan9.png"
+  },
+  {
+      "epgid": "成都新闻综合",
+      "name": "成都新闻综合,成都新闻,成都综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Chengdu1.png"
+  },
+  {
+      "epgid": "成都经济资讯",
+      "name": "成都经济资讯,成都经济,成都资讯",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Chengdu2.png"
+  },
+  {
+      "epgid": "成都都市生活",
+      "name": "成都都市生活,成都都市,成都生活",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Chengdu3.png"
+  },
+  {
+      "epgid": "成都影视文艺",
+      "name": "成都影视文艺,成都影视,成都文艺",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Chengdu4.png"
+  },
+  {
+      "epgid": "成都公共频道",
+      "name": "成都公共频道,成都公共",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Chengdu5.png"
+  },
+  {
+      "epgid": "成都少儿频道",
+      "name": "成都少儿频道,成都少儿",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Chengdu6.png"
+  },
+  {
+      "epgid": "成都温江台",
+      "name": "成都温江台,成都温江",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Chengdu7.png"
+  },
+
+  {
+      "epgid": "云南都市频道",
+      "name": "云南都市频道,云南都市",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Yunnan1.png"
+  },
+  {
+      "epgid": "云南娱乐频道",
+      "name": "云南娱乐频道,云南娱乐频道别称",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Yunnan2.png"
+  },
+  {
+      "epgid": "云南公共频道",
+      "name": "云南公共频道,云南公共",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Yunnan3.png"
+  },
+  {
+      "epgid": "云南少儿频道",
+      "name": "云南少儿频道,云南少儿",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Yunnan4.png"
+  },
+  {
+      "epgid": "云南影视频道",
+      "name": "云南影视频道,云南影视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Yunnan7.png"
+  },
+  {
+      "epgid": "云南生活资讯频道",
+      "name": "云南生活资讯频道,云南生活,云南资讯,云南生活资讯",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Yunnan5.png"
+  },
+
+  {
+      "epgid": "贵州公共频道",
+      "name": "贵州公共频道,贵州公共",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Guizhou1.png"
+  },
+  {
+      "epgid": "贵州文艺频道",
+      "name": "贵州文艺频道,贵州文艺",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Guizhou2.png"
+  },
+  {
+      "epgid": "贵州大众生活频道",
+      "name": "贵州大众生活频道,贵州大众,贵州生活,贵州大众生活",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Guizhou3.png"
+  },
+  {
+      "epgid": "贵州旅游频道",
+      "name": "贵州旅游频道,贵州旅游",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Guizhou4.png"
+  },
+  {
+      "epgid": "贵州科教健康频道",
+      "name": "贵州科教健康频道,贵州科教,贵州健康,贵州科教健康",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Guizhou5.png"
+  },
+  {
+      "epgid": "贵州经济频道",
+      "name": "贵州经济频道,贵州经济",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Guizhou6.png"
+  },
+
+  {
+      "epgid": "西藏影视文化频道",
+      "name": "西藏影视文化频道,西藏影视,西藏文化,西藏影视文化",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Xizang1.png"
+  },
+  {
+      "epgid": "西藏经济生活频道",
+      "name": "西藏经济生活频道,西藏经济,西藏生活,西藏经济生活",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Xizang2.png"
+  },
+
+  {
+      "epgid": "重庆影视频道",
+      "name": "重庆影视频道,重庆影视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Chongqing1.png"
+  },
+  {
+      "epgid": "重庆新闻频道",
+      "name": "重庆新闻频道,重庆新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Chongqing2.png"
+  },
+  {
+      "epgid": "重庆科教频道",
+      "name": "重庆科教频道,重庆科教",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Chongqing3.png"
+  },
+  {
+      "epgid": "重庆社会与法",
+      "name": "重庆社会与法,重庆社会,重庆社会与法",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Chongqing4.png"
+  },
+  {
+      "epgid": "重庆文体娱乐",
+      "name": "重庆文体娱乐,重庆文体,重庆娱乐,重庆文娱",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Chongqing5.png"
+  },
+  {
+      "epgid": "重庆时尚生活",
+      "name": "重庆时尚生活,重庆时尚,重庆生活",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Chongqing6.png"
+  },
+  {
+      "epgid": "重庆新农村频道",
+      "name": "重庆新农村频道,重庆新农村",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Chongqing7.png"
+  },
+  {
+      "epgid": "重庆少儿频道",
+      "name": "重庆少儿频道,重庆少儿",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Chongqing8.png"
+  },
+
+  {
+      "epgid": "辽宁都市频道",
+      "name": "辽宁都市频道,辽宁都市",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Liaoning1.png"
+  },
+  {
+      "epgid": "辽宁影视剧",
+      "name": "辽宁影视剧频道,辽宁影视剧",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Liaoning2.png"
+  },
+  {
+      "epgid": "辽宁教育青少",
+      "name": "辽宁教育青少,辽宁教育,辽宁青少",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Liaoning3.png"
+  },
+  {
+      "epgid": "辽宁生活频道",
+      "name": "辽宁生活频道,辽宁生活",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Liaoning4.png"
+  },
+  {
+      "epgid": "辽宁公共频道",
+      "name": "辽宁公共频道,辽宁公共",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Liaoning5.png"
+  },
+  {
+      "epgid": "辽宁体育频道",
+      "name": "辽宁体育频道,辽宁体育",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Liaoning6.png"
+  },
+  {
+      "epgid": "辽宁经济频道",
+      "name": "辽宁经济频道,辽宁经济",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Liaoning7.png"
+  },
+  {
+      "epgid": "辽宁北方频道",
+      "name": "辽宁北方频道,北方频道,辽宁北方",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Liaoning8.png"
+  },
+  {
+      "epgid": "大连新闻综合频道",
+      "name": "大连新闻综合频道,大连新闻,大连综合,大连新闻综合",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dalian1.png"
+  },
+  {
+      "epgid": "大连生活频道",
+      "name": "大连生活频道,大连生活",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dalian2.png"
+  },
+  {
+      "epgid": "大连公共频道",
+      "name": "大连公共频道,大连公共",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dalian3.png"
+  },
+  {
+      "epgid": "大连文体频道",
+      "name": "大连文体频道,大连文体",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dalian4.png"
+  },
+  {
+      "epgid": "大连影视频道",
+      "name": "大连影视频道,大连影视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dalian5.png"
+  },
+  {
+      "epgid": "大连少儿频道",
+      "name": "大连少儿频道,大连少儿",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dalian6.png"
+  },
+  {
+      "epgid": "大连财经频道",
+      "name": "大连财经频道,大连财经",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dalian7.png"
+  },
+
+  {
+      "epgid": "吉林公共新闻频道",
+      "name": "吉林公共新闻频道,吉林公共,吉林新闻,吉林公共新闻",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin1.png"
+  },
+  {
+      "epgid": "吉林都市频道",
+      "name": "吉林都市频道,吉林都市",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin2.png"
+  },
+  {
+      "epgid": "吉林生活频道",
+      "name": "吉林生活频道,吉林生活",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin3.png"
+  },
+  {
+      "epgid": "吉林影视频道",
+      "name": "吉林影视频道,吉林影视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin4.png"
+  },
+  {
+      "epgid": "吉林乡村频道",
+      "name": "吉林乡村频道,吉林乡村",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin5.png"
+  },
+  {
+      "epgid": "吉林综艺文化频道",
+      "name": "吉林综艺文化频道,吉林综艺,吉林文化,吉林综艺文化",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin6.png"
+  },
+
+  {
+      "epgid": "黑龙江新闻法治频道",
+      "name": "黑龙江新闻法治频道,黑龙江新闻,黑龙江法治,黑龙江新闻法治",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Heilongjiang1.png"
+  },
+  {
+      "epgid": "黑龙江文体频道",
+      "name": "黑龙江文体频道,黑龙江文体",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Heilongjiang2.png"
+  },
+  {
+      "epgid": "黑龙江影视频道",
+      "name": "黑龙江影视频道,黑龙江影视",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Heilongjiang3.png"
+  },
+  {
+      "epgid": "黑龙江都市频道",
+      "name": "黑龙江都市频道,黑龙江都市",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Heilongjiang4.png"
+  },
+  {
+      "epgid": "黑龙江公共农村频道",
+      "name": "黑龙江公共农村频道,黑龙江公共,黑龙江农村,黑龙江公共农村",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Heilongjiang5.png"
+  },
+  {
+      "epgid": "黑龙江少儿频道",
+      "name": "黑龙江少儿频道,黑龙江少儿",
+      "logo": "https://wget.la/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Heilongjiang6.png"
+  }
+  ]
+}
