@@ -4,5 +4,6 @@ http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 #EXTINF:-1 tvg-name="凤凰中文"  group-title="🌊港澳频道" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://t.061899.xyz/tl/js/js.php?id=fhwszwt ?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,凤凰中文
 http://t.061899.xyz/tl/js/js.php?id=fhwszxt 
 #EXTINF:-1 tvg-name="第一财经"  group-title="☘️ 上海频道" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://t.061899.xyz/tl/tl.php?id=dycj?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,第一财经
-http://cdn6.163189.xyz/163189/fhzx 
+http://t.061899.xyz/tl/tl.php?id=dycj
+
 
