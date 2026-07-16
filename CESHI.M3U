@@ -1,6 +1,5 @@
 ﻿#EXTM3U x-tvg-url="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/xml/main/epg.xml"
-#EXTINF:-1 tvg-name="第一财经"  group-title="☘️ 上海频道,#genre#" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://t.061899.xyz/tl/tl.php?id=dycj?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,第一财经
-http://t.061899.xyz/tl/tl.php?id=dycj
+#EXTINF:-1 tvg-name="第一财经"  group-title="☘️ 上海频道,#genre#" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://t.061899.xyz/tl/tl.php?id=dycj?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,第一财经http://t.061899.xyz/tl/tl.php?id=dycj
 #EXTINF:-1 tvg-name="凤凰资讯"  group-title="🌊港澳频道" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://t.061899.xyz/tl/js/js.php?id=fhwszxt ?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,凤凰资讯
 http://t.061899.xyz/tl/js/js.php?id=fhwszxt 
 #EXTINF:-1 tvg-name="凤凰中文"  group-title="🌊港澳频道" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://t.061899.xyz/tl/js/js.php?id=fhwszwt ?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,凤凰中文
