@@ -1031,6 +1031,7 @@ https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 #EXTINF:-1 tvg-name="第一财经"  group-title="☘️ 上海频道,#genre#" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://t.061899.xyz/tl/tl.php?id=dycj?startTime=${(b)10}&endTime=${(e)10}" resolution="1920x1080" ,第一财经
 http://t.061899.xyz/tl/tl.php?id=dycj
+
 #EXTINF:-1 tvg-id="" tvg-name="上海外语" tvg-logo="" group-title="☘️ 上海频道",上海外语
 http://139.196.151.191:2051/rtp/239.45.1.127:5140
 #EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="" group-title="☘️ 上海频道",东方财经
