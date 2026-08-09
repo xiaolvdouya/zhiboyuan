@@ -549,11 +549,14 @@ http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="" tvg-name="东森财经新闻" tvg-logo="" group-title="🌏 台湾频道",东森财经新闻
 http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
+#EXTINF:-1 tvg-id="" tvg-name="东森新闻美洲台" tvg-logo="" group-title="🌏 台湾频道",东森新闻美洲台
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="寰宇新闻台" tvg-logo="" group-title="🌏 台湾频道",寰宇新闻台
 http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-logo="" group-title="🌏 台湾频道",民视新闻台
 http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
-
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-logo="" group-title="🌏 台湾频道",民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="三立戏剧" tvg-logo="" group-title="🌏 台湾频道",三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="靖天電影" tvg-logo="" group-title="🌏 台湾频道",靖天電影
