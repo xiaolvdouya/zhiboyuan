@@ -545,6 +545,8 @@ https://ntd01.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 http://rihou.cc:555/tv/[Pd]中天新闻
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="" group-title="🌏 台湾频道",中天新闻
 http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="" group-title="🌏 台湾频道",中天新闻
+http://222.128.55.152:9080/live/fc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东森新闻" tvg-logo="" group-title="🌏 台湾频道",东森新闻
 http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="" tvg-name="东森财经新闻" tvg-logo="" group-title="🌏 台湾频道",东森财经新闻
